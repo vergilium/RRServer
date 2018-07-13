@@ -1,0 +1,88 @@
+02.07.13 04:54:25 >> Сервер запущен. Ожидание входящих подключений.
+02.07.13 04:54:33 >> Подключен клиент: 192.168.10.39
+02.07.13 04:56:17 >> Подключен клиент: 192.168.10.39
+02.07.13 05:00:11 >> Подключен клиент: 192.168.10.39
+02.07.13 05:00:11 >> HookCon_Service сообщает : Game#1025696 Win Number: [28]
+02.07.13 05:00:11 >> HookCon_Service сообщает : Game#1025699/START_EVENT 1025697 End
+02.07.13 05:01:01 >> Сервер запущен. Ожидание входящих подключений.
+02.07.13 05:01:10 >> Подключен клиент: 192.168.10.39
+02.07.13 05:01:10 >> HookCon_Service сообщает : Game#1025698/STOP_EVENT 1025699/START_EVENT 1025699/WIN_EVENT 15 1025699/STOP_EVENT 1025699/START_EVENT 1025700 Win Number: [29]
+02.07.13 05:02:20 >> Сервер запущен. Ожидание входящих подключений.
+02.07.13 05:02:25 >> Подключен клиент: 192.168.10.39
+02.07.13 05:05:08 >> HookCon_Service сообщает : Game#1025701 Start
+02.07.13 05:05:34 >> HookCon_Service сообщает : Game#1025701 Win Number: [13]
+02.07.13 05:05:34 >> HookCon_Service сообщает : Game#1025701 End
+02.07.13 05:06:03 >> HookCon_Service сообщает : Game#1025702 Start
+02.07.13 05:06:34 >> HookCon_Service сообщает : Game#1025702 Win Number: [33]
+02.07.13 05:06:34 >> HookCon_Service сообщает : Game#1025702 End
+02.07.13 05:07:04 >> HookCon_Service сообщает : Game#1025703 Start
+02.07.13 05:07:38 >> HookCon_Service сообщает : Game#1025703 Win Number: [12]
+02.07.13 05:07:38 >> HookCon_Service сообщает : Game#1025703 End
+02.07.13 05:08:08 >> HookCon_Service сообщает : Game#1025704 Start
+02.07.13 05:08:38 >> HookCon_Service сообщает : Game#1025704 Win Number: [15]
+02.07.13 05:08:39 >> HookCon_Service сообщает : Game#1025704 End
+02.07.13 05:09:09 >> HookCon_Service сообщает : Game#1025705 Start
+02.07.13 05:09:33 >> HookCon_Service сообщает : Game#1025705 End
+02.07.13 05:09:33 >> Last Game Win Result has been lost. Sending repeated request
+02.07.13 05:12:31 >> HookCon_Service сообщает : сервис остановлен
+02.07.13 05:12:41 >> HookCon_Service сообщает : сервис остановлен
+02.07.13 05:15:12 >> Подключен клиент: 192.168.10.39
+02.07.13 05:15:39 >> HookCon_Service сообщает : сервис остановлен
+02.07.13 05:15:42 >> HookCon_Service сообщает : сервис остановлен
+02.07.13 05:16:47 >> Подключен клиент: 192.168.10.39
+02.07.13 05:19:33 >> HookCon_Service сообщает : Game#1025706 Start
+02.07.13 05:20:08 >> HookCon_Service сообщает : Game#1025706 Win Number: [30]
+02.07.13 05:20:08 >> HookCon_Service сообщает : Game#1025706 End
+02.07.13 05:20:37 >> HookCon_Service сообщает : Game#1025707 Start
+02.07.13 05:20:40 >> Подключен клиент: 127.0.0.1
+02.07.13 05:21:08 >> HookCon_Service сообщает : Game#1025707 Win Number: [13]
+02.07.13 05:21:08 >> HookCon_Service сообщает : Game#1025707 End
+02.07.13 05:21:39 >> HookCon_Service сообщает : Game#1025708 Start
+02.07.13 05:21:40 >> Guest1 отключен. Причина: Удаленный хост принудительно разорвал существующее подключение
+02.07.13 05:22:15 >> HookCon_Service сообщает : Game#1025708 Win Number: [5]
+02.07.13 05:22:15 >> HookCon_Service сообщает : Game#1025708 End
+02.07.13 05:22:41 >> Подключен клиент: 127.0.0.1
+02.07.13 05:22:44 >> HookCon_Service сообщает : Game#1025709 Start
+02.07.13 05:23:14 >> HookCon_Service сообщает : Game#1025709 Win Number: [19]
+02.07.13 05:23:14 >> HookCon_Service сообщает : Game#1025709 End
+02.07.13 05:23:45 >> HookCon_Service сообщает : Game#1025710 Start
+02.07.13 05:24:13 >> HookCon_Service сообщает : Game#1025710 Win Number: [31]
+02.07.13 05:24:13 >> HookCon_Service сообщает : Game#1025710 End
+02.07.13 05:24:42 >> HookCon_Service сообщает : Game#1025711 Start
+02.07.13 05:25:14 >> HookCon_Service сообщает : Game#1025711 Win Number: [12]
+02.07.13 05:25:15 >> HookCon_Service сообщает : Game#1025711 End
+02.07.13 05:25:45 >> HookCon_Service сообщает : Game#1025712 Start
+02.07.13 05:26:17 >> HookCon_Service сообщает : Game#1025712 Win Number: [32]
+02.07.13 05:26:17 >> HookCon_Service сообщает : Game#1025712 End
+02.07.13 05:26:48 >> HookCon_Service сообщает : Game#1025713 Start
+02.07.13 05:27:17 >> HookCon_Service сообщает : Game#1025713 Win Number: [15]
+02.07.13 05:27:17 >> HookCon_Service сообщает : Game#1025713 End
+02.07.13 05:27:47 >> HookCon_Service сообщает : Game#1025714 Start
+02.07.13 05:28:17 >> HookCon_Service сообщает : Game#1025714 Win Number: [21]
+02.07.13 05:28:17 >> HookCon_Service сообщает : Game#1025714 End
+02.07.13 05:28:47 >> HookCon_Service сообщает : Game#1025715 Start
+02.07.13 05:28:47 >> Web Server отключен. Причина: Удаленный хост принудительно разорвал существующее подключение
+02.07.13 05:29:17 >> HookCon_Service сообщает : Game#1025715 Win Number: [20]
+02.07.13 05:29:18 >> HookCon_Service сообщает : Game#1025715 End
+02.07.13 05:29:47 >> HookCon_Service сообщает : Game#1025716 Start
+02.07.13 05:30:15 >> HookCon_Service сообщает : Game#1025716 Win Number: [20]
+02.07.13 05:30:16 >> HookCon_Service сообщает : Game#1025716 End
+02.07.13 05:30:45 >> HookCon_Service сообщает : Game#1025717 Start
+02.07.13 05:31:13 >> HookCon_Service сообщает : Game#1025717 Win Number: [4]
+02.07.13 05:31:13 >> HookCon_Service сообщает : Game#1025717 End
+02.07.13 05:31:42 >> HookCon_Service сообщает : Game#1025718 Start
+02.07.13 05:32:07 >> HookCon_Service сообщает : Game#1025718 Win Number: [27]
+02.07.13 05:32:08 >> HookCon_Service сообщает : Game#1025718 End
+02.07.13 05:32:38 >> HookCon_Service сообщает : Game#1025719 Start
+02.07.13 05:33:06 >> HookCon_Service сообщает : Game#1025719 Win Number: [1]
+02.07.13 05:33:07 >> HookCon_Service сообщает : Game#1025719 End
+02.07.13 05:33:37 >> HookCon_Service сообщает : Game#1025720 Start
+02.07.13 05:33:50 >> Сервер остановлен! Все входящие подключения разорваны.
+02.07.13 05:50:43 >> Сервер запущен. Ожидание входящих подключений.
+02.07.13 05:50:55 >> Подключен клиент: 127.0.0.1
+02.07.13 05:51:26 >> Подключен клиент: 192.168.10.39
+02.07.13 05:51:26 >> HookCon_Service сообщает : Game#1025737 Start
+02.07.13 05:51:26 >> HookCon_Service сообщает : Game#1025737/STOP_EVENT 1025737/START_EVENT 1025738/ERR_PROGRAM -255955 Win Number: [1]
+02.07.13 05:51:42 >> Сервер запущен. Ожидание входящих подключений.
+02.07.13 05:52:47 >> Сервер запущен. Ожидание входящих подключений.
+02.07.13 05:52:55 >> Подключен клиент: 192.168.10.39

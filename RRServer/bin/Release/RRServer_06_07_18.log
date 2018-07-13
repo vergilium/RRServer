@@ -1,0 +1,206 @@
+06.07.18 05:58:18 >> Error: При установлении соединения с SQL Server произошла ошибка, связанная с сетью или с определенным экземпляром. Сервер не найден или недоступен. Убедитесь, что имя экземпляра указано правильно и что на SQL Server разрешены удаленные соединения. (provider: Поставщик TCP, error: 0 - Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера.) in MSSQL.vb. More Info:System.Data.SqlClient.SqlException: При установлении соединения с SQL Server произошла ошибка, связанная с сетью или с определенным экземпляром. Сервер не найден или недоступен. Убедитесь, что имя экземпляра указано правильно и что на SQL Server разрешены удаленные соединения. (provider: Поставщик TCP, error: 0 - Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера.)
+   в System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   в System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   в System.Data.SqlClient.TdsParser.Connect(ServerInfo serverInfo, SqlInternalConnectionTds connHandler, Boolean ignoreSniOpenTimeout, Int64 timerExpire, Boolean encrypt, Boolean trustServerCert, Boolean integratedSecurity, SqlConnection owningObject, Boolean withFailover)
+   в System.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, Boolean ignoreSniOpenTimeout, Int64 timerExpire, SqlConnection owningObject, Boolean withFailover)
+   в System.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(String host, String newPassword, Boolean redirectedUserInstance, SqlConnection owningObject, SqlConnectionString connectionOptions, Int64 timerStart)
+   в System.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(SqlConnection owningObject, SqlConnectionString connectionOptions, String newPassword, Boolean redirectedUserInstance)
+   в System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, Object providerInfo, String newPassword, SqlConnection owningObject, Boolean redirectedUserInstance)
+   в System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection)
+   в System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnection owningConnection, DbConnectionPool pool, DbConnectionOptions options)
+   в System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject)
+   в System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject)
+   в System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   в System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   в System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   в System.Data.SqlClient.SqlConnection.Open()
+   в RRServer.MSSQL.Connect() в D:\PROJECT\RRServer-beta1\RRServer\RRServer\MSSQL.vb:строка 14
+06.07.18 05:58:18 >> Can't connect to MSSQL Database
+06.07.18 05:58:18 >> Server is running. Waiting for incoming connections.
+06.07.18 06:04:21 >> Server stopped! All clients disconnected.
+06.07.18 06:04:58 >> Error: При установлении соединения с SQL Server произошла ошибка, связанная с сетью или с определенным экземпляром. Сервер не найден или недоступен. Убедитесь, что имя экземпляра указано правильно и что на SQL Server разрешены удаленные соединения. (provider: Поставщик TCP, error: 0 - Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера.) in MSSQL.vb. More Info:System.Data.SqlClient.SqlException: При установлении соединения с SQL Server произошла ошибка, связанная с сетью или с определенным экземпляром. Сервер не найден или недоступен. Убедитесь, что имя экземпляра указано правильно и что на SQL Server разрешены удаленные соединения. (provider: Поставщик TCP, error: 0 - Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера.)
+   в System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   в System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   в System.Data.SqlClient.TdsParser.Connect(ServerInfo serverInfo, SqlInternalConnectionTds connHandler, Boolean ignoreSniOpenTimeout, Int64 timerExpire, Boolean encrypt, Boolean trustServerCert, Boolean integratedSecurity, SqlConnection owningObject, Boolean withFailover)
+   в System.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, Boolean ignoreSniOpenTimeout, Int64 timerExpire, SqlConnection owningObject, Boolean withFailover)
+   в System.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(String host, String newPassword, Boolean redirectedUserInstance, SqlConnection owningObject, SqlConnectionString connectionOptions, Int64 timerStart)
+   в System.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(SqlConnection owningObject, SqlConnectionString connectionOptions, String newPassword, Boolean redirectedUserInstance)
+   в System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, Object providerInfo, String newPassword, SqlConnection owningObject, Boolean redirectedUserInstance)
+   в System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection)
+   в System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnection owningConnection, DbConnectionPool pool, DbConnectionOptions options)
+   в System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject)
+   в System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject)
+   в System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   в System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   в System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   в System.Data.SqlClient.SqlConnection.Open()
+   в RRServer.MSSQL.Connect() в D:\PROJECT\RRServer-beta1\RRServer\RRServer\MSSQL.vb:строка 14
+06.07.18 06:04:58 >> Can't connect to MSSQL Database
+06.07.18 06:04:58 >> Server is running. Waiting for incoming connections.
+06.07.18 06:05:06 >> Server stopped! All clients disconnected.
+06.07.18 06:06:11 >> Error: При установлении соединения с SQL Server произошла ошибка, связанная с сетью или с определенным экземпляром. Сервер не найден или недоступен. Убедитесь, что имя экземпляра указано правильно и что на SQL Server разрешены удаленные соединения. (provider: Поставщик TCP, error: 0 - Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение.) in MSSQL.vb. More Info:System.Data.SqlClient.SqlException: При установлении соединения с SQL Server произошла ошибка, связанная с сетью или с определенным экземпляром. Сервер не найден или недоступен. Убедитесь, что имя экземпляра указано правильно и что на SQL Server разрешены удаленные соединения. (provider: Поставщик TCP, error: 0 - Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение.)
+   в System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   в System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   в System.Data.SqlClient.TdsParser.Connect(ServerInfo serverInfo, SqlInternalConnectionTds connHandler, Boolean ignoreSniOpenTimeout, Int64 timerExpire, Boolean encrypt, Boolean trustServerCert, Boolean integratedSecurity, SqlConnection owningObject, Boolean withFailover)
+   в System.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, Boolean ignoreSniOpenTimeout, Int64 timerExpire, SqlConnection owningObject, Boolean withFailover)
+   в System.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(String host, String newPassword, Boolean redirectedUserInstance, SqlConnection owningObject, SqlConnectionString connectionOptions, Int64 timerStart)
+   в System.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(SqlConnection owningObject, SqlConnectionString connectionOptions, String newPassword, Boolean redirectedUserInstance)
+   в System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, Object providerInfo, String newPassword, SqlConnection owningObject, Boolean redirectedUserInstance)
+   в System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection)
+   в System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnection owningConnection, DbConnectionPool pool, DbConnectionOptions options)
+   в System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject)
+   в System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject)
+   в System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   в System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   в System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   в System.Data.SqlClient.SqlConnection.Open()
+   в RRServer.MSSQL.Connect() в D:\PROJECT\RRServer-beta1\RRServer\RRServer\MSSQL.vb:строка 14
+06.07.18 06:06:11 >> Can't connect to MSSQL Database
+06.07.18 06:06:11 >> Server is running. Waiting for incoming connections.
+06.07.18 06:10:02 >> Server stopped! All clients disconnected.
+06.07.18 06:17:09 >> Error: При установлении соединения с SQL Server произошла ошибка, связанная с сетью или с определенным экземпляром. Сервер не найден или недоступен. Убедитесь, что имя экземпляра указано правильно и что на SQL Server разрешены удаленные соединения. (provider: Поставщик именованных каналов, error: 40 - Не удалось открыть подключение к SQL Server) in MSSQL.vb. More Info:System.Data.SqlClient.SqlException: При установлении соединения с SQL Server произошла ошибка, связанная с сетью или с определенным экземпляром. Сервер не найден или недоступен. Убедитесь, что имя экземпляра указано правильно и что на SQL Server разрешены удаленные соединения. (provider: Поставщик именованных каналов, error: 40 - Не удалось открыть подключение к SQL Server)
+   в System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   в System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   в System.Data.SqlClient.TdsParser.Connect(ServerInfo serverInfo, SqlInternalConnectionTds connHandler, Boolean ignoreSniOpenTimeout, Int64 timerExpire, Boolean encrypt, Boolean trustServerCert, Boolean integratedSecurity, SqlConnection owningObject, Boolean withFailover)
+   в System.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, Boolean ignoreSniOpenTimeout, Int64 timerExpire, SqlConnection owningObject, Boolean withFailover)
+   в System.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(String host, String newPassword, Boolean redirectedUserInstance, SqlConnection owningObject, SqlConnectionString connectionOptions, Int64 timerStart)
+   в System.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(SqlConnection owningObject, SqlConnectionString connectionOptions, String newPassword, Boolean redirectedUserInstance)
+   в System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, Object providerInfo, String newPassword, SqlConnection owningObject, Boolean redirectedUserInstance)
+   в System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection)
+   в System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnection owningConnection, DbConnectionPool pool, DbConnectionOptions options)
+   в System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject)
+   в System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject)
+   в System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   в System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   в System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   в System.Data.SqlClient.SqlConnection.Open()
+   в RRServer.MSSQL.Connect() в D:\PROJECT\RRServer-beta1\RRServer\RRServer\MSSQL.vb:строка 14
+06.07.18 06:17:09 >> Can't connect to MSSQL Database
+06.07.18 06:17:09 >> Server is running. Waiting for incoming connections.
+06.07.18 10:54:29 >> Error: При установлении соединения с SQL Server произошла ошибка, связанная с сетью или с определенным экземпляром. Сервер не найден или недоступен. Убедитесь, что имя экземпляра указано правильно и что на SQL Server разрешены удаленные соединения. (provider: Поставщик именованных каналов, error: 40 - Не удалось открыть подключение к SQL Server) in MSSQL.vb. More Info:System.Data.SqlClient.SqlException: При установлении соединения с SQL Server произошла ошибка, связанная с сетью или с определенным экземпляром. Сервер не найден или недоступен. Убедитесь, что имя экземпляра указано правильно и что на SQL Server разрешены удаленные соединения. (provider: Поставщик именованных каналов, error: 40 - Не удалось открыть подключение к SQL Server)
+   в System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   в System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   в System.Data.SqlClient.TdsParser.Connect(ServerInfo serverInfo, SqlInternalConnectionTds connHandler, Boolean ignoreSniOpenTimeout, Int64 timerExpire, Boolean encrypt, Boolean trustServerCert, Boolean integratedSecurity, SqlConnection owningObject, Boolean withFailover)
+   в System.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, Boolean ignoreSniOpenTimeout, Int64 timerExpire, SqlConnection owningObject, Boolean withFailover)
+   в System.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(String host, String newPassword, Boolean redirectedUserInstance, SqlConnection owningObject, SqlConnectionString connectionOptions, Int64 timerStart)
+   в System.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(SqlConnection owningObject, SqlConnectionString connectionOptions, String newPassword, Boolean redirectedUserInstance)
+   в System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, Object providerInfo, String newPassword, SqlConnection owningObject, Boolean redirectedUserInstance)
+   в System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection)
+   в System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnection owningConnection, DbConnectionPool pool, DbConnectionOptions options)
+   в System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject)
+   в System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject)
+   в System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   в System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   в System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   в System.Data.SqlClient.SqlConnection.Open()
+   в RRServer.MSSQL.Connect() в D:\PROJECT\RRServer-beta1\RRServer\RRServer\MSSQL.vb:строка 14
+06.07.18 10:54:29 >> Can't connect to MSSQL Database
+06.07.18 10:54:29 >> Server is running. Waiting for incoming connections.
+06.07.18 10:54:29 >> Client was connected: 192.168.159.192
+06.07.18 10:54:30 >> HookCon LastNums:23,5,9,18,4,9,1,19,12,19,29,31,22,30,16,24,
+06.07.18 10:54:30 >> Server LastNums:24,16,30,22,31,29,19,12,19,1,9,4,18,
+06.07.18 11:00:31 >> Error: При установлении соединения с SQL Server произошла ошибка, связанная с сетью или с определенным экземпляром. Сервер не найден или недоступен. Убедитесь, что имя экземпляра указано правильно и что на SQL Server разрешены удаленные соединения. (provider: Поставщик именованных каналов, error: 40 - Не удалось открыть подключение к SQL Server) in MSSQL.vb. More Info:System.Data.SqlClient.SqlException: При установлении соединения с SQL Server произошла ошибка, связанная с сетью или с определенным экземпляром. Сервер не найден или недоступен. Убедитесь, что имя экземпляра указано правильно и что на SQL Server разрешены удаленные соединения. (provider: Поставщик именованных каналов, error: 40 - Не удалось открыть подключение к SQL Server)
+   в System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   в System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   в System.Data.SqlClient.TdsParser.Connect(ServerInfo serverInfo, SqlInternalConnectionTds connHandler, Boolean ignoreSniOpenTimeout, Int64 timerExpire, Boolean encrypt, Boolean trustServerCert, Boolean integratedSecurity, SqlConnection owningObject, Boolean withFailover)
+   в System.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, Boolean ignoreSniOpenTimeout, Int64 timerExpire, SqlConnection owningObject, Boolean withFailover)
+   в System.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(String host, String newPassword, Boolean redirectedUserInstance, SqlConnection owningObject, SqlConnectionString connectionOptions, Int64 timerStart)
+   в System.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(SqlConnection owningObject, SqlConnectionString connectionOptions, String newPassword, Boolean redirectedUserInstance)
+   в System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, Object providerInfo, String newPassword, SqlConnection owningObject, Boolean redirectedUserInstance)
+   в System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection)
+   в System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnection owningConnection, DbConnectionPool pool, DbConnectionOptions options)
+   в System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject)
+   в System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject)
+   в System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   в System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   в System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   в System.Data.SqlClient.SqlConnection.Open()
+   в RRServer.MSSQL.Connect() в D:\PROJECT\RRServer-beta1\RRServer\RRServer\MSSQL.vb:строка 14
+06.07.18 11:00:31 >> Can't connect to MSSQL Database
+06.07.18 11:00:31 >> Server is running. Waiting for incoming connections.
+06.07.18 11:00:34 >> Client was connected: 192.168.159.192
+06.07.18 11:00:34 >> HookCon LastNums:5,9,18,4,9,1,19,12,19,29,31,22,30,16,24,32,
+06.07.18 11:00:34 >> Server LastNums:32,24,16,30,22,31,29,19,12,19,1,9,4,
+06.07.18 11:02:12 >> Error: При установлении соединения с SQL Server произошла ошибка, связанная с сетью или с определенным экземпляром. Сервер не найден или недоступен. Убедитесь, что имя экземпляра указано правильно и что на SQL Server разрешены удаленные соединения. (provider: Поставщик именованных каналов, error: 40 - Не удалось открыть подключение к SQL Server) in MSSQL.vb. More Info:System.Data.SqlClient.SqlException: При установлении соединения с SQL Server произошла ошибка, связанная с сетью или с определенным экземпляром. Сервер не найден или недоступен. Убедитесь, что имя экземпляра указано правильно и что на SQL Server разрешены удаленные соединения. (provider: Поставщик именованных каналов, error: 40 - Не удалось открыть подключение к SQL Server)
+   в System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   в System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   в System.Data.SqlClient.TdsParser.Connect(ServerInfo serverInfo, SqlInternalConnectionTds connHandler, Boolean ignoreSniOpenTimeout, Int64 timerExpire, Boolean encrypt, Boolean trustServerCert, Boolean integratedSecurity, SqlConnection owningObject, Boolean withFailover)
+   в System.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, Boolean ignoreSniOpenTimeout, Int64 timerExpire, SqlConnection owningObject, Boolean withFailover)
+   в System.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(String host, String newPassword, Boolean redirectedUserInstance, SqlConnection owningObject, SqlConnectionString connectionOptions, Int64 timerStart)
+   в System.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(SqlConnection owningObject, SqlConnectionString connectionOptions, String newPassword, Boolean redirectedUserInstance)
+   в System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, Object providerInfo, String newPassword, SqlConnection owningObject, Boolean redirectedUserInstance)
+   в System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection)
+   в System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnection owningConnection, DbConnectionPool pool, DbConnectionOptions options)
+   в System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject)
+   в System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject)
+   в System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   в System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   в System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   в System.Data.SqlClient.SqlConnection.Open()
+   в RRServer.MSSQL.Connect() в D:\PROJECT\RRServer-beta1\RRServer\RRServer\MSSQL.vb:строка 14
+06.07.18 11:02:12 >> Can't connect to MSSQL Database
+06.07.18 11:02:12 >> Server is running. Waiting for incoming connections.
+06.07.18 11:02:25 >> Client was connected: 192.168.159.192
+06.07.18 11:02:28 >> HookCon LastNums:9,18,4,9,1,19,12,19,29,31,22,30,16,24,32,7,
+06.07.18 11:02:28 >> Server LastNums:7,32,24,16,30,22,31,29,19,12,19,1,9,
+06.07.18 11:07:52 >> Error: При установлении соединения с SQL Server произошла ошибка, связанная с сетью или с определенным экземпляром. Сервер не найден или недоступен. Убедитесь, что имя экземпляра указано правильно и что на SQL Server разрешены удаленные соединения. (provider: Поставщик именованных каналов, error: 40 - Не удалось открыть подключение к SQL Server) in MSSQL.vb. More Info:System.Data.SqlClient.SqlException: При установлении соединения с SQL Server произошла ошибка, связанная с сетью или с определенным экземпляром. Сервер не найден или недоступен. Убедитесь, что имя экземпляра указано правильно и что на SQL Server разрешены удаленные соединения. (provider: Поставщик именованных каналов, error: 40 - Не удалось открыть подключение к SQL Server)
+   в System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   в System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   в System.Data.SqlClient.TdsParser.Connect(ServerInfo serverInfo, SqlInternalConnectionTds connHandler, Boolean ignoreSniOpenTimeout, Int64 timerExpire, Boolean encrypt, Boolean trustServerCert, Boolean integratedSecurity, SqlConnection owningObject, Boolean withFailover)
+   в System.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, Boolean ignoreSniOpenTimeout, Int64 timerExpire, SqlConnection owningObject, Boolean withFailover)
+   в System.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(String host, String newPassword, Boolean redirectedUserInstance, SqlConnection owningObject, SqlConnectionString connectionOptions, Int64 timerStart)
+   в System.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(SqlConnection owningObject, SqlConnectionString connectionOptions, String newPassword, Boolean redirectedUserInstance)
+   в System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, Object providerInfo, String newPassword, SqlConnection owningObject, Boolean redirectedUserInstance)
+   в System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection)
+   в System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnection owningConnection, DbConnectionPool pool, DbConnectionOptions options)
+   в System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject)
+   в System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject)
+   в System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   в System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   в System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   в System.Data.SqlClient.SqlConnection.Open()
+   в RRServer.MSSQL.Connect() в D:\PROJECT\RRServer-beta1\RRServer\RRServer\MSSQL.vb:строка 14
+06.07.18 11:07:52 >> Can't connect to MSSQL Database
+06.07.18 11:07:52 >> Server is running. Waiting for incoming connections.
+06.07.18 11:07:52 >> Client was connected: 192.168.159.192
+06.07.18 11:07:53 >> HookCon LastNums:18,4,9,1,19,12,19,29,31,22,30,16,24,32,7,16,
+06.07.18 11:07:53 >> Server LastNums:16,7,32,24,16,30,22,31,29,19,12,19,1,
+06.07.18 11:13:03 >> Error: Не удается открыть базу данных "RBASE", запрашиваемую именем входа. Не удалось выполнить вход.
+При входе в систему пользователя "rserver" произошла ошибка. in MSSQL.vb. More Info:System.Data.SqlClient.SqlException: Не удается открыть базу данных "RBASE", запрашиваемую именем входа. Не удалось выполнить вход.
+При входе в систему пользователя "rserver" произошла ошибка.
+   в System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   в System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   в System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   в System.Data.SqlClient.SqlInternalConnectionTds.CompleteLogin(Boolean enlistOK)
+   в System.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, Boolean ignoreSniOpenTimeout, Int64 timerExpire, SqlConnection owningObject, Boolean withFailover)
+   в System.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(String host, String newPassword, Boolean redirectedUserInstance, SqlConnection owningObject, SqlConnectionString connectionOptions, Int64 timerStart)
+   в System.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(SqlConnection owningObject, SqlConnectionString connectionOptions, String newPassword, Boolean redirectedUserInstance)
+   в System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, Object providerInfo, String newPassword, SqlConnection owningObject, Boolean redirectedUserInstance)
+   в System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection)
+   в System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnection owningConnection, DbConnectionPool pool, DbConnectionOptions options)
+   в System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject)
+   в System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject)
+   в System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   в System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   в System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   в System.Data.SqlClient.SqlConnection.Open()
+   в RRServer.MSSQL.Connect() в D:\PROJECT\RRServer-beta1\RRServer\RRServer\MSSQL.vb:строка 14
+06.07.18 11:13:03 >> Can't connect to MSSQL Database
+06.07.18 11:13:03 >> Server is running. Waiting for incoming connections.
+06.07.18 11:13:05 >> Client was connected: 192.168.159.192
+06.07.18 11:13:05 >> HookCon LastNums:4,9,1,19,12,19,29,31,22,30,16,24,32,7,16,16,
+06.07.18 11:13:05 >> Server LastNums:16,16,7,32,24,16,30,22,31,29,19,12,19,
+06.07.18 11:14:12 >> [HookCon_Service] : Game#174149 Win Number: [15]
+06.07.18 11:14:13 >> [HookCon_Service] : Game#174149 End
+06.07.18 11:17:39 >> [HookCon_Service] : Game#174150 Start
+06.07.18 11:18:12 >> [HookCon_Service] : Game#174150 Win Number: [10]
+06.07.18 11:18:13 >> [HookCon_Service] : Game#174150 End
+06.07.18 11:21:40 >> [HookCon_Service] : Game#174151 Start
+06.07.18 11:22:11 >> [HookCon_Service] : Game#174151 Win Number: [0]
+06.07.18 11:22:11 >> [HookCon_Service] : Game#174151 End
+06.07.18 11:22:37 >> [HookCon_Service] : Disconnected. Reason: System.EventArgs. All Web-clients disconnected.
+06.07.18 11:22:37 >> Server stopped! All clients disconnected.
+06.07.18 11:22:42 >> Server is running. Waiting for incoming connections.
+06.07.18 11:23:07 >> Client was connected: 192.168.159.192
+06.07.18 11:23:08 >> HookCon LastNums:19,12,19,29,31,22,30,16,24,32,7,16,16,15,10,0,
+06.07.18 11:23:08 >> Server LastNums:0,10,15,16,16,7,32,24,16,30,22,31,29,

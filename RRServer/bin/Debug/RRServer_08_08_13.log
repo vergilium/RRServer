@@ -1,0 +1,7 @@
+08.08.13 11:01:11 >> Web Server [logoff]
+08.08.13 11:01:23 >> 192.168.10.13 [logon]
+08.08.13 03:46:28 >> Server is running. Waiting for incoming connections.
+08.08.13 03:46:34 >> Client was connected: 127.0.0.1
+08.08.13 04:26:19 >> 192.168.10.13 [logon]
+08.08.13 04:26:46 >> [Web Server] : Disconnected. Reason: System.EventArgs
+08.08.13 04:49:07 >> Client was connected: 127.0.0.1

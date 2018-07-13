@@ -1,0 +1,48 @@
+30.08.13 10:10:12 >> Server is running. Waiting for incoming connections.
+30.08.13 10:10:23 >> Client was connected: 127.0.0.1
+30.08.13 10:10:31 >> 192.168.10.13 [logon]
+30.08.13 10:14:53 >> 192.168.10.3 [logon]
+30.08.13 10:15:39 >> [Web Server] : Disconnected. Reason: System.EventArgs
+30.08.13 10:15:39 >> [Web Server] : Disconnected. Reason: Удаленный хост принудительно разорвал существующее подключение
+30.08.13 10:16:46 >> Client was connected: 127.0.0.1
+30.08.13 10:16:55 >> [Web Server] : Disconnected. Reason: System.EventArgs
+30.08.13 10:16:55 >> [Web Server] : Disconnected. Reason: Удаленный хост принудительно разорвал существующее подключение
+30.08.13 10:17:06 >> Server is running. Waiting for incoming connections.
+30.08.13 10:17:09 >> Client was connected: 127.0.0.1
+30.08.13 10:17:16 >> 192.168.10.13 [logon]
+30.08.13 10:24:07 >> 192.168.10.31 [logon]
+30.08.13 10:37:58 >> Server is running. Waiting for incoming connections.
+30.08.13 10:38:04 >> Client was connected: 127.0.0.1
+30.08.13 10:38:09 >> 192.168.10.31 [logon]
+30.08.13 10:38:09 >> 192.168.10.13 [logon]
+30.08.13 10:39:27 >> Server is running. Waiting for incoming connections.
+30.08.13 10:39:35 >> Client was connected: 127.0.0.1
+30.08.13 10:39:48 >> 192.168.10.13 [logon]
+30.08.13 10:43:41 >> 192.168.10.31 [logon]
+30.08.13 10:45:17 >> Server is running. Waiting for incoming connections.
+30.08.13 10:45:26 >> Client was connected: 127.0.0.1
+30.08.13 10:45:38 >> 192.168.10.31 [logon]
+30.08.13 10:45:39 >> 192.168.10.13 [logon]
+30.08.13 10:48:54 >> Server is running. Waiting for incoming connections.
+30.08.13 10:49:03 >> Client was connected: 127.0.0.1
+30.08.13 10:49:16 >> 192.168.10.31 [logon]
+30.08.13 10:52:36 >> Server is running. Waiting for incoming connections.
+30.08.13 10:52:44 >> Client was connected: 127.0.0.1
+30.08.13 10:52:58 >> 192.168.10.31 [logon]
+30.08.13 10:59:35 >> 192.168.10.3 [logon]
+30.08.13 11:05:33 >> Server is running. Waiting for incoming connections.
+30.08.13 11:05:44 >> Client was connected: 127.0.0.1
+30.08.13 11:05:53 >> 192.168.10.3 [logon]
+30.08.13 11:05:54 >> 192.168.10.31 [logon]
+30.08.13 11:11:21 >> Server is running. Waiting for incoming connections.
+30.08.13 11:11:37 >> Client was connected: 127.0.0.1
+30.08.13 11:11:49 >> 192.168.10.3 [logon]
+30.08.13 11:11:50 >> 192.168.10.31 [logon]
+30.08.13 11:20:52 >> 192.168.10.13 [logon]
+30.08.13 11:23:12 >> Server is running. Waiting for incoming connections.
+30.08.13 11:26:06 >> Server is running. Waiting for incoming connections.
+30.08.13 02:35:48 >> Server is running. Waiting for incoming connections.
+30.08.13 02:41:52 >> Server is running. Waiting for incoming connections.
+30.08.13 02:42:17 >> Server is running. Waiting for incoming connections.
+30.08.13 02:43:34 >> Server is running. Waiting for incoming connections.
+30.08.13 02:44:23 >> Server is running. Waiting for incoming connections.

@@ -1,0 +1,308 @@
+06.07.18 06:28:45 >> Error: При установлении соединения с SQL Server произошла ошибка, связанная с сетью или с определенным экземпляром. Сервер не найден или недоступен. Убедитесь, что имя экземпляра указано правильно и что на SQL Server разрешены удаленные соединения. (provider: Поставщик TCP, error: 0 - Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера.) in MSSQL.vb. More Info:System.Data.SqlClient.SqlException: При установлении соединения с SQL Server произошла ошибка, связанная с сетью или с определенным экземпляром. Сервер не найден или недоступен. Убедитесь, что имя экземпляра указано правильно и что на SQL Server разрешены удаленные соединения. (provider: Поставщик TCP, error: 0 - Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера.)
+   в System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   в System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   в System.Data.SqlClient.TdsParser.Connect(ServerInfo serverInfo, SqlInternalConnectionTds connHandler, Boolean ignoreSniOpenTimeout, Int64 timerExpire, Boolean encrypt, Boolean trustServerCert, Boolean integratedSecurity, SqlConnection owningObject, Boolean withFailover)
+   в System.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, Boolean ignoreSniOpenTimeout, Int64 timerExpire, SqlConnection owningObject, Boolean withFailover)
+   в System.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(String host, String newPassword, Boolean redirectedUserInstance, SqlConnection owningObject, SqlConnectionString connectionOptions, Int64 timerStart)
+   в System.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(SqlConnection owningObject, SqlConnectionString connectionOptions, String newPassword, Boolean redirectedUserInstance)
+   в System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, Object providerInfo, String newPassword, SqlConnection owningObject, Boolean redirectedUserInstance)
+   в System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection)
+   в System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnection owningConnection, DbConnectionPool pool, DbConnectionOptions options)
+   в System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject)
+   в System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject)
+   в System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   в System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   в System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   в System.Data.SqlClient.SqlConnection.Open()
+   в RRServer.MSSQL.Connect() в C:\Users\Admin\Documents\Visual Studio 2008\Projects\RRServer\RRServer\MSSQL.vb:строка 14
+06.07.18 06:28:46 >> Can't connect to MSSQL Database
+06.07.18 06:28:46 >> Server is running. Waiting for incoming connections.
+06.07.18 07:08:02 >> Error: При установлении соединения с SQL Server произошла ошибка, связанная с сетью или с определенным экземпляром. Сервер не найден или недоступен. Убедитесь, что имя экземпляра указано правильно и что на SQL Server разрешены удаленные соединения. (provider: Поставщик TCP, error: 0 - Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера.) in MSSQL.vb. More Info:System.Data.SqlClient.SqlException: При установлении соединения с SQL Server произошла ошибка, связанная с сетью или с определенным экземпляром. Сервер не найден или недоступен. Убедитесь, что имя экземпляра указано правильно и что на SQL Server разрешены удаленные соединения. (provider: Поставщик TCP, error: 0 - Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера.)
+   в System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   в System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   в System.Data.SqlClient.TdsParser.Connect(ServerInfo serverInfo, SqlInternalConnectionTds connHandler, Boolean ignoreSniOpenTimeout, Int64 timerExpire, Boolean encrypt, Boolean trustServerCert, Boolean integratedSecurity, SqlConnection owningObject, Boolean withFailover)
+   в System.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, Boolean ignoreSniOpenTimeout, Int64 timerExpire, SqlConnection owningObject, Boolean withFailover)
+   в System.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(String host, String newPassword, Boolean redirectedUserInstance, SqlConnection owningObject, SqlConnectionString connectionOptions, Int64 timerStart)
+   в System.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(SqlConnection owningObject, SqlConnectionString connectionOptions, String newPassword, Boolean redirectedUserInstance)
+   в System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, Object providerInfo, String newPassword, SqlConnection owningObject, Boolean redirectedUserInstance)
+   в System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection)
+   в System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnection owningConnection, DbConnectionPool pool, DbConnectionOptions options)
+   в System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject)
+   в System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject)
+   в System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   в System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   в System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   в System.Data.SqlClient.SqlConnection.Open()
+   в RRServer.MSSQL.Connect() в C:\Users\Admin\Documents\Visual Studio 2008\Projects\RRServer\RRServer\MSSQL.vb:строка 14
+06.07.18 07:08:02 >> Can't connect to MSSQL Database
+06.07.18 07:08:02 >> Server is running. Waiting for incoming connections.
+06.07.18 07:08:07 >> Client was connected: 192.168.159.192
+06.07.18 07:08:07 >> HookCon LastNums:-1
+06.07.18 07:08:07 >> Server LastNums:
+06.07.18 07:08:50 >> [HookCon_Service] : Game#174088 Win Number: [14]
+06.07.18 07:08:51 >> [HookCon_Service] : Game#174088 End
+06.07.18 07:12:15 >> [HookCon_Service] : Game#174089 Start
+06.07.18 07:12:52 >> [HookCon_Service] : Game#174089 Win Number: [25]
+06.07.18 07:12:52 >> [HookCon_Service] : Game#174089 End
+06.07.18 07:16:19 >> [HookCon_Service] : Game#174090 Start
+06.07.18 07:16:53 >> [HookCon_Service] : Game#174090 Win Number: [0]
+06.07.18 07:16:53 >> [HookCon_Service] : Game#174090 End
+06.07.18 07:20:19 >> [HookCon_Service] : Game#174091 Start
+06.07.18 07:20:54 >> [HookCon_Service] : Game#174091 Win Number: [33]
+06.07.18 07:20:54 >> [HookCon_Service] : Game#174091 End
+06.07.18 07:24:20 >> [HookCon_Service] : Game#174092 Start
+06.07.18 07:24:55 >> [HookCon_Service] : Game#174092 Win Number: [7]
+06.07.18 07:24:55 >> [HookCon_Service] : Game#174092 End
+06.07.18 07:28:23 >> [HookCon_Service] : Game#174093 Start
+06.07.18 07:28:55 >> [HookCon_Service] : Game#174093 Win Number: [10]
+06.07.18 07:28:56 >> [HookCon_Service] : Game#174093 End
+06.07.18 07:32:23 >> [HookCon_Service] : Game#174094 Start
+06.07.18 07:32:55 >> [HookCon_Service] : Game#174094 Win Number: [3]
+06.07.18 07:32:55 >> [HookCon_Service] : Game#174094 End
+06.07.18 07:36:21 >> [HookCon_Service] : Game#174095 Start
+06.07.18 07:36:58 >> [HookCon_Service] : Game#174095 Win Number: [25]
+06.07.18 07:36:58 >> [HookCon_Service] : Game#174095 End
+06.07.18 07:40:24 >> [HookCon_Service] : Game#174096 Start
+06.07.18 07:40:58 >> [HookCon_Service] : Game#174096 Win Number: [22]
+06.07.18 07:40:59 >> [HookCon_Service] : Game#174096 End
+06.07.18 07:44:25 >> [HookCon_Service] : Game#174097 Start
+06.07.18 07:44:58 >> [HookCon_Service] : Game#174097 Win Number: [11]
+06.07.18 07:44:58 >> [HookCon_Service] : Game#174097 End
+06.07.18 07:48:22 >> [HookCon_Service] : Game#174098 Start
+06.07.18 07:49:01 >> [HookCon_Service] : Game#174098 Win Number: [22]
+06.07.18 07:49:02 >> [HookCon_Service] : Game#174098 End
+06.07.18 07:52:27 >> [HookCon_Service] : Game#174099 Start
+06.07.18 07:53:01 >> [HookCon_Service] : Game#174099 Win Number: [26]
+06.07.18 07:53:02 >> [HookCon_Service] : Game#174099 End
+06.07.18 07:56:28 >> [HookCon_Service] : Game#174100 Start
+06.07.18 07:57:02 >> [HookCon_Service] : Game#174100 Win Number: [1]
+06.07.18 07:57:02 >> [HookCon_Service] : Game#174100 End
+06.07.18 08:00:25 >> [HookCon_Service] : Game#174101 Start
+06.07.18 08:01:03 >> [HookCon_Service] : Game#174101 Win Number: [7]
+06.07.18 08:01:03 >> [HookCon_Service] : Game#174101 End
+06.07.18 08:04:30 >> [HookCon_Service] : Game#174102 Start
+06.07.18 08:05:05 >> [HookCon_Service] : Game#174102 Win Number: [4]
+06.07.18 08:05:06 >> [HookCon_Service] : Game#174102 End
+06.07.18 08:08:31 >> [HookCon_Service] : Game#174103 Start
+06.07.18 08:09:08 >> [HookCon_Service] : Game#174103 Win Number: [4]
+06.07.18 08:09:08 >> [HookCon_Service] : Game#174103 End
+06.07.18 08:12:35 >> [HookCon_Service] : Game#174104 Start
+06.07.18 08:13:10 >> [HookCon_Service] : Game#174104 Win Number: [8]
+06.07.18 08:13:10 >> [HookCon_Service] : Game#174104 End
+06.07.18 08:16:33 >> [HookCon_Service] : Game#174105 Start
+06.07.18 08:17:12 >> [HookCon_Service] : Game#174105 Win Number: [6]
+06.07.18 08:17:12 >> [HookCon_Service] : Game#174105 End
+06.07.18 08:20:36 >> [HookCon_Service] : Game#174106 Start
+06.07.18 08:21:15 >> [HookCon_Service] : Game#174106 Win Number: [22]
+06.07.18 08:21:15 >> [HookCon_Service] : Game#174106 End
+06.07.18 08:24:42 >> [HookCon_Service] : Game#174107 Start
+06.07.18 08:25:16 >> [HookCon_Service] : Game#174107 Win Number: [24]
+06.07.18 08:25:16 >> [HookCon_Service] : Game#174107 End
+06.07.18 08:28:41 >> [HookCon_Service] : Game#174108 Start
+06.07.18 08:29:19 >> [HookCon_Service] : Game#174108 Win Number: [28]
+06.07.18 08:29:19 >> [HookCon_Service] : Game#174108 End
+06.07.18 08:32:45 >> [HookCon_Service] : Game#174109 Start
+06.07.18 08:33:22 >> [HookCon_Service] : Game#174109 Win Number: [16]
+06.07.18 08:33:23 >> [HookCon_Service] : Game#174109 End
+06.07.18 08:36:48 >> [HookCon_Service] : Game#174110 Start
+06.07.18 08:37:23 >> [HookCon_Service] : Game#174110 Win Number: [13]
+06.07.18 08:37:23 >> [HookCon_Service] : Game#174110 End
+06.07.18 08:40:49 >> [HookCon_Service] : Game#174111 Start
+06.07.18 08:41:26 >> [HookCon_Service] : Game#174111 Win Number: [35]
+06.07.18 08:41:26 >> [HookCon_Service] : Game#174111 End
+06.07.18 08:44:50 >> [HookCon_Service] : Game#174112 Start
+06.07.18 08:45:26 >> [HookCon_Service] : Game#174112 Win Number: [1]
+06.07.18 08:45:27 >> [HookCon_Service] : Game#174112 End
+06.07.18 08:48:51 >> [HookCon_Service] : Game#174113 Start
+06.07.18 08:49:28 >> [HookCon_Service] : Game#174113 Win Number: [20]
+06.07.18 08:49:28 >> [HookCon_Service] : Game#174113 End
+06.07.18 08:52:54 >> [HookCon_Service] : Game#174114 Start
+06.07.18 08:53:29 >> [HookCon_Service] : Game#174114 Win Number: [34]
+06.07.18 08:53:29 >> [HookCon_Service] : Game#174114 End
+06.07.18 08:56:56 >> [HookCon_Service] : Game#174115 Start
+06.07.18 08:57:31 >> [HookCon_Service] : Game#174115 Win Number: [11]
+06.07.18 08:57:32 >> [HookCon_Service] : Game#174115 End
+06.07.18 09:00:58 >> [HookCon_Service] : Game#174116 Start
+06.07.18 09:01:32 >> [HookCon_Service] : Game#174116 Win Number: [6]
+06.07.18 09:01:33 >> [HookCon_Service] : Game#174116 End
+06.07.18 09:04:56 >> [HookCon_Service] : Game#174117 Start
+06.07.18 09:05:33 >> [HookCon_Service] : Game#174117 Win Number: [31]
+06.07.18 09:05:33 >> [HookCon_Service] : Game#174117 End
+06.07.18 09:09:01 >> [HookCon_Service] : Game#174118 Start
+06.07.18 09:09:33 >> [HookCon_Service] : Game#174118 Win Number: [0]
+06.07.18 09:09:34 >> [HookCon_Service] : Game#174118 End
+06.07.18 09:13:00 >> [HookCon_Service] : Game#174119 Start
+06.07.18 09:13:33 >> [HookCon_Service] : Game#174119 Win Number: [10]
+06.07.18 09:13:33 >> [HookCon_Service] : Game#174119 End
+06.07.18 09:16:59 >> [HookCon_Service] : Game#174120 Start
+06.07.18 09:17:31 >> [HookCon_Service] : Game#174120 Win Number: [8]
+06.07.18 09:17:32 >> [HookCon_Service] : Game#174120 End
+06.07.18 09:20:59 >> [HookCon_Service] : Game#174121 Start
+06.07.18 09:21:33 >> [HookCon_Service] : Game#174121 Win Number: [12]
+06.07.18 09:21:33 >> [HookCon_Service] : Game#174121 End
+06.07.18 09:24:59 >> [HookCon_Service] : Game#174122 Start
+06.07.18 09:25:35 >> [HookCon_Service] : Game#174122 Win Number: [20]
+06.07.18 09:25:35 >> [HookCon_Service] : Game#174122 End
+06.07.18 09:29:03 >> [HookCon_Service] : Game#174123 Start
+06.07.18 09:29:35 >> [HookCon_Service] : Game#174123 Win Number: [13]
+06.07.18 09:29:35 >> [HookCon_Service] : Game#174123 End
+06.07.18 09:32:58 >> [HookCon_Service] : Game#174124 Start
+06.07.18 09:33:37 >> [HookCon_Service] : Game#174124 Win Number: [21]
+06.07.18 09:33:38 >> [HookCon_Service] : Game#174124 End
+06.07.18 09:37:04 >> [HookCon_Service] : Game#174125 Start
+06.07.18 09:37:39 >> [HookCon_Service] : Game#174125 Win Number: [19]
+06.07.18 09:37:40 >> [HookCon_Service] : Game#174125 End
+06.07.18 09:41:07 >> [HookCon_Service] : Game#174126 Start
+06.07.18 09:41:41 >> [HookCon_Service] : Game#174126 Win Number: [3]
+06.07.18 09:41:41 >> [HookCon_Service] : Game#174126 End
+06.07.18 09:45:07 >> [HookCon_Service] : Game#174127 Start
+06.07.18 09:45:41 >> [HookCon_Service] : Game#174127 Win Number: [17]
+06.07.18 09:45:42 >> [HookCon_Service] : Game#174127 End
+06.07.18 09:49:08 >> [HookCon_Service] : Game#174128 Start
+06.07.18 09:49:45 >> [HookCon_Service] : Game#174128 Win Number: [21]
+06.07.18 09:49:45 >> [HookCon_Service] : Game#174128 End
+06.07.18 09:53:09 >> [HookCon_Service] : Game#174129 Start
+06.07.18 09:53:47 >> [HookCon_Service] : Game#174129 Win Number: [23]
+06.07.18 09:53:48 >> [HookCon_Service] : Game#174129 End
+06.07.18 09:57:15 >> [HookCon_Service] : Game#174130 Start
+06.07.18 09:57:48 >> [HookCon_Service] : Game#174130 Win Number: [5]
+06.07.18 09:57:48 >> [HookCon_Service] : Game#174130 End
+06.07.18 10:01:14 >> [HookCon_Service] : Game#174131 Start
+06.07.18 10:01:47 >> [HookCon_Service] : Game#174131 Win Number: [9]
+06.07.18 10:01:47 >> [HookCon_Service] : Game#174131 End
+06.07.18 10:05:12 >> [HookCon_Service] : Game#174132 Start
+06.07.18 10:05:47 >> [HookCon_Service] : Game#174132 Win Number: [18]
+06.07.18 10:05:47 >> [HookCon_Service] : Game#174132 End
+06.07.18 10:09:13 >> [HookCon_Service] : Game#174133 Start
+06.07.18 10:09:49 >> [HookCon_Service] : Game#174133 Win Number: [4]
+06.07.18 10:09:49 >> [HookCon_Service] : Game#174133 End
+06.07.18 10:13:15 >> [HookCon_Service] : Game#174134 Start
+06.07.18 10:13:50 >> [HookCon_Service] : Game#174134 Win Number: [9]
+06.07.18 10:13:50 >> [HookCon_Service] : Game#174134 End
+06.07.18 10:17:15 >> [HookCon_Service] : Game#174135 Start
+06.07.18 10:17:49 >> [HookCon_Service] : Game#174135 Win Number: [1]
+06.07.18 10:17:49 >> [HookCon_Service] : Game#174135 End
+06.07.18 10:21:15 >> [HookCon_Service] : Game#174136 Start
+06.07.18 10:21:50 >> [HookCon_Service] : Game#174136 Win Number: [19]
+06.07.18 10:21:51 >> [HookCon_Service] : Game#174136 End
+06.07.18 10:25:17 >> [HookCon_Service] : Game#174137 Start
+06.07.18 10:25:51 >> [HookCon_Service] : Game#174137 Win Number: [12]
+06.07.18 10:25:51 >> [HookCon_Service] : Game#174137 End
+06.07.18 10:29:17 >> [HookCon_Service] : Game#174138 Start
+06.07.18 10:29:52 >> [HookCon_Service] : Game#174138 Win Number: [19]
+06.07.18 10:29:53 >> [HookCon_Service] : Game#174138 End
+06.07.18 10:33:19 >> [HookCon_Service] : Game#174139 Start
+06.07.18 10:33:53 >> [HookCon_Service] : Game#174139 Win Number: [29]
+06.07.18 10:33:54 >> [HookCon_Service] : Game#174139 End
+06.07.18 10:37:18 >> [HookCon_Service] : Game#174140 Start
+06.07.18 10:37:57 >> [HookCon_Service] : Game#174140 Win Number: [31]
+06.07.18 10:37:57 >> [HookCon_Service] : Game#174140 End
+06.07.18 10:41:24 >> [HookCon_Service] : Game#174141 Start
+06.07.18 10:42:00 >> [HookCon_Service] : Game#174141 Win Number: [22]
+06.07.18 10:42:00 >> [HookCon_Service] : Game#174141 End
+06.07.18 10:45:27 >> [HookCon_Service] : Game#174142 Start
+06.07.18 10:46:03 >> [HookCon_Service] : Game#174142 Win Number: [30]
+06.07.18 10:46:03 >> [HookCon_Service] : Game#174142 End
+06.07.18 10:49:29 >> [HookCon_Service] : Game#174143 Start
+06.07.18 10:50:05 >> [HookCon_Service] : Game#174143 Win Number: [16]
+06.07.18 10:50:06 >> [HookCon_Service] : Game#174143 End
+06.07.18 11:03:14 >> Error: При установлении соединения с SQL Server произошла ошибка, связанная с сетью или с определенным экземпляром. Сервер не найден или недоступен. Убедитесь, что имя экземпляра указано правильно и что на SQL Server разрешены удаленные соединения. (provider: Поставщик TCP, error: 0 - Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение.) in MSSQL.vb. More Info:System.Data.SqlClient.SqlException: При установлении соединения с SQL Server произошла ошибка, связанная с сетью или с определенным экземпляром. Сервер не найден или недоступен. Убедитесь, что имя экземпляра указано правильно и что на SQL Server разрешены удаленные соединения. (provider: Поставщик TCP, error: 0 - Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение.)
+   в System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   в System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   в System.Data.SqlClient.TdsParser.Connect(ServerInfo serverInfo, SqlInternalConnectionTds connHandler, Boolean ignoreSniOpenTimeout, Int64 timerExpire, Boolean encrypt, Boolean trustServerCert, Boolean integratedSecurity, SqlConnection owningObject, Boolean withFailover)
+   в System.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, Boolean ignoreSniOpenTimeout, Int64 timerExpire, SqlConnection owningObject, Boolean withFailover)
+   в System.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(String host, String newPassword, Boolean redirectedUserInstance, SqlConnection owningObject, SqlConnectionString connectionOptions, Int64 timerStart)
+   в System.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(SqlConnection owningObject, SqlConnectionString connectionOptions, String newPassword, Boolean redirectedUserInstance)
+   в System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, Object providerInfo, String newPassword, SqlConnection owningObject, Boolean redirectedUserInstance)
+   в System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection)
+   в System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnection owningConnection, DbConnectionPool pool, DbConnectionOptions options)
+   в System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject)
+   в System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject)
+   в System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   в System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   в System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   в System.Data.SqlClient.SqlConnection.Open()
+   в RRServer.MSSQL.Connect() в C:\Users\Admin\Documents\Visual Studio 2008\Projects\RRServer\RRServer\MSSQL.vb:строка 14
+06.07.18 11:03:14 >> Can't connect to MSSQL Database
+06.07.18 11:03:14 >> Server is running. Waiting for incoming connections.
+06.07.18 11:03:19 >> Client was connected: 192.168.159.192
+06.07.18 11:03:19 >> HookCon LastNums:9,18,4,9,1,19,12,19,29,31,22,30,16,24,32,7,
+06.07.18 11:03:19 >> Server LastNums:7,32,24,16,30,22,31,29,19,12,19,1,9,
+06.07.18 11:03:32 >> [HookCon_Service] : Disconnected. Reason: System.EventArgs. All Web-clients disconnected.
+06.07.18 11:03:32 >> Server stopped! All clients disconnected.
+06.07.18 11:03:50 >> Error: При установлении соединения с SQL Server произошла ошибка, связанная с сетью или с определенным экземпляром. Сервер не найден или недоступен. Убедитесь, что имя экземпляра указано правильно и что на SQL Server разрешены удаленные соединения. (provider: Поставщик TCP, error: 0 - Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение.) in MSSQL.vb. More Info:System.Data.SqlClient.SqlException: При установлении соединения с SQL Server произошла ошибка, связанная с сетью или с определенным экземпляром. Сервер не найден или недоступен. Убедитесь, что имя экземпляра указано правильно и что на SQL Server разрешены удаленные соединения. (provider: Поставщик TCP, error: 0 - Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение.)
+   в System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   в System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   в System.Data.SqlClient.TdsParser.Connect(ServerInfo serverInfo, SqlInternalConnectionTds connHandler, Boolean ignoreSniOpenTimeout, Int64 timerExpire, Boolean encrypt, Boolean trustServerCert, Boolean integratedSecurity, SqlConnection owningObject, Boolean withFailover)
+   в System.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, Boolean ignoreSniOpenTimeout, Int64 timerExpire, SqlConnection owningObject, Boolean withFailover)
+   в System.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(String host, String newPassword, Boolean redirectedUserInstance, SqlConnection owningObject, SqlConnectionString connectionOptions, Int64 timerStart)
+   в System.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(SqlConnection owningObject, SqlConnectionString connectionOptions, String newPassword, Boolean redirectedUserInstance)
+   в System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, Object providerInfo, String newPassword, SqlConnection owningObject, Boolean redirectedUserInstance)
+   в System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection)
+   в System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnection owningConnection, DbConnectionPool pool, DbConnectionOptions options)
+   в System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject)
+   в System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject)
+   в System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   в System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   в System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   в System.Data.SqlClient.SqlConnection.Open()
+   в RRServer.MSSQL.Connect() в C:\Users\Admin\Documents\Visual Studio 2008\Projects\RRServer\RRServer\MSSQL.vb:строка 14
+06.07.18 11:03:50 >> Can't connect to MSSQL Database
+06.07.18 11:03:50 >> Server is running. Waiting for incoming connections.
+06.07.18 11:04:02 >> Client was connected: 192.168.159.192
+06.07.18 11:04:02 >> HookCon LastNums:9,18,4,9,1,19,12,19,29,31,22,30,16,24,32,7,
+06.07.18 11:04:02 >> Server LastNums:7,32,24,16,30,22,31,29,19,12,19,1,9,
+06.07.18 11:04:09 >> [HookCon_Service] : Disconnected. Reason: System.EventArgs. All Web-clients disconnected.
+06.07.18 11:04:09 >> Server stopped! All clients disconnected.
+06.07.18 11:24:02 >> Error: При установлении соединения с SQL Server произошла ошибка, связанная с сетью или с определенным экземпляром. Сервер не найден или недоступен. Убедитесь, что имя экземпляра указано правильно и что на SQL Server разрешены удаленные соединения. (provider: Поставщик TCP, error: 0 - Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение.) in MSSQL.vb. More Info:System.Data.SqlClient.SqlException: При установлении соединения с SQL Server произошла ошибка, связанная с сетью или с определенным экземпляром. Сервер не найден или недоступен. Убедитесь, что имя экземпляра указано правильно и что на SQL Server разрешены удаленные соединения. (provider: Поставщик TCP, error: 0 - Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение.)
+   в System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   в System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   в System.Data.SqlClient.TdsParser.Connect(ServerInfo serverInfo, SqlInternalConnectionTds connHandler, Boolean ignoreSniOpenTimeout, Int64 timerExpire, Boolean encrypt, Boolean trustServerCert, Boolean integratedSecurity, SqlConnection owningObject, Boolean withFailover)
+   в System.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, Boolean ignoreSniOpenTimeout, Int64 timerExpire, SqlConnection owningObject, Boolean withFailover)
+   в System.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(String host, String newPassword, Boolean redirectedUserInstance, SqlConnection owningObject, SqlConnectionString connectionOptions, Int64 timerStart)
+   в System.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(SqlConnection owningObject, SqlConnectionString connectionOptions, String newPassword, Boolean redirectedUserInstance)
+   в System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, Object providerInfo, String newPassword, SqlConnection owningObject, Boolean redirectedUserInstance)
+   в System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection)
+   в System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnection owningConnection, DbConnectionPool pool, DbConnectionOptions options)
+   в System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject)
+   в System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject)
+   в System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   в System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   в System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   в System.Data.SqlClient.SqlConnection.Open()
+   в RRServer.MSSQL.Connect() в C:\Users\Admin\Documents\Visual Studio 2008\Projects\RRServer\RRServer\MSSQL.vb:строка 14
+06.07.18 11:24:02 >> Can't connect to MSSQL Database
+06.07.18 11:24:02 >> Server is running. Waiting for incoming connections.
+06.07.18 11:24:08 >> Client was connected: 192.168.159.192
+06.07.18 11:24:09 >> HookCon LastNums:19,12,19,29,31,22,30,16,24,32,7,16,16,15,10,0,
+06.07.18 11:24:09 >> Server LastNums:0,10,15,16,16,7,32,24,16,30,22,31,29,
+06.07.18 11:24:15 >> [HookCon_Service] : Disconnected. Reason: System.EventArgs. All Web-clients disconnected.
+06.07.18 11:24:15 >> Server stopped! All clients disconnected.
+06.07.18 11:27:58 >> Server is running. Waiting for incoming connections.
+06.07.18 11:28:16 >> Client was connected: 192.168.159.192
+06.07.18 11:28:16 >> HookCon LastNums:12,19,29,31,22,30,16,24,32,7,16,16,15,10,0,27,
+06.07.18 11:28:16 >> Server LastNums:27,0,10,15,16,16,7,32,24,16,30,22,31,
+06.07.18 11:29:36 >> [HookCon_Service] : Game#174153 Start
+06.07.18 11:30:14 >> [HookCon_Service] : Game#174153 Win Number: [35]
+06.07.18 11:30:14 >> [HookCon_Service] : Game#174153 End
+06.07.18 11:33:41 >> [HookCon_Service] : Game#174154 Start
+06.07.18 11:34:12 >> [HookCon_Service] : Game#174154 Win Number: [6]
+06.07.18 11:34:13 >> [HookCon_Service] : Game#174154 End
+06.07.18 11:37:37 >> [HookCon_Service] : Game#174155 Start
+06.07.18 11:38:16 >> [HookCon_Service] : Game#174155 Win Number: [34]
+06.07.18 11:38:17 >> [HookCon_Service] : Game#174155 End
+06.07.18 11:41:42 >> [HookCon_Service] : Game#174156 Start
+06.07.18 11:42:16 >> [HookCon_Service] : Game#174156 Win Number: [20]
+06.07.18 11:42:16 >> [HookCon_Service] : Game#174156 End
+06.07.18 11:45:42 >> [HookCon_Service] : Game#174157 Start
+06.07.18 11:46:16 >> [HookCon_Service] : Game#174157 Win Number: [7]
+06.07.18 11:46:16 >> [HookCon_Service] : Game#174157 End
+06.07.18 11:49:42 >> [HookCon_Service] : Game#174158 Start
+06.07.18 11:50:16 >> [HookCon_Service] : Game#174158 Win Number: [13]
+06.07.18 11:50:16 >> [HookCon_Service] : Game#174158 End
+06.07.18 11:53:43 >> [HookCon_Service] : Game#174159 Start
+06.07.18 11:54:15 >> [HookCon_Service] : Game#174159 Win Number: [10]
+06.07.18 11:54:15 >> [HookCon_Service] : Game#174159 End
+06.07.18 11:57:42 >> [HookCon_Service] : Game#174160 Start
+06.07.18 11:58:16 >> [HookCon_Service] : Game#174160 Win Number: [22]
+06.07.18 11:58:17 >> [HookCon_Service] : Game#174160 End

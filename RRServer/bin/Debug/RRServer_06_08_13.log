@@ -1,0 +1,117 @@
+06.08.13 12:52:48 >> Server is running. Waiting for incoming connections.
+06.08.13 12:52:55 >> Client was connected: 127.0.0.1
+06.08.13 12:56:13 >> 192.168.10.13of0001 [logon]
+06.08.13 01:02:25 >> [Web Server] : Disconnected. Reason: Удаленный хост принудительно разорвал существующее подключение
+06.08.13 01:04:11 >> Server is running. Waiting for incoming connections.
+06.08.13 01:04:16 >> Client was connected: 127.0.0.1
+06.08.13 01:06:04 >> Server is running. Waiting for incoming connections.
+06.08.13 01:06:09 >> Client was connected: 127.0.0.1
+06.08.13 01:06:22 >> 192.168.10.13 [logon]
+06.08.13 01:09:26 >> Server is running. Waiting for incoming connections.
+06.08.13 01:09:31 >> Client was connected: 127.0.0.1
+06.08.13 01:09:41 >> 192.168.10.13 [logon]
+06.08.13 01:10:57 >> Server is running. Waiting for incoming connections.
+06.08.13 01:11:02 >> Client was connected: 127.0.0.1
+06.08.13 01:11:09 >> 192.168.10.13 [logon]
+06.08.13 01:17:42 >> Server is running. Waiting for incoming connections.
+06.08.13 01:22:56 >> Client was connected: 127.0.0.1
+06.08.13 01:22:59 >> 192.168.10.13 [logon]
+06.08.13 01:31:48 >> Server is running. Waiting for incoming connections.
+06.08.13 01:31:54 >> Client was connected: 127.0.0.1
+06.08.13 01:31:58 >> Web Server [logoff]
+06.08.13 01:31:58 >> 192.168.10.13 [logon]
+06.08.13 01:45:01 >> Server is running. Waiting for incoming connections.
+06.08.13 01:45:34 >> Client was connected: 127.0.0.1
+06.08.13 01:45:41 >> 192.168.10.13 [logon]
+06.08.13 01:49:30 >> Server is running. Waiting for incoming connections.
+06.08.13 01:49:36 >> Client was connected: 127.0.0.1
+06.08.13 01:49:43 >> 192.168.10.13 [logon]
+06.08.13 01:50:59 >> Server is running. Waiting for incoming connections.
+06.08.13 01:51:07 >> Client was connected: 127.0.0.1
+06.08.13 01:51:21 >> Web Server [logoff]
+06.08.13 01:51:26 >> 192.168.10.13 [logon]
+06.08.13 01:56:32 >> Server is running. Waiting for incoming connections.
+06.08.13 01:56:39 >> Client was connected: 127.0.0.1
+06.08.13 01:56:45 >> 192.168.10.13 [logon]
+06.08.13 02:00:39 >> [Web Server] : Disconnected. Reason: Удаленный хост принудительно разорвал существующее подключение
+06.08.13 02:01:22 >> Client was connected: 127.0.0.1
+06.08.13 02:01:37 >> Server is running. Waiting for incoming connections.
+06.08.13 02:01:43 >> Client was connected: 127.0.0.1
+06.08.13 02:01:51 >> 192.168.10.13 [logon]
+06.08.13 02:04:02 >> Server is running. Waiting for incoming connections.
+06.08.13 02:04:10 >> Client was connected: 127.0.0.1
+06.08.13 02:04:14 >> 192.168.10.13 [logon]
+06.08.13 02:04:49 >> Server is running. Waiting for incoming connections.
+06.08.13 02:04:52 >> Client was connected: 127.0.0.1
+06.08.13 02:04:58 >> 192.168.10.13 [logon]
+06.08.13 02:05:31 >> Server is running. Waiting for incoming connections.
+06.08.13 02:05:44 >> Client was connected: 127.0.0.1
+06.08.13 02:05:48 >> 192.168.10.13 [logon]
+06.08.13 02:06:34 >> [Web Server] : Disconnected. Reason: Удаленный хост принудительно разорвал существующее подключение
+06.08.13 02:07:09 >> Server is running. Waiting for incoming connections.
+06.08.13 02:07:19 >> Client was connected: 127.0.0.1
+06.08.13 02:07:21 >> 192.168.10.13 [logon]
+06.08.13 02:09:24 >> 192.168.10.13 [logoff]
+06.08.13 02:09:45 >> Server is running. Waiting for incoming connections.
+06.08.13 02:09:47 >> Client was connected: 127.0.0.1
+06.08.13 02:09:50 >> 192.168.10.13 [logon]
+06.08.13 02:21:49 >> Server is running. Waiting for incoming connections.
+06.08.13 02:22:03 >> Client was connected: 127.0.0.1
+06.08.13 02:22:09 >> 192.168.10.13 [logon]
+06.08.13 02:32:12 >> [Web Server] : Disconnected. Reason: Удаленный хост принудительно разорвал существующее подключение
+06.08.13 02:32:17 >> [Web Server] : Disconnected. Reason: System.EventArgs
+06.08.13 02:32:34 >> Server is running. Waiting for incoming connections.
+06.08.13 02:38:52 >> Server is running. Waiting for incoming connections.
+06.08.13 02:39:02 >> Client was connected: 127.0.0.1
+06.08.13 02:39:10 >> 192.168.10.13 [logon]
+06.08.13 02:40:16 >> Server is running. Waiting for incoming connections.
+06.08.13 02:40:24 >> Client was connected: 127.0.0.1
+06.08.13 02:40:28 >> 192.168.10.13 [logon]
+06.08.13 02:42:38 >> Server is running. Waiting for incoming connections.
+06.08.13 02:42:43 >> Client was connected: 127.0.0.1
+06.08.13 02:43:03 >> Web Server [logoff]
+06.08.13 02:43:03 >> 192.168.10.13 [logon]
+06.08.13 02:53:52 >> Server is running. Waiting for incoming connections.
+06.08.13 02:54:04 >> Client was connected: 127.0.0.1
+06.08.13 02:54:07 >> Web Server [logoff]
+06.08.13 02:54:19 >> Web Server [logoff]
+06.08.13 02:54:53 >> Web Server [logoff]
+06.08.13 02:55:14 >> [Web Server] : Disconnected. Reason: System.EventArgs
+06.08.13 02:55:14 >> [Web Server] : Disconnected. Reason: Удаленный хост принудительно разорвал существующее подключение
+06.08.13 02:55:14 >> Client was connected: 127.0.0.1
+06.08.13 02:55:17 >> [Guest] : Disconnected. Reason: System.EventArgs
+06.08.13 02:55:17 >> [Guest] : Disconnected. Reason: Удаленный хост принудительно разорвал существующее подключение
+06.08.13 03:08:00 >> Client was connected: 127.0.0.1
+06.08.13 03:08:03 >> 192.168.10.13 [logon]
+06.08.13 03:09:08 >> 192.168.10.3 [logon]
+06.08.13 03:09:59 >> Server is running. Waiting for incoming connections.
+06.08.13 03:10:07 >> Client was connected: 127.0.0.1
+06.08.13 03:10:14 >> 192.168.10.13 [logon]
+06.08.13 03:10:32 >> 192.168.10.3 [logon]
+06.08.13 03:20:57 >> 192.168.10.13 [logoff]
+06.08.13 05:09:24 >> Server is running. Waiting for incoming connections.
+06.08.13 05:09:29 >> Client was connected: 127.0.0.1
+06.08.13 05:09:30 >> 192.168.10.16 [logon]
+06.08.13 05:10:26 >> 192.168.10.16 [logoff]
+06.08.13 05:10:26 >> 192.168.10.16 [logoff]
+06.08.13 05:10:26 >> 192.168.10.16 [logoff]
+06.08.13 05:17:45 >> 192.168.10.16 [logoff]
+06.08.13 05:24:47 >> 192.168.10.16 [logoff]
+06.08.13 05:24:51 >> 192.168.10.16 [logoff]
+06.08.13 05:24:54 >> 192.168.10.16 [logoff]
+06.08.13 05:25:00 >> 192.168.10.16 [logoff]
+06.08.13 05:25:01 >> 192.168.10.16 [logoff]
+06.08.13 05:25:01 >> 192.168.10.16 [logoff]
+06.08.13 05:26:05 >> 192.168.10.16 [logoff]
+06.08.13 05:26:20 >> 192.168.10.16 [logoff]
+06.08.13 05:40:35 >> 192.168.10.16 [logoff]
+06.08.13 05:48:35 >> 192.168.10.16 [logoff]
+06.08.13 05:52:50 >> 192.168.10.16 [logoff]
+06.08.13 06:00:27 >> 192.168.10.16 [logoff]
+06.08.13 06:00:46 >> 192.168.10.16 [logoff]
+06.08.13 06:01:14 >> 192.168.10.16 [logoff]
+06.08.13 06:01:47 >> 192.168.10.16 [logoff]
+06.08.13 06:02:15 >> 192.168.10.16 [logoff]
+06.08.13 06:03:10 >> 192.168.10.16 [logoff]
+06.08.13 06:05:46 >> 192.168.10.16 [logoff]
+06.08.13 06:06:02 >> 192.168.10.16 [logoff]

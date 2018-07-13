@@ -1,0 +1,21 @@
+07.08.13 10:12:06 >> Server is running. Waiting for incoming connections.
+07.08.13 10:12:22 >> Client was connected: 127.0.0.1
+07.08.13 10:13:12 >> Server is running. Waiting for incoming connections.
+07.08.13 10:13:19 >> Client was connected: 127.0.0.1
+07.08.13 11:08:22 >> Web Server [logoff]
+07.08.13 11:17:05 >> Web Server [logoff]
+07.08.13 11:17:07 >> Web Server [logoff]
+07.08.13 11:17:14 >> Web Server [logoff]
+07.08.13 11:17:34 >> [Web Server] : Disconnected. Reason: System.EventArgs
+07.08.13 11:17:34 >> [Web Server] : Disconnected. Reason: Удаленный хост принудительно разорвал существующее подключение
+07.08.13 11:20:00 >> Client was connected: 127.0.0.1
+07.08.13 11:20:21 >> Web Server [logoff]
+07.08.13 11:22:46 >> [Web Server] : Disconnected. Reason: System.EventArgs
+07.08.13 11:23:42 >> Client was connected: 127.0.0.1
+07.08.13 11:24:01 >> Web Server [logoff]
+07.08.13 11:27:29 >> Web Server [logoff]
+07.08.13 11:27:41 >> Web Server [logoff]
+07.08.13 11:28:34 >> Web Server [logoff]
+07.08.13 11:28:34 >> Web Server [logoff]
+07.08.13 11:32:39 >> Web Server [logoff]
+07.08.13 11:36:35 >> Web Server [logoff]

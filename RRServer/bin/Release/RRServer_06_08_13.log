@@ -1,0 +1,14 @@
+06.08.13 02:46:45 >> Server is running. Waiting for incoming connections.
+06.08.13 02:46:48 >> Client was connected: 127.0.0.1
+06.08.13 02:46:57 >> 192.168.10.13 [logon]
+06.08.13 02:51:16 >> Web Server [logoff]
+06.08.13 02:52:32 >> 192.168.10.3 [logon]
+06.08.13 02:52:48 >> Web Server [logoff]
+06.08.13 02:52:49 >> Web Server [logoff]
+06.08.13 02:52:51 >> Web Server [logoff]
+06.08.13 02:53:00 >> Web Server [logoff]
+06.08.13 02:53:00 >> 192.168.10.3 [logon]
+06.08.13 02:53:24 >> Web Server [logoff]
+06.08.13 02:53:26 >> Web Server [logoff]
+06.08.13 02:53:44 >> [Web Server] : Disconnected. Reason: System.EventArgs
+06.08.13 02:53:44 >> Server stopped! All clients disconnected.

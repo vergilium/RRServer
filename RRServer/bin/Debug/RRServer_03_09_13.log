@@ -1,0 +1,2486 @@
+03.09.13 09:04:08 >> [Web Server] : Disconnected. Reason: System.EventArgs
+03.09.13 09:04:08 >> [Web Server] : Disconnected. Reason: Удаленный хост принудительно разорвал существующее подключение
+03.09.13 09:05:22 >> Server is running. Waiting for incoming connections.
+03.09.13 09:05:28 >> Client was connected: 127.0.0.1
+03.09.13 09:06:01 >> 192.168.10.13 [logon]
+03.09.13 09:06:16 >> 192.168.10.13 [logoff]
+03.09.13 09:06:31 >> [Web Server] : Disconnected. Reason: System.EventArgs
+03.09.13 09:06:31 >> [Web Server] : Disconnected. Reason: Удаленный хост принудительно разорвал существующее подключение
+03.09.13 09:07:30 >> Server is running. Waiting for incoming connections.
+03.09.13 09:07:41 >> Client was connected: 127.0.0.1
+03.09.13 09:07:47 >> 192.168.10.13 [logon]
+03.09.13 09:07:54 >> [Web Server] : Disconnected. Reason: System.EventArgs
+03.09.13 09:07:54 >> [Web Server] : Disconnected. Reason: Удаленный хост принудительно разорвал существующее подключение
+03.09.13 09:09:25 >> Server is running. Waiting for incoming connections.
+03.09.13 09:09:29 >> Client was connected: 127.0.0.1
+03.09.13 09:09:39 >> 192.168.10.13 [logon]
+03.09.13 09:13:36 >> Server is running. Waiting for incoming connections.
+03.09.13 09:13:42 >> Client was connected: 127.0.0.1
+03.09.13 09:13:53 >> 192.168.10.13 [logon]
+03.09.13 09:15:31 >> Server is running. Waiting for incoming connections.
+03.09.13 09:15:37 >> Client was connected: 127.0.0.1
+03.09.13 09:15:41 >> 192.168.10.13 [logon]
+03.09.13 09:16:38 >> Server is running. Waiting for incoming connections.
+03.09.13 09:16:44 >> Client was connected: 127.0.0.1
+03.09.13 09:16:49 >> 192.168.10.13 [logon]
+03.09.13 09:17:14 >> Server is running. Waiting for incoming connections.
+03.09.13 09:17:20 >> Client was connected: 127.0.0.1
+03.09.13 09:17:25 >> 192.168.10.13 [logon]
+03.09.13 09:18:44 >> Server is running. Waiting for incoming connections.
+03.09.13 09:18:54 >> Client was connected: 127.0.0.1
+03.09.13 09:18:59 >> 192.168.10.13 [logon]
+03.09.13 09:19:02 >> 192.168.10.13 [logoff]
+03.09.13 09:19:02 >> 192.168.10.13 [logon]
+03.09.13 09:19:36 >> [Web Server] : Disconnected. Reason: System.EventArgs
+03.09.13 09:19:36 >> [Web Server] : Disconnected. Reason: Удаленный хост принудительно разорвал существующее подключение
+03.09.13 09:24:43 >> Server is running. Waiting for incoming connections.
+03.09.13 09:24:54 >> Client was connected: 127.0.0.1
+03.09.13 09:24:59 >> 192.168.10.13 [logon]
+03.09.13 09:25:09 >> 192.168.10.13 [logoff]
+03.09.13 09:25:09 >> 192.168.10.13 [logon]
+03.09.13 09:25:20 >> [Web Server] : Disconnected. Reason: System.EventArgs
+03.09.13 09:25:20 >> [Web Server] : Disconnected. Reason: Удаленный хост принудительно разорвал существующее подключение
+03.09.13 09:38:13 >> Server is running. Waiting for incoming connections.
+03.09.13 09:38:19 >> Client was connected: 127.0.0.1
+03.09.13 09:38:24 >> 192.168.10.13 [logon]
+03.09.13 09:38:26 >> 192.168.10.13 [logoff]
+03.09.13 09:38:27 >> 192.168.10.13 [logon]
+03.09.13 09:40:30 >> [Web Server] : Disconnected. Reason: System.EventArgs
+03.09.13 09:40:31 >> [Web Server] : Disconnected. Reason: Удаленный хост принудительно разорвал существующее подключение
+03.09.13 09:40:52 >> Server is running. Waiting for incoming connections.
+03.09.13 09:40:58 >> Client was connected: 127.0.0.1
+03.09.13 09:41:02 >> 192.168.10.13 [logon]
+03.09.13 09:43:03 >> Server is running. Waiting for incoming connections.
+03.09.13 09:43:10 >> Client was connected: 127.0.0.1
+03.09.13 09:43:14 >> 192.168.10.13 [logon]
+03.09.13 09:43:37 >> [Web Server] : Disconnected. Reason: System.EventArgs
+03.09.13 09:43:37 >> [Web Server] : Disconnected. Reason: Удаленный хост принудительно разорвал существующее подключение
+03.09.13 09:46:23 >> Server is running. Waiting for incoming connections.
+03.09.13 09:46:28 >> Client was connected: 127.0.0.1
+03.09.13 09:46:33 >> 192.168.10.13 [logon]
+03.09.13 09:46:44 >> [Web Server] : Disconnected. Reason: Удаленный хост принудительно разорвал существующее подключение
+03.09.13 09:46:54 >> [Web Server] : Disconnected. Reason: System.EventArgs
+03.09.13 09:49:00 >> Server is running. Waiting for incoming connections.
+03.09.13 09:49:07 >> Client was connected: 127.0.0.1
+03.09.13 09:49:14 >> 192.168.10.13 [logon]
+03.09.13 09:50:02 >> Client was connected: 192.168.10.39
+03.09.13 09:50:16 >> [HookCon_Service] : Game#1031434 Start
+03.09.13 09:50:52 >> [HookCon_Service] : Game#1031434 Win Number: [35]
+03.09.13 09:50:53 >> [HookCon_Service] : Game#1031434 End
+03.09.13 09:51:23 >> [HookCon_Service] : Game#1031435 Start
+03.09.13 09:51:57 >> [HookCon_Service] : Game#1031435 Win Number: [29]
+03.09.13 09:51:57 >> [HookCon_Service] : Game#1031435 End
+03.09.13 09:52:26 >> [HookCon_Service] : Game#1031436 Start
+03.09.13 09:52:58 >> [HookCon_Service] : Game#1031436 Win Number: [26]
+03.09.13 09:52:58 >> [HookCon_Service] : Game#1031436 End
+03.09.13 09:53:26 >> [HookCon_Service] : Game#1031437 Start
+03.09.13 09:54:00 >> [HookCon_Service] : Game#1031437 Win Number: [7]
+03.09.13 09:54:01 >> [HookCon_Service] : Game#1031437 End
+03.09.13 09:54:29 >> [HookCon_Service] : Game#1031438 Start
+03.09.13 09:55:03 >> [HookCon_Service] : Game#1031438 Win Number: [18]
+03.09.13 09:55:03 >> [HookCon_Service] : Game#1031438 End
+03.09.13 09:55:31 >> [HookCon_Service] : Game#1031439 Start
+03.09.13 09:55:39 >> 192.168.17.100 [logon]
+03.09.13 09:56:05 >> [HookCon_Service] : Game#1031439 Win Number: [23]
+03.09.13 09:56:06 >> [HookCon_Service] : Game#1031439 End
+03.09.13 09:56:36 >> [HookCon_Service] : Game#1031440 Start
+03.09.13 09:56:58 >> 192.168.17.100 [logoff]
+03.09.13 09:56:59 >> 192.168.17.100 [logon]
+03.09.13 09:57:07 >> [HookCon_Service] : Game#1031440 Win Number: [4]
+03.09.13 10:02:39 >> Server is running. Waiting for incoming connections.
+03.09.13 10:03:03 >> Client was connected: 127.0.0.1
+03.09.13 10:03:10 >> 192.168.10.13 [logon]
+03.09.13 10:03:28 >> Client was connected: 192.168.10.39
+03.09.13 10:03:47 >> [HookCon_Service] : Game#1031447 Start
+03.09.13 10:04:17 >> [HookCon_Service] : Game#1031447 Win Number: [4]
+03.09.13 10:04:17 >> [HookCon_Service] : Game#1031447 End
+03.09.13 10:04:45 >> [HookCon_Service] : Game#1031448 Start
+03.09.13 10:05:21 >> [HookCon_Service] : Game#1031448 Win Number: [34]
+03.09.13 10:05:21 >> [HookCon_Service] : Game#1031448 End
+03.09.13 10:05:50 >> [HookCon_Service] : Game#1031449 Start
+03.09.13 10:06:23 >> [HookCon_Service] : Game#1031449 Win Number: [24]
+03.09.13 10:06:24 >> [HookCon_Service] : Game#1031449 End
+03.09.13 10:06:55 >> [HookCon_Service] : Game#1031450 Start
+03.09.13 10:07:28 >> [HookCon_Service] : Game#1031450 Win Number: [22]
+03.09.13 10:07:28 >> [HookCon_Service] : Game#1031450 End
+03.09.13 10:07:55 >> [HookCon_Service] : Game#1031451 Start
+03.09.13 10:08:31 >> [HookCon_Service] : Game#1031451 Win Number: [18]
+03.09.13 10:08:31 >> [HookCon_Service] : Game#1031451 End
+03.09.13 10:08:58 >> [HookCon_Service] : Game#1031452 Start
+03.09.13 10:09:33 >> [HookCon_Service] : Game#1031452 Win Number: [26]
+03.09.13 10:09:33 >> [HookCon_Service] : Game#1031452 End
+03.09.13 10:10:01 >> [HookCon_Service] : Game#1031453 Start
+03.09.13 10:10:31 >> [HookCon_Service] : Game#1031453 Win Number: [30]
+03.09.13 10:10:32 >> [HookCon_Service] : Game#1031453 End
+03.09.13 10:11:00 >> [HookCon_Service] : Game#1031454 Start
+03.09.13 10:11:36 >> [HookCon_Service] : Game#1031454 Win Number: [5]
+03.09.13 10:11:37 >> [HookCon_Service] : Game#1031454 End
+03.09.13 10:12:06 >> [HookCon_Service] : Game#1031455 Start
+03.09.13 10:12:41 >> [HookCon_Service] : Game#1031455 Win Number: [3]
+03.09.13 10:12:41 >> [HookCon_Service] : Game#1031455 End
+03.09.13 10:13:11 >> [HookCon_Service] : Game#1031456 Start
+03.09.13 10:13:42 >> [HookCon_Service] : Game#1031456 Win Number: [19]
+03.09.13 10:13:43 >> [HookCon_Service] : Game#1031456 End
+03.09.13 10:14:13 >> [HookCon_Service] : Game#1031457 Start
+03.09.13 10:14:45 >> [HookCon_Service] : Game#1031457 Win Number: [26]
+03.09.13 10:14:46 >> [HookCon_Service] : Game#1031457 End
+03.09.13 10:15:13 >> [HookCon_Service] : Game#1031458 Start
+03.09.13 10:15:46 >> [HookCon_Service] : Game#1031458 Win Number: [25]
+03.09.13 10:15:46 >> [HookCon_Service] : Game#1031458 End
+03.09.13 10:16:17 >> [HookCon_Service] : Game#1031459 Start
+03.09.13 10:16:47 >> [HookCon_Service] : Game#1031459 Win Number: [10]
+03.09.13 10:16:48 >> [HookCon_Service] : Game#1031459 End
+03.09.13 10:17:18 >> [HookCon_Service] : Game#1031460 Start
+03.09.13 10:17:49 >> [HookCon_Service] : Game#1031460 Win Number: [19]
+03.09.13 10:17:49 >> [HookCon_Service] : Game#1031460 End
+03.09.13 10:18:19 >> [HookCon_Service] : Game#1031461 Start
+03.09.13 10:18:53 >> [HookCon_Service] : Game#1031461 Win Number: [19]
+03.09.13 10:18:54 >> [HookCon_Service] : Game#1031461 End
+03.09.13 10:19:22 >> [HookCon_Service] : Game#1031462 Start
+03.09.13 10:19:57 >> [HookCon_Service] : Game#1031462 Win Number: [32]
+03.09.13 10:19:58 >> [HookCon_Service] : Game#1031462 End
+03.09.13 10:20:26 >> [HookCon_Service] : Game#1031463 Start
+03.09.13 10:21:00 >> [HookCon_Service] : Game#1031463 Win Number: [13]
+03.09.13 10:21:01 >> [HookCon_Service] : Game#1031463 End
+03.09.13 10:21:29 >> [HookCon_Service] : Game#1031464 Start
+03.09.13 10:22:04 >> [HookCon_Service] : Game#1031464 Win Number: [15]
+03.09.13 10:22:05 >> [HookCon_Service] : Game#1031464 End
+03.09.13 10:22:34 >> [HookCon_Service] : Game#1031465 Start
+03.09.13 10:23:04 >> [HookCon_Service] : Game#1031465 Win Number: [24]
+03.09.13 10:23:05 >> [HookCon_Service] : Game#1031465 End
+03.09.13 10:23:34 >> [HookCon_Service] : Game#1031466 Start
+03.09.13 10:24:07 >> [HookCon_Service] : Game#1031466 Win Number: [30]
+03.09.13 10:24:08 >> [HookCon_Service] : Game#1031466 End
+03.09.13 10:24:38 >> [HookCon_Service] : Game#1031467 Start
+03.09.13 10:25:07 >> [HookCon_Service] : Game#1031467 Win Number: [33]
+03.09.13 10:25:07 >> [HookCon_Service] : Game#1031467 End
+03.09.13 10:25:37 >> [HookCon_Service] : Game#1031468 Start
+03.09.13 10:26:09 >> [HookCon_Service] : Game#1031468 Win Number: [2]
+03.09.13 10:26:10 >> [HookCon_Service] : Game#1031468 End
+03.09.13 10:26:39 >> [HookCon_Service] : Game#1031469 Start
+03.09.13 10:27:12 >> [HookCon_Service] : Game#1031469 Win Number: [36]
+03.09.13 10:27:13 >> [HookCon_Service] : Game#1031469 End
+03.09.13 10:27:42 >> [HookCon_Service] : Game#1031470 Start
+03.09.13 10:28:14 >> [HookCon_Service] : Game#1031470 Win Number: [10]
+03.09.13 10:28:14 >> [HookCon_Service] : Game#1031470 End
+03.09.13 10:28:43 >> [HookCon_Service] : Game#1031471 Start
+03.09.13 10:29:18 >> [HookCon_Service] : Game#1031471 Win Number: [7]
+03.09.13 10:29:18 >> [HookCon_Service] : Game#1031471 End
+03.09.13 10:29:46 >> [HookCon_Service] : Game#1031472 Start
+03.09.13 10:30:20 >> [HookCon_Service] : Game#1031472 Win Number: [17]
+03.09.13 10:30:20 >> [HookCon_Service] : Game#1031472 End
+03.09.13 10:30:48 >> [HookCon_Service] : Game#1031473 Start
+03.09.13 10:31:23 >> [HookCon_Service] : Game#1031473 Win Number: [19]
+03.09.13 10:31:24 >> [HookCon_Service] : Game#1031473 End
+03.09.13 10:31:52 >> [HookCon_Service] : Game#1031474 Start
+03.09.13 10:32:25 >> [HookCon_Service] : Game#1031474 Win Number: [6]
+03.09.13 10:32:26 >> [HookCon_Service] : Game#1031474 End
+03.09.13 10:32:55 >> [HookCon_Service] : Game#1031475 Start
+03.09.13 10:33:26 >> [HookCon_Service] : Game#1031475 Win Number: [14]
+03.09.13 10:33:26 >> [HookCon_Service] : Game#1031475 End
+03.09.13 10:33:55 >> [HookCon_Service] : Game#1031476 Start
+03.09.13 10:34:28 >> [HookCon_Service] : Game#1031476 Win Number: [2]
+03.09.13 10:34:28 >> [HookCon_Service] : Game#1031476 End
+03.09.13 10:34:57 >> [HookCon_Service] : Game#1031477 Start
+03.09.13 10:35:31 >> [HookCon_Service] : Game#1031477 Win Number: [16]
+03.09.13 10:35:31 >> [HookCon_Service] : Game#1031477 End
+03.09.13 10:35:59 >> [HookCon_Service] : Game#1031478 Start
+03.09.13 10:36:34 >> [HookCon_Service] : Game#1031478 Win Number: [21]
+03.09.13 10:36:35 >> [HookCon_Service] : Game#1031478 End
+03.09.13 10:37:03 >> [HookCon_Service] : Game#1031479 Start
+03.09.13 10:37:36 >> [HookCon_Service] : Game#1031479 Win Number: [7]
+03.09.13 10:37:37 >> [HookCon_Service] : Game#1031479 End
+03.09.13 10:38:06 >> [HookCon_Service] : Game#1031480 Start
+03.09.13 10:38:39 >> [HookCon_Service] : Game#1031480 Win Number: [7]
+03.09.13 10:38:39 >> [HookCon_Service] : Game#1031480 End
+03.09.13 10:39:07 >> [HookCon_Service] : Game#1031481 Start
+03.09.13 10:39:40 >> [HookCon_Service] : Game#1031481 Win Number: [16]
+03.09.13 10:39:40 >> [HookCon_Service] : Game#1031481 End
+03.09.13 10:40:09 >> [HookCon_Service] : Game#1031482 Start
+03.09.13 10:40:42 >> [HookCon_Service] : Game#1031482 Win Number: [9]
+03.09.13 10:40:42 >> [HookCon_Service] : Game#1031482 End
+03.09.13 10:41:09 >> [HookCon_Service] : Game#1031483 Start
+03.09.13 10:41:42 >> [HookCon_Service] : Game#1031483 Win Number: [2]
+03.09.13 10:41:42 >> [HookCon_Service] : Game#1031483 End
+03.09.13 10:42:11 >> [HookCon_Service] : Game#1031484 Start
+03.09.13 10:42:44 >> [HookCon_Service] : Game#1031484 Win Number: [15]
+03.09.13 10:42:45 >> [HookCon_Service] : Game#1031484 End
+03.09.13 10:43:12 >> [HookCon_Service] : Game#1031485 Start
+03.09.13 10:43:48 >> [HookCon_Service] : Game#1031485 Win Number: [0]
+03.09.13 10:43:48 >> [HookCon_Service] : Game#1031485 End
+03.09.13 10:44:17 >> [HookCon_Service] : Game#1031486 Start
+03.09.13 10:44:49 >> [HookCon_Service] : Game#1031486 Win Number: [32]
+03.09.13 10:44:50 >> [HookCon_Service] : Game#1031486 End
+03.09.13 10:45:19 >> [HookCon_Service] : Game#1031487 Start
+03.09.13 10:45:52 >> [HookCon_Service] : Game#1031487 Win Number: [19]
+03.09.13 10:45:52 >> [HookCon_Service] : Game#1031487 End
+03.09.13 10:46:20 >> [HookCon_Service] : Game#1031488 Start
+03.09.13 10:46:54 >> [HookCon_Service] : Game#1031488 Win Number: [15]
+03.09.13 10:46:54 >> [HookCon_Service] : Game#1031488 End
+03.09.13 10:47:22 >> [HookCon_Service] : Game#1031489 Start
+03.09.13 10:47:54 >> [HookCon_Service] : Game#1031489 Win Number: [32]
+03.09.13 10:47:55 >> [HookCon_Service] : Game#1031489 End
+03.09.13 10:48:25 >> [HookCon_Service] : Game#1031490 Start
+03.09.13 10:48:55 >> [HookCon_Service] : Game#1031490 Win Number: [7]
+03.09.13 10:48:55 >> [HookCon_Service] : Game#1031490 End
+03.09.13 10:49:24 >> [HookCon_Service] : Game#1031491 Start
+03.09.13 10:49:59 >> [HookCon_Service] : Game#1031491 Win Number: [20]
+03.09.13 10:50:00 >> [HookCon_Service] : Game#1031491 End
+03.09.13 10:50:27 >> [HookCon_Service] : Game#1031492 Start
+03.09.13 10:50:49 >> 192.168.17.100 [logon]
+03.09.13 10:51:02 >> [HookCon_Service] : Game#1031492 Win Number: [35]
+03.09.13 10:51:03 >> [HookCon_Service] : Game#1031492 End
+03.09.13 10:51:30 >> [HookCon_Service] : Game#1031493 Start
+03.09.13 10:52:05 >> [HookCon_Service] : Game#1031493 Win Number: [9]
+03.09.13 10:52:05 >> [HookCon_Service] : Game#1031493 End
+03.09.13 10:52:32 >> [HookCon_Service] : Game#1031494 Start
+03.09.13 10:53:06 >> [HookCon_Service] : Game#1031494 Win Number: [19]
+03.09.13 10:53:06 >> [HookCon_Service] : Game#1031494 End
+03.09.13 10:53:35 >> [HookCon_Service] : Game#1031495 Start
+03.09.13 10:54:07 >> [HookCon_Service] : Game#1031495 Win Number: [6]
+03.09.13 10:54:07 >> [HookCon_Service] : Game#1031495 End
+03.09.13 10:54:36 >> [HookCon_Service] : Game#1031496 Start
+03.09.13 10:55:09 >> [HookCon_Service] : Game#1031496 Win Number: [5]
+03.09.13 10:55:09 >> [HookCon_Service] : Game#1031496 End
+03.09.13 10:55:37 >> [HookCon_Service] : Game#1031497 Start
+03.09.13 10:56:11 >> [HookCon_Service] : Game#1031497 Win Number: [34]
+03.09.13 10:56:11 >> [HookCon_Service] : Game#1031497 End
+03.09.13 10:56:40 >> [HookCon_Service] : Game#1031498 Start
+03.09.13 10:57:16 >> [HookCon_Service] : Game#1031498 Win Number: [16]
+03.09.13 10:57:16 >> [HookCon_Service] : Game#1031498 End
+03.09.13 10:57:44 >> [HookCon_Service] : Game#1031499 Start
+03.09.13 10:58:18 >> [HookCon_Service] : Game#1031499 Win Number: [15]
+03.09.13 10:58:19 >> [HookCon_Service] : Game#1031499 End
+03.09.13 10:58:47 >> [HookCon_Service] : Game#1031500 Start
+03.09.13 10:59:19 >> [HookCon_Service] : Game#1031500 Win Number: [12]
+03.09.13 10:59:19 >> [HookCon_Service] : Game#1031500 End
+03.09.13 10:59:46 >> [HookCon_Service] : Game#1031501 Start
+03.09.13 11:00:20 >> [HookCon_Service] : Game#1031501 Win Number: [13]
+03.09.13 11:00:20 >> [HookCon_Service] : Game#1031501 End
+03.09.13 11:00:48 >> [HookCon_Service] : Game#1031502 Start
+03.09.13 11:01:21 >> [HookCon_Service] : Game#1031502 Win Number: [10]
+03.09.13 11:01:22 >> [HookCon_Service] : Game#1031502 End
+03.09.13 11:01:50 >> [HookCon_Service] : Game#1031503 Start
+03.09.13 11:02:22 >> [HookCon_Service] : Game#1031503 Win Number: [28]
+03.09.13 11:02:23 >> [HookCon_Service] : Game#1031503 End
+03.09.13 11:02:50 >> [HookCon_Service] : Game#1031504 Start
+03.09.13 11:03:27 >> [HookCon_Service] : Game#1031504 Win Number: [22]
+03.09.13 11:03:28 >> [HookCon_Service] : Game#1031504 End
+03.09.13 11:03:54 >> [HookCon_Service] : Game#1031505 Start
+03.09.13 11:04:29 >> [HookCon_Service] : Game#1031505 Win Number: [27]
+03.09.13 11:04:29 >> [HookCon_Service] : Game#1031505 End
+03.09.13 11:04:55 >> [HookCon_Service] : Game#1031506 Start
+03.09.13 11:05:32 >> [HookCon_Service] : Game#1031506 Win Number: [8]
+03.09.13 11:05:32 >> [HookCon_Service] : Game#1031506 End
+03.09.13 11:06:01 >> [HookCon_Service] : Game#1031507 Start
+03.09.13 11:06:33 >> [HookCon_Service] : Game#1031507 Win Number: [35]
+03.09.13 11:06:34 >> [HookCon_Service] : Game#1031507 End
+03.09.13 11:07:01 >> [HookCon_Service] : Game#1031508 Start
+03.09.13 11:07:34 >> [HookCon_Service] : Game#1031508 Win Number: [0]
+03.09.13 11:07:34 >> [HookCon_Service] : Game#1031508 End
+03.09.13 11:08:02 >> [HookCon_Service] : Game#1031509 Start
+03.09.13 11:08:34 >> [HookCon_Service] : Game#1031509 Win Number: [6]
+03.09.13 11:08:35 >> [HookCon_Service] : Game#1031509 End
+03.09.13 11:09:04 >> [HookCon_Service] : Game#1031510 Start
+03.09.13 11:09:40 >> [HookCon_Service] : Game#1031510 Win Number: [32]
+03.09.13 11:09:40 >> [HookCon_Service] : Game#1031510 End
+03.09.13 11:10:09 >> [HookCon_Service] : Game#1031511 Start
+03.09.13 11:10:41 >> [HookCon_Service] : Game#1031511 Win Number: [35]
+03.09.13 11:10:41 >> [HookCon_Service] : Game#1031511 End
+03.09.13 11:11:10 >> [HookCon_Service] : Game#1031512 Start
+03.09.13 11:11:43 >> [HookCon_Service] : Game#1031512 Win Number: [33]
+03.09.13 11:11:44 >> [HookCon_Service] : Game#1031512 End
+03.09.13 11:12:11 >> [HookCon_Service] : Game#1031513 Start
+03.09.13 11:12:43 >> [HookCon_Service] : Game#1031513 Win Number: [13]
+03.09.13 11:12:44 >> [HookCon_Service] : Game#1031513 End
+03.09.13 11:13:12 >> [HookCon_Service] : Game#1031514 Start
+03.09.13 11:13:46 >> [HookCon_Service] : Game#1031514 Win Number: [29]
+03.09.13 11:13:46 >> [HookCon_Service] : Game#1031514 End
+03.09.13 11:14:14 >> [HookCon_Service] : Game#1031515 Start
+03.09.13 11:14:45 >> [HookCon_Service] : Game#1031515 Win Number: [8]
+03.09.13 11:14:45 >> [HookCon_Service] : Game#1031515 End
+03.09.13 11:15:14 >> [HookCon_Service] : Game#1031516 Start
+03.09.13 11:15:46 >> [HookCon_Service] : Game#1031516 Win Number: [2]
+03.09.13 11:15:46 >> [HookCon_Service] : Game#1031516 End
+03.09.13 11:16:14 >> [HookCon_Service] : Game#1031517 Start
+03.09.13 11:16:47 >> [HookCon_Service] : Game#1031517 Win Number: [29]
+03.09.13 11:16:48 >> [HookCon_Service] : Game#1031517 End
+03.09.13 11:17:16 >> [HookCon_Service] : Game#1031518 Start
+03.09.13 11:17:46 >> [HookCon_Service] : Game#1031518 Win Number: [4]
+03.09.13 11:17:46 >> [HookCon_Service] : Game#1031518 End
+03.09.13 11:18:15 >> [HookCon_Service] : Game#1031519 Start
+03.09.13 11:18:46 >> [HookCon_Service] : Game#1031519 Win Number: [20]
+03.09.13 11:18:47 >> [HookCon_Service] : Game#1031519 End
+03.09.13 11:19:16 >> [HookCon_Service] : Game#1031520 Start
+03.09.13 11:19:47 >> [HookCon_Service] : Game#1031520 Win Number: [35]
+03.09.13 11:19:48 >> [HookCon_Service] : Game#1031520 End
+03.09.13 11:20:15 >> [HookCon_Service] : Game#1031521 Start
+03.09.13 11:20:48 >> [HookCon_Service] : Game#1031521 Win Number: [10]
+03.09.13 11:20:48 >> [HookCon_Service] : Game#1031521 End
+03.09.13 11:21:16 >> [HookCon_Service] : Game#1031522 Start
+03.09.13 11:21:48 >> [HookCon_Service] : Game#1031522 Win Number: [22]
+03.09.13 11:21:48 >> [HookCon_Service] : Game#1031522 End
+03.09.13 11:22:16 >> [HookCon_Service] : Game#1031523 Start
+03.09.13 11:22:50 >> [HookCon_Service] : Game#1031523 Win Number: [5]
+03.09.13 11:22:51 >> [HookCon_Service] : Game#1031523 End
+03.09.13 11:23:18 >> [HookCon_Service] : Game#1031524 Start
+03.09.13 11:23:53 >> [HookCon_Service] : Game#1031524 Win Number: [15]
+03.09.13 11:23:53 >> [HookCon_Service] : Game#1031524 End
+03.09.13 11:24:22 >> [HookCon_Service] : Game#1031525 Start
+03.09.13 11:24:55 >> [HookCon_Service] : Game#1031525 Win Number: [1]
+03.09.13 11:24:55 >> [HookCon_Service] : Game#1031525 End
+03.09.13 11:25:22 >> [HookCon_Service] : Game#1031526 Start
+03.09.13 11:25:56 >> [HookCon_Service] : Game#1031526 Win Number: [19]
+03.09.13 11:25:56 >> [HookCon_Service] : Game#1031526 End
+03.09.13 11:26:25 >> [HookCon_Service] : Game#1031527 Start
+03.09.13 11:26:54 >> [HookCon_Service] : Game#1031527 Win Number: [15]
+03.09.13 11:26:54 >> [HookCon_Service] : Game#1031527 End
+03.09.13 11:27:23 >> [HookCon_Service] : Game#1031528 Start
+03.09.13 11:27:54 >> [HookCon_Service] : Game#1031528 Win Number: [1]
+03.09.13 11:27:54 >> [HookCon_Service] : Game#1031528 End
+03.09.13 11:28:23 >> [HookCon_Service] : Game#1031529 Start
+03.09.13 11:28:57 >> [HookCon_Service] : Game#1031529 Win Number: [20]
+03.09.13 11:28:58 >> [HookCon_Service] : Game#1031529 End
+03.09.13 11:29:27 >> [HookCon_Service] : Game#1031530 Start
+03.09.13 11:30:00 >> [HookCon_Service] : Game#1031530 Win Number: [26]
+03.09.13 11:30:00 >> [HookCon_Service] : Game#1031530 End
+03.09.13 11:30:26 >> [HookCon_Service] : Game#1031531 Start
+03.09.13 11:31:01 >> [HookCon_Service] : Game#1031531 Win Number: [12]
+03.09.13 11:31:01 >> [HookCon_Service] : Game#1031531 End
+03.09.13 11:31:30 >> [HookCon_Service] : Game#1031532 Start
+03.09.13 11:32:02 >> [HookCon_Service] : Game#1031532 Win Number: [36]
+03.09.13 11:32:02 >> [HookCon_Service] : Game#1031532 End
+03.09.13 11:32:31 >> [HookCon_Service] : Game#1031533 Start
+03.09.13 11:33:04 >> [HookCon_Service] : Game#1031533 Win Number: [2]
+03.09.13 11:33:05 >> [HookCon_Service] : Game#1031533 End
+03.09.13 11:33:32 >> [HookCon_Service] : Game#1031534 Start
+03.09.13 11:34:08 >> [HookCon_Service] : Game#1031534 Win Number: [2]
+03.09.13 11:34:08 >> [HookCon_Service] : Game#1031534 End
+03.09.13 11:34:36 >> [HookCon_Service] : Game#1031535 Start
+03.09.13 11:35:10 >> [HookCon_Service] : Game#1031535 Win Number: [6]
+03.09.13 11:35:11 >> [HookCon_Service] : Game#1031535 End
+03.09.13 11:35:37 >> [HookCon_Service] : Game#1031536 Start
+03.09.13 11:36:12 >> [HookCon_Service] : Game#1031536 Win Number: [29]
+03.09.13 11:36:13 >> [HookCon_Service] : Game#1031536 End
+03.09.13 11:36:41 >> [HookCon_Service] : Game#1031537 Start
+03.09.13 11:37:16 >> [HookCon_Service] : Game#1031537 Win Number: [32]
+03.09.13 11:37:17 >> [HookCon_Service] : Game#1031537 End
+03.09.13 11:37:43 >> [HookCon_Service] : Game#1031538 Start
+03.09.13 11:38:19 >> [HookCon_Service] : Game#1031538 Win Number: [21]
+03.09.13 11:38:19 >> [HookCon_Service] : Game#1031538 End
+03.09.13 11:38:47 >> [HookCon_Service] : Game#1031539 Start
+03.09.13 11:39:19 >> [HookCon_Service] : Game#1031539 Win Number: [4]
+03.09.13 11:39:20 >> [HookCon_Service] : Game#1031539 End
+03.09.13 11:39:50 >> [HookCon_Service] : Game#1031540 Start
+03.09.13 11:40:22 >> [HookCon_Service] : Game#1031540 Win Number: [8]
+03.09.13 11:40:22 >> [HookCon_Service] : Game#1031540 End
+03.09.13 11:40:51 >> [HookCon_Service] : Game#1031541 Start
+03.09.13 11:41:22 >> [HookCon_Service] : Game#1031541 Win Number: [25]
+03.09.13 11:41:22 >> [HookCon_Service] : Game#1031541 End
+03.09.13 11:41:50 >> [HookCon_Service] : Game#1031542 Start
+03.09.13 11:42:23 >> [HookCon_Service] : Game#1031542 Win Number: [22]
+03.09.13 11:42:24 >> [HookCon_Service] : Game#1031542 End
+03.09.13 11:42:51 >> [HookCon_Service] : Game#1031543 Start
+03.09.13 11:43:25 >> [HookCon_Service] : Game#1031543 Win Number: [35]
+03.09.13 11:43:25 >> [HookCon_Service] : Game#1031543 End
+03.09.13 11:43:54 >> [HookCon_Service] : Game#1031544 Start
+03.09.13 11:44:25 >> [HookCon_Service] : Game#1031544 Win Number: [34]
+03.09.13 11:44:55 >> [HookCon_Service] : Game#1031545 Start
+03.09.13 11:45:25 >> [HookCon_Service] : Game#1031545 Win Number: [26]
+03.09.13 11:45:26 >> [HookCon_Service] : Game#1031545 End
+03.09.13 11:45:52 >> [HookCon_Service] : Game#1031546 Start
+03.09.13 11:46:29 >> [HookCon_Service] : Game#1031546 Win Number: [34]
+03.09.13 11:46:29 >> [HookCon_Service] : Game#1031546 End
+03.09.13 11:46:56 >> [HookCon_Service] : Game#1031547 Start
+03.09.13 11:47:31 >> [HookCon_Service] : Game#1031547 Win Number: [16]
+03.09.13 11:47:31 >> [HookCon_Service] : Game#1031547 End
+03.09.13 11:48:00 >> [HookCon_Service] : Game#1031548 Start
+03.09.13 11:48:33 >> [HookCon_Service] : Game#1031548 Win Number: [1]
+03.09.13 11:48:34 >> [HookCon_Service] : Game#1031548 End
+03.09.13 11:49:02 >> [HookCon_Service] : Game#1031549 Start
+03.09.13 11:49:34 >> [HookCon_Service] : Game#1031549 Win Number: [9]
+03.09.13 11:49:35 >> [HookCon_Service] : Game#1031549 End
+03.09.13 11:50:05 >> [HookCon_Service] : Game#1031550 Start
+03.09.13 11:50:37 >> [HookCon_Service] : Game#1031550 Win Number: [1]
+03.09.13 11:50:38 >> [HookCon_Service] : Game#1031550 End
+03.09.13 11:51:05 >> [HookCon_Service] : Game#1031551 Start
+03.09.13 11:51:38 >> [HookCon_Service] : Game#1031551 Win Number: [10]
+03.09.13 11:51:38 >> [HookCon_Service] : Game#1031551 End
+03.09.13 11:52:07 >> [HookCon_Service] : Game#1031552 Start
+03.09.13 11:52:40 >> [HookCon_Service] : Game#1031552 Win Number: [17]
+03.09.13 11:52:40 >> [HookCon_Service] : Game#1031552 End
+03.09.13 11:53:09 >> [HookCon_Service] : Game#1031553 Start
+03.09.13 11:53:42 >> [HookCon_Service] : Game#1031553 Win Number: [12]
+03.09.13 11:53:42 >> [HookCon_Service] : Game#1031553 End
+03.09.13 11:54:11 >> [HookCon_Service] : Game#1031554 Start
+03.09.13 11:54:46 >> [HookCon_Service] : Game#1031554 Win Number: [21]
+03.09.13 11:54:47 >> [HookCon_Service] : Game#1031554 End
+03.09.13 11:55:16 >> [HookCon_Service] : Game#1031555 Start
+03.09.13 11:55:49 >> [HookCon_Service] : Game#1031555 Win Number: [13]
+03.09.13 11:55:49 >> [HookCon_Service] : Game#1031555 End
+03.09.13 11:56:17 >> [HookCon_Service] : Game#1031556 Start
+03.09.13 11:56:49 >> [HookCon_Service] : Game#1031556 Win Number: [27]
+03.09.13 11:56:50 >> [HookCon_Service] : Game#1031556 End
+03.09.13 11:57:17 >> [HookCon_Service] : Game#1031557 Start
+03.09.13 11:57:52 >> [HookCon_Service] : Game#1031557 Win Number: [5]
+03.09.13 11:57:52 >> [HookCon_Service] : Game#1031557 End
+03.09.13 11:58:21 >> [HookCon_Service] : Game#1031558 Start
+03.09.13 11:58:52 >> [HookCon_Service] : Game#1031558 Win Number: [34]
+03.09.13 11:58:53 >> [HookCon_Service] : Game#1031558 End
+03.09.13 11:59:21 >> [HookCon_Service] : Game#1031559 Start
+03.09.13 11:59:54 >> [HookCon_Service] : Game#1031559 Win Number: [34]
+03.09.13 11:59:54 >> [HookCon_Service] : Game#1031559 End
+03.09.13 12:00:24 >> [HookCon_Service] : Game#1031560 Start
+03.09.13 12:00:55 >> [HookCon_Service] : Game#1031560 Win Number: [13]
+03.09.13 12:00:55 >> [HookCon_Service] : Game#1031560 End
+03.09.13 12:01:24 >> [HookCon_Service] : Game#1031561 Start
+03.09.13 12:01:56 >> [HookCon_Service] : Game#1031561 Win Number: [20]
+03.09.13 12:01:57 >> [HookCon_Service] : Game#1031561 End
+03.09.13 12:02:26 >> [HookCon_Service] : Game#1031562 Start
+03.09.13 12:02:58 >> [HookCon_Service] : Game#1031562 Win Number: [17]
+03.09.13 12:02:59 >> [HookCon_Service] : Game#1031562 End
+03.09.13 12:03:26 >> [HookCon_Service] : Game#1031563 Start
+03.09.13 12:03:59 >> [HookCon_Service] : Game#1031563 Win Number: [3]
+03.09.13 12:04:00 >> [HookCon_Service] : Game#1031563 End
+03.09.13 12:04:28 >> [HookCon_Service] : Game#1031564 Start
+03.09.13 12:04:59 >> [HookCon_Service] : Game#1031564 Win Number: [32]
+03.09.13 12:05:00 >> [HookCon_Service] : Game#1031564 End
+03.09.13 12:05:28 >> [HookCon_Service] : Game#1031565 Start
+03.09.13 12:06:03 >> [HookCon_Service] : Game#1031565 Win Number: [21]
+03.09.13 12:06:03 >> [HookCon_Service] : Game#1031565 End
+03.09.13 12:06:30 >> [HookCon_Service] : Game#1031566 Start
+03.09.13 12:07:05 >> [HookCon_Service] : Game#1031566 Win Number: [25]
+03.09.13 12:07:06 >> [HookCon_Service] : Game#1031566 End
+03.09.13 12:07:35 >> [HookCon_Service] : Game#1031567 Start
+03.09.13 12:08:07 >> [HookCon_Service] : Game#1031567 Win Number: [24]
+03.09.13 12:08:08 >> [HookCon_Service] : Game#1031567 End
+03.09.13 12:08:37 >> [HookCon_Service] : Game#1031568 Start
+03.09.13 12:09:08 >> [HookCon_Service] : Game#1031568 Win Number: [33]
+03.09.13 12:09:08 >> [HookCon_Service] : Game#1031568 End
+03.09.13 12:09:35 >> [HookCon_Service] : Game#1031569 Start
+03.09.13 12:10:10 >> [HookCon_Service] : Game#1031569 Win Number: [17]
+03.09.13 12:10:11 >> [HookCon_Service] : Game#1031569 End
+03.09.13 12:10:41 >> [HookCon_Service] : Game#1031570 Start
+03.09.13 12:11:12 >> [HookCon_Service] : Game#1031570 Win Number: [34]
+03.09.13 12:11:12 >> [HookCon_Service] : Game#1031570 End
+03.09.13 12:11:40 >> [HookCon_Service] : Game#1031571 Start
+03.09.13 12:12:13 >> [HookCon_Service] : Game#1031571 Win Number: [29]
+03.09.13 12:12:13 >> [HookCon_Service] : Game#1031571 End
+03.09.13 12:12:41 >> [HookCon_Service] : Game#1031572 Start
+03.09.13 12:13:17 >> [HookCon_Service] : Game#1031572 Win Number: [21]
+03.09.13 12:13:17 >> [HookCon_Service] : Game#1031572 End
+03.09.13 12:13:44 >> [HookCon_Service] : Game#1031573 Start
+03.09.13 12:14:19 >> [HookCon_Service] : Game#1031573 Win Number: [1]
+03.09.13 12:14:27 >> [HookCon_Service] : Game#1031573 End
+03.09.13 12:14:55 >> [HookCon_Service] : Game#1031574 Start
+03.09.13 12:15:28 >> [HookCon_Service] : Game#1031574 Win Number: [14]
+03.09.13 12:15:36 >> [HookCon_Service] : Game#1031574 End
+03.09.13 12:16:05 >> [HookCon_Service] : Game#1031575 Start
+03.09.13 12:16:39 >> [HookCon_Service] : Game#1031575 Win Number: [29]
+03.09.13 12:16:47 >> [HookCon_Service] : Game#1031575 End
+03.09.13 12:17:14 >> [HookCon_Service] : Game#1031576 Start
+03.09.13 12:17:48 >> [HookCon_Service] : Game#1031576 Win Number: [23]
+03.09.13 12:17:57 >> [HookCon_Service] : Game#1031576 End
+03.09.13 12:18:25 >> [HookCon_Service] : Game#1031577 Start
+03.09.13 12:19:00 >> [HookCon_Service] : Game#1031577 Win Number: [11]
+03.09.13 12:19:09 >> [HookCon_Service] : Game#1031577 End
+03.09.13 12:19:37 >> [HookCon_Service] : Game#1031578 Start
+03.09.13 12:20:09 >> [HookCon_Service] : Game#1031578 Win Number: [3]
+03.09.13 12:20:09 >> [HookCon_Service] : Game#1031578 End
+03.09.13 12:20:38 >> [HookCon_Service] : Game#1031579 Start
+03.09.13 12:21:10 >> [HookCon_Service] : Game#1031579 Win Number: [17]
+03.09.13 12:21:11 >> [HookCon_Service] : Game#1031579 End
+03.09.13 12:21:41 >> [HookCon_Service] : Game#1031580 Start
+03.09.13 12:22:12 >> [HookCon_Service] : Game#1031580 Win Number: [36]
+03.09.13 12:22:12 >> [HookCon_Service] : Game#1031580 End
+03.09.13 12:22:41 >> [HookCon_Service] : Game#1031581 Start
+03.09.13 12:23:16 >> [HookCon_Service] : Game#1031581 Win Number: [9]
+03.09.13 12:23:17 >> [HookCon_Service] : Game#1031581 End
+03.09.13 12:23:45 >> [HookCon_Service] : Game#1031582 Start
+03.09.13 12:24:15 >> [HookCon_Service] : Game#1031582 Win Number: [7]
+03.09.13 12:24:16 >> [HookCon_Service] : Game#1031582 End
+03.09.13 12:24:43 >> [HookCon_Service] : Game#1031583 Start
+03.09.13 12:25:16 >> [HookCon_Service] : Game#1031583 Win Number: [28]
+03.09.13 12:25:16 >> [HookCon_Service] : Game#1031583 End
+03.09.13 12:25:43 >> [HookCon_Service] : Game#1031584 Start
+03.09.13 12:26:14 >> [HookCon_Service] : Game#1031584 Win Number: [3]
+03.09.13 12:26:15 >> [HookCon_Service] : Game#1031584 End
+03.09.13 12:26:43 >> [HookCon_Service] : Game#1031585 Start
+03.09.13 12:27:20 >> [HookCon_Service] : Game#1031585 Win Number: [27]
+03.09.13 12:27:20 >> [HookCon_Service] : Game#1031585 End
+03.09.13 12:27:48 >> [HookCon_Service] : Game#1031586 Start
+03.09.13 12:28:20 >> [HookCon_Service] : Game#1031586 Win Number: [0]
+03.09.13 12:28:21 >> [HookCon_Service] : Game#1031586 End
+03.09.13 12:28:48 >> [HookCon_Service] : Game#1031587 Start
+03.09.13 12:29:23 >> [HookCon_Service] : Game#1031587 Win Number: [35]
+03.09.13 12:29:23 >> [HookCon_Service] : Game#1031587 End
+03.09.13 12:29:51 >> [HookCon_Service] : Game#1031588 Start
+03.09.13 12:30:22 >> [HookCon_Service] : Game#1031588 Win Number: [15]
+03.09.13 12:30:23 >> [HookCon_Service] : Game#1031588 End
+03.09.13 12:30:52 >> [HookCon_Service] : Game#1031589 Start
+03.09.13 12:31:24 >> [HookCon_Service] : Game#1031589 Win Number: [4]
+03.09.13 12:31:25 >> [HookCon_Service] : Game#1031589 End
+03.09.13 12:31:54 >> [HookCon_Service] : Game#1031590 Start
+03.09.13 12:32:28 >> [HookCon_Service] : Game#1031590 Win Number: [9]
+03.09.13 12:32:28 >> [HookCon_Service] : Game#1031590 End
+03.09.13 12:32:57 >> [HookCon_Service] : Game#1031591 Start
+03.09.13 12:33:27 >> [HookCon_Service] : Game#1031591 Win Number: [7]
+03.09.13 12:33:28 >> [HookCon_Service] : Game#1031591 End
+03.09.13 12:33:56 >> [HookCon_Service] : Game#1031592 Start
+03.09.13 12:34:28 >> [HookCon_Service] : Game#1031592 Win Number: [30]
+03.09.13 12:34:29 >> [HookCon_Service] : Game#1031592 End
+03.09.13 12:34:58 >> [HookCon_Service] : Game#1031593 Start
+03.09.13 12:35:28 >> [HookCon_Service] : Game#1031593 Win Number: [26]
+03.09.13 12:35:28 >> [HookCon_Service] : Game#1031593 End
+03.09.13 12:35:55 >> [HookCon_Service] : Game#1031594 Start
+03.09.13 12:36:27 >> [HookCon_Service] : Game#1031594 Win Number: [26]
+03.09.13 12:36:28 >> [HookCon_Service] : Game#1031594 End
+03.09.13 12:36:57 >> [HookCon_Service] : Game#1031595 Start
+03.09.13 12:37:26 >> [HookCon_Service] : Game#1031595 Win Number: [18]
+03.09.13 12:37:27 >> [HookCon_Service] : Game#1031595 End
+03.09.13 12:37:56 >> [HookCon_Service] : Game#1031596 Start
+03.09.13 12:38:25 >> [HookCon_Service] : Game#1031596 Win Number: [9]
+03.09.13 12:38:25 >> [HookCon_Service] : Game#1031596 End
+03.09.13 12:38:52 >> [HookCon_Service] : Game#1031597 Start
+03.09.13 12:39:27 >> [HookCon_Service] : Game#1031597 Win Number: [19]
+03.09.13 12:39:27 >> [HookCon_Service] : Game#1031597 End
+03.09.13 12:39:55 >> [HookCon_Service] : Game#1031598 Start
+03.09.13 12:40:27 >> [HookCon_Service] : Game#1031598 Win Number: [22]
+03.09.13 12:40:28 >> [HookCon_Service] : Game#1031598 End
+03.09.13 12:40:56 >> [HookCon_Service] : Game#1031599 Start
+03.09.13 12:41:28 >> [HookCon_Service] : Game#1031599 Win Number: [23]
+03.09.13 12:41:29 >> [HookCon_Service] : Game#1031599 End
+03.09.13 12:41:59 >> [HookCon_Service] : Game#1031600 Start
+03.09.13 12:42:29 >> [HookCon_Service] : Game#1031600 Win Number: [15]
+03.09.13 12:42:29 >> [HookCon_Service] : Game#1031600 End
+03.09.13 12:42:56 >> [HookCon_Service] : Game#1031601 Start
+03.09.13 12:43:26 >> [HookCon_Service] : Game#1031601 Win Number: [7]
+03.09.13 12:43:27 >> [HookCon_Service] : Game#1031601 End
+03.09.13 12:43:54 >> [HookCon_Service] : Game#1031602 Start
+03.09.13 12:44:27 >> [HookCon_Service] : Game#1031602 Win Number: [3]
+03.09.13 12:44:28 >> [HookCon_Service] : Game#1031602 End
+03.09.13 12:44:55 >> [HookCon_Service] : Game#1031603 Start
+03.09.13 12:45:29 >> [HookCon_Service] : Game#1031603 Win Number: [10]
+03.09.13 12:45:29 >> [HookCon_Service] : Game#1031603 End
+03.09.13 12:45:57 >> [HookCon_Service] : Game#1031604 Start
+03.09.13 12:46:32 >> [HookCon_Service] : Game#1031604 Win Number: [32]
+03.09.13 12:46:32 >> [HookCon_Service] : Game#1031604 End
+03.09.13 12:46:59 >> [HookCon_Service] : Game#1031605 Start
+03.09.13 12:47:36 >> [HookCon_Service] : Game#1031605 Win Number: [15]
+03.09.13 12:47:36 >> [HookCon_Service] : Game#1031605 End
+03.09.13 12:48:03 >> [HookCon_Service] : Game#1031606 Start
+03.09.13 12:48:40 >> [HookCon_Service] : Game#1031606 Win Number: [12]
+03.09.13 12:48:40 >> [HookCon_Service] : Game#1031606 End
+03.09.13 12:49:08 >> [HookCon_Service] : Game#1031607 Start
+03.09.13 12:49:43 >> [HookCon_Service] : Game#1031607 Win Number: [21]
+03.09.13 12:49:44 >> [HookCon_Service] : Game#1031607 End
+03.09.13 12:50:13 >> [HookCon_Service] : Game#1031608 Start
+03.09.13 12:50:43 >> [HookCon_Service] : Game#1031608 Win Number: [35]
+03.09.13 12:50:43 >> [HookCon_Service] : Game#1031608 End
+03.09.13 12:51:12 >> [HookCon_Service] : Game#1031609 Start
+03.09.13 12:51:48 >> [HookCon_Service] : Game#1031609 Win Number: [31]
+03.09.13 12:51:48 >> [HookCon_Service] : Game#1031609 End
+03.09.13 12:52:16 >> [HookCon_Service] : Game#1031610 Start
+03.09.13 12:52:50 >> [HookCon_Service] : Game#1031610 Win Number: [15]
+03.09.13 12:52:51 >> [HookCon_Service] : Game#1031610 End
+03.09.13 12:53:19 >> [HookCon_Service] : Game#1031611 Start
+03.09.13 12:53:54 >> [HookCon_Service] : Game#1031611 Win Number: [13]
+03.09.13 12:53:54 >> [HookCon_Service] : Game#1031611 End
+03.09.13 12:54:23 >> [HookCon_Service] : Game#1031612 Start
+03.09.13 12:54:52 >> [HookCon_Service] : Game#1031612 Win Number: [4]
+03.09.13 12:54:52 >> [HookCon_Service] : Game#1031612 End
+03.09.13 12:55:20 >> [HookCon_Service] : Game#1031613 Start
+03.09.13 12:55:54 >> [HookCon_Service] : Game#1031613 Win Number: [8]
+03.09.13 12:55:55 >> [HookCon_Service] : Game#1031613 End
+03.09.13 12:56:22 >> [HookCon_Service] : Game#1031614 Start
+03.09.13 12:56:55 >> [HookCon_Service] : Game#1031614 Win Number: [13]
+03.09.13 12:56:55 >> [HookCon_Service] : Game#1031614 End
+03.09.13 12:57:22 >> [HookCon_Service] : Game#1031615 Start
+03.09.13 12:57:56 >> [HookCon_Service] : Game#1031615 Win Number: [28]
+03.09.13 12:57:56 >> [HookCon_Service] : Game#1031615 End
+03.09.13 12:58:26 >> [HookCon_Service] : Game#1031616 Start
+03.09.13 12:58:56 >> [HookCon_Service] : Game#1031616 Win Number: [7]
+03.09.13 12:58:57 >> [HookCon_Service] : Game#1031616 End
+03.09.13 12:59:25 >> [HookCon_Service] : Game#1031617 Start
+03.09.13 12:59:58 >> [HookCon_Service] : Game#1031617 Win Number: [21]
+03.09.13 12:59:58 >> [HookCon_Service] : Game#1031617 End
+03.09.13 01:00:26 >> [HookCon_Service] : Game#1031618 Start
+03.09.13 01:00:58 >> [HookCon_Service] : Game#1031618 Win Number: [22]
+03.09.13 01:00:58 >> [HookCon_Service] : Game#1031618 End
+03.09.13 01:01:26 >> [HookCon_Service] : Game#1031619 Start
+03.09.13 01:02:00 >> [HookCon_Service] : Game#1031619 Win Number: [12]
+03.09.13 01:02:01 >> [HookCon_Service] : Game#1031619 End
+03.09.13 01:02:30 >> [HookCon_Service] : Game#1031620 Start
+03.09.13 01:03:03 >> [HookCon_Service] : Game#1031620 Win Number: [3]
+03.09.13 01:03:03 >> [HookCon_Service] : Game#1031620 End
+03.09.13 01:03:31 >> [HookCon_Service] : Game#1031621 Start
+03.09.13 01:04:05 >> [HookCon_Service] : Game#1031621 Win Number: [29]
+03.09.13 01:04:05 >> [HookCon_Service] : Game#1031621 End
+03.09.13 01:04:34 >> [HookCon_Service] : Game#1031622 Start
+03.09.13 01:05:08 >> [HookCon_Service] : Game#1031622 Win Number: [3]
+03.09.13 01:05:08 >> [HookCon_Service] : Game#1031622 End
+03.09.13 01:05:36 >> [HookCon_Service] : Game#1031623 Start
+03.09.13 01:06:11 >> [HookCon_Service] : Game#1031623 Win Number: [34]
+03.09.13 01:06:11 >> [HookCon_Service] : Game#1031623 End
+03.09.13 01:06:39 >> [HookCon_Service] : Game#1031624 Start
+03.09.13 01:07:12 >> [HookCon_Service] : Game#1031624 Win Number: [5]
+03.09.13 01:07:12 >> [HookCon_Service] : Game#1031624 End
+03.09.13 01:07:40 >> [HookCon_Service] : Game#1031625 Start
+03.09.13 01:08:13 >> [HookCon_Service] : Game#1031625 Win Number: [2]
+03.09.13 01:08:13 >> [HookCon_Service] : Game#1031625 End
+03.09.13 01:08:41 >> [HookCon_Service] : Game#1031626 Start
+03.09.13 01:09:13 >> [HookCon_Service] : Game#1031626 Win Number: [27]
+03.09.13 01:09:14 >> [HookCon_Service] : Game#1031626 End
+03.09.13 01:09:43 >> [HookCon_Service] : Game#1031627 Start
+03.09.13 01:10:14 >> [HookCon_Service] : Game#1031627 Win Number: [30]
+03.09.13 01:10:14 >> [HookCon_Service] : Game#1031627 End
+03.09.13 01:10:42 >> [HookCon_Service] : Game#1031628 Start
+03.09.13 01:11:14 >> [HookCon_Service] : Game#1031628 Win Number: [17]
+03.09.13 01:11:14 >> [HookCon_Service] : Game#1031628 End
+03.09.13 01:11:42 >> [HookCon_Service] : Game#1031629 Start
+03.09.13 01:12:20 >> [HookCon_Service] : Game#1031629 Win Number: [11]
+03.09.13 01:12:21 >> [HookCon_Service] : Game#1031629 End
+03.09.13 01:12:50 >> [HookCon_Service] : Game#1031630 Start
+03.09.13 01:13:25 >> [HookCon_Service] : Game#1031630 Win Number: [16]
+03.09.13 01:13:25 >> [HookCon_Service] : Game#1031630 End
+03.09.13 01:13:53 >> [HookCon_Service] : Game#1031631 Start
+03.09.13 01:14:28 >> [HookCon_Service] : Game#1031631 Win Number: [0]
+03.09.13 01:14:29 >> [HookCon_Service] : Game#1031631 End
+03.09.13 01:14:58 >> [HookCon_Service] : Game#1031632 Start
+03.09.13 01:15:31 >> [HookCon_Service] : Game#1031632 Win Number: [11]
+03.09.13 01:15:32 >> [HookCon_Service] : Game#1031632 End
+03.09.13 01:15:58 >> [HookCon_Service] : Game#1031633 Start
+03.09.13 01:16:35 >> [HookCon_Service] : Game#1031633 Win Number: [27]
+03.09.13 01:16:35 >> [HookCon_Service] : Game#1031633 End
+03.09.13 01:17:02 >> [HookCon_Service] : Game#1031634 Start
+03.09.13 01:17:40 >> [HookCon_Service] : Game#1031634 Win Number: [9]
+03.09.13 01:17:41 >> [HookCon_Service] : Game#1031634 End
+03.09.13 01:18:10 >> [HookCon_Service] : Game#1031635 Start
+03.09.13 01:18:41 >> [HookCon_Service] : Game#1031635 Win Number: [24]
+03.09.13 01:18:41 >> [HookCon_Service] : Game#1031635 End
+03.09.13 01:19:10 >> [HookCon_Service] : Game#1031636 Start
+03.09.13 01:19:42 >> [HookCon_Service] : Game#1031636 Win Number: [29]
+03.09.13 01:19:42 >> [HookCon_Service] : Game#1031636 End
+03.09.13 01:20:08 >> [HookCon_Service] : Game#1031637 Start
+03.09.13 01:20:47 >> [HookCon_Service] : Game#1031637 Win Number: [25]
+03.09.13 01:20:48 >> [HookCon_Service] : Game#1031637 End
+03.09.13 01:21:15 >> [HookCon_Service] : Game#1031638 Start
+03.09.13 01:21:50 >> [HookCon_Service] : Game#1031638 Win Number: [36]
+03.09.13 01:21:51 >> [HookCon_Service] : Game#1031638 End
+03.09.13 01:22:19 >> [HookCon_Service] : Game#1031639 Start
+03.09.13 01:22:54 >> [HookCon_Service] : Game#1031639 Win Number: [24]
+03.09.13 01:23:02 >> [HookCon_Service] : Game#1031639 End
+03.09.13 01:23:30 >> [HookCon_Service] : Game#1031640 Start
+03.09.13 01:24:04 >> [HookCon_Service] : Game#1031640 Win Number: [18]
+03.09.13 01:24:04 >> [HookCon_Service] : Game#1031640 End
+03.09.13 01:24:33 >> [HookCon_Service] : Game#1031641 Start
+03.09.13 01:25:04 >> [HookCon_Service] : Game#1031641 Win Number: [13]
+03.09.13 01:25:04 >> [HookCon_Service] : Game#1031641 End
+03.09.13 01:25:33 >> [HookCon_Service] : Game#1031642 Start
+03.09.13 01:26:04 >> [HookCon_Service] : Game#1031642 Win Number: [12]
+03.09.13 01:26:04 >> [HookCon_Service] : Game#1031642 End
+03.09.13 01:26:31 >> [HookCon_Service] : Game#1031643 Start
+03.09.13 01:27:07 >> [HookCon_Service] : Game#1031643 Win Number: [1]
+03.09.13 01:27:08 >> [HookCon_Service] : Game#1031643 End
+03.09.13 01:27:36 >> [HookCon_Service] : Game#1031644 Start
+03.09.13 01:28:07 >> [HookCon_Service] : Game#1031644 Win Number: [31]
+03.09.13 01:28:36 >> [HookCon_Service] : Game#1031645 Start
+03.09.13 01:29:10 >> [HookCon_Service] : Game#1031645 Win Number: [2]
+03.09.13 01:29:11 >> [HookCon_Service] : Game#1031645 End
+03.09.13 01:29:37 >> [HookCon_Service] : Game#1031646 Start
+03.09.13 01:30:13 >> [HookCon_Service] : Game#1031646 Win Number: [4]
+03.09.13 01:30:14 >> [HookCon_Service] : Game#1031646 End
+03.09.13 01:30:42 >> [HookCon_Service] : Game#1031647 Start
+03.09.13 01:31:13 >> [HookCon_Service] : Game#1031647 Win Number: [16]
+03.09.13 01:31:13 >> [HookCon_Service] : Game#1031647 End
+03.09.13 01:31:41 >> [HookCon_Service] : Game#1031648 Start
+03.09.13 01:32:14 >> [HookCon_Service] : Game#1031648 Win Number: [8]
+03.09.13 01:32:14 >> [HookCon_Service] : Game#1031648 End
+03.09.13 01:32:42 >> [HookCon_Service] : Game#1031649 Start
+03.09.13 01:33:15 >> [HookCon_Service] : Game#1031649 Win Number: [12]
+03.09.13 01:33:16 >> [HookCon_Service] : Game#1031649 End
+03.09.13 01:33:46 >> [HookCon_Service] : Game#1031650 Start
+03.09.13 01:34:17 >> [HookCon_Service] : Game#1031650 Win Number: [21]
+03.09.13 01:34:17 >> [HookCon_Service] : Game#1031650 End
+03.09.13 01:34:46 >> [HookCon_Service] : Game#1031651 Start
+03.09.13 01:35:15 >> [HookCon_Service] : Game#1031651 Win Number: [5]
+03.09.13 01:35:16 >> [HookCon_Service] : Game#1031651 End
+03.09.13 01:35:44 >> [HookCon_Service] : Game#1031652 Start
+03.09.13 01:36:18 >> [HookCon_Service] : Game#1031652 Win Number: [30]
+03.09.13 01:36:18 >> [HookCon_Service] : Game#1031652 End
+03.09.13 01:36:45 >> [HookCon_Service] : Game#1031653 Start
+03.09.13 01:37:21 >> [HookCon_Service] : Game#1031653 Win Number: [1]
+03.09.13 01:37:21 >> [HookCon_Service] : Game#1031653 End
+03.09.13 01:37:50 >> [HookCon_Service] : Game#1031654 Start
+03.09.13 01:38:24 >> [HookCon_Service] : Game#1031654 Win Number: [8]
+03.09.13 01:38:24 >> [HookCon_Service] : Game#1031654 End
+03.09.13 01:38:53 >> [HookCon_Service] : Game#1031655 Start
+03.09.13 01:39:24 >> [HookCon_Service] : Game#1031655 Win Number: [27]
+03.09.13 01:39:25 >> [HookCon_Service] : Game#1031655 End
+03.09.13 01:39:53 >> [HookCon_Service] : Game#1031656 Start
+03.09.13 01:40:25 >> [HookCon_Service] : Game#1031656 Win Number: [2]
+03.09.13 01:40:25 >> [HookCon_Service] : Game#1031656 End
+03.09.13 01:40:52 >> [HookCon_Service] : Game#1031657 Start
+03.09.13 01:41:22 >> [HookCon_Service] : Game#1031657 Win Number: [24]
+03.09.13 01:41:22 >> [HookCon_Service] : Game#1031657 End
+03.09.13 01:41:50 >> [HookCon_Service] : Game#1031658 Start
+03.09.13 01:42:24 >> [HookCon_Service] : Game#1031658 Win Number: [8]
+03.09.13 01:42:24 >> [HookCon_Service] : Game#1031658 End
+03.09.13 01:42:52 >> [HookCon_Service] : Game#1031659 Start
+03.09.13 01:43:26 >> [HookCon_Service] : Game#1031659 Win Number: [32]
+03.09.13 01:43:26 >> [HookCon_Service] : Game#1031659 End
+03.09.13 01:43:55 >> [HookCon_Service] : Game#1031660 Start
+03.09.13 01:44:28 >> [HookCon_Service] : Game#1031660 Win Number: [16]
+03.09.13 01:49:47 >> Server is running. Waiting for incoming connections.
+03.09.13 01:50:58 >> Client was connected: 127.0.0.1
+03.09.13 01:51:10 >> 192.168.17.100 [logon]
+03.09.13 01:51:10 >> 192.168.10.13 [logon]
+03.09.13 01:51:18 >> Client was connected: 192.168.10.39
+03.09.13 01:51:46 >> [HookCon_Service] : Game#1031667 Win Number: [12]
+03.09.13 01:51:47 >> [HookCon_Service] : Game#1031667 End
+03.09.13 01:52:15 >> [HookCon_Service] : Game#1031668 Start
+03.09.13 01:52:50 >> [HookCon_Service] : Game#1031668 Win Number: [3]
+03.09.13 01:52:51 >> [HookCon_Service] : Game#1031668 End
+03.09.13 01:53:17 >> [HookCon_Service] : Game#1031669 Start
+03.09.13 01:53:54 >> [HookCon_Service] : Game#1031669 Win Number: [19]
+03.09.13 01:53:55 >> [HookCon_Service] : Game#1031669 End
+03.09.13 01:54:25 >> [HookCon_Service] : Game#1031670 Start
+03.09.13 01:54:58 >> [HookCon_Service] : Game#1031670 Win Number: [0]
+03.09.13 01:54:58 >> [HookCon_Service] : Game#1031670 End
+03.09.13 01:55:27 >> [HookCon_Service] : Game#1031671 Start
+03.09.13 01:56:01 >> [HookCon_Service] : Game#1031671 Win Number: [26]
+03.09.13 01:56:01 >> [HookCon_Service] : Game#1031671 End
+03.09.13 01:56:29 >> [HookCon_Service] : Game#1031672 Start
+03.09.13 01:57:04 >> [HookCon_Service] : Game#1031672 Win Number: [7]
+03.09.13 01:57:04 >> [HookCon_Service] : Game#1031672 End
+03.09.13 01:57:32 >> [HookCon_Service] : Game#1031673 Start
+03.09.13 01:58:03 >> 192.168.10.16 [logoff]
+03.09.13 01:58:03 >> 192.168.10.16 [logoff]
+03.09.13 01:58:05 >> [HookCon_Service] : Game#1031673 Win Number: [28]
+03.09.13 01:58:05 >> [HookCon_Service] : Game#1031673 End
+03.09.13 01:58:33 >> [HookCon_Service] : Game#1031674 Start
+03.09.13 01:59:07 >> [HookCon_Service] : Game#1031674 Win Number: [32]
+03.09.13 01:59:07 >> [HookCon_Service] : Game#1031674 End
+03.09.13 01:59:35 >> [HookCon_Service] : Game#1031675 Start
+03.09.13 01:59:55 >> 192.168.10.3 [logoff]
+03.09.13 01:59:55 >> 192.168.10.3 [logoff]
+03.09.13 02:00:11 >> [HookCon_Service] : Game#1031675 Win Number: [9]
+03.09.13 02:00:11 >> [HookCon_Service] : Game#1031675 End
+03.09.13 02:00:39 >> [HookCon_Service] : Game#1031676 Start
+03.09.13 02:01:17 >> [HookCon_Service] : Game#1031676 Win Number: [11]
+03.09.13 02:01:17 >> [HookCon_Service] : Game#1031676 End
+03.09.13 02:01:43 >> 192.168.10.3 [logoff]
+03.09.13 02:01:43 >> 192.168.10.3 [logoff]
+03.09.13 02:01:43 >> 192.168.10.3 [logoff]
+03.09.13 02:01:43 >> 192.168.10.3 [logoff]
+03.09.13 02:01:45 >> [HookCon_Service] : Game#1031677 Start
+03.09.13 02:02:11 >> 192.168.10.3 [logoff]
+03.09.13 02:02:20 >> [HookCon_Service] : Game#1031677 Win Number: [19]
+03.09.13 02:02:21 >> [HookCon_Service] : Game#1031677 End
+03.09.13 02:02:48 >> 192.168.17.100 [logoff]
+03.09.13 02:02:48 >> [HookCon_Service] : Game#1031678 Start
+03.09.13 02:03:20 >> [HookCon_Service] : Game#1031678 Win Number: [30]
+03.09.13 02:03:20 >> [HookCon_Service] : Game#1031678 End
+03.09.13 02:03:49 >> [HookCon_Service] : Game#1031679 Start
+03.09.13 02:04:26 >> [HookCon_Service] : Game#1031679 Win Number: [8]
+03.09.13 02:06:45 >> Server is running. Waiting for incoming connections.
+03.09.13 02:07:38 >> Client was connected: 192.168.10.39
+03.09.13 02:07:48 >> Client was connected: 127.0.0.1
+03.09.13 02:07:51 >> 192.168.10.14 [logon]
+03.09.13 02:07:54 >> 192.168.10.3 [logon]
+03.09.13 02:08:03 >> [HookCon_Service] : Game#1031683 Start
+03.09.13 02:08:13 >> 192.168.10.14 [logoff]
+03.09.13 02:08:13 >> 192.168.10.14 [logon]
+03.09.13 02:08:35 >> [HookCon_Service] : Game#1031683 Win Number: [17]
+03.09.13 02:09:10 >> Server is running. Waiting for incoming connections.
+03.09.13 02:10:15 >> Client was connected: 127.0.0.1
+03.09.13 02:10:28 >> 192.168.10.3 [logon]
+03.09.13 02:10:29 >> 192.168.10.14 [logon]
+03.09.13 02:10:43 >> 192.168.10.3 [logoff]
+03.09.13 02:11:05 >> 192.168.10.3 [logon]
+03.09.13 02:12:04 >> Client was connected: 192.168.10.39
+03.09.13 02:12:13 >> [HookCon_Service] : Game#1031687 Start
+03.09.13 02:12:49 >> [HookCon_Service] : Game#1031687 Win Number: [15]
+03.09.13 02:14:52 >> [HookCon_Service] : Game#1031687 End
+03.09.13 02:15:26 >> Server is running. Waiting for incoming connections.
+03.09.13 02:15:31 >> Client was connected: 127.0.0.1
+03.09.13 02:15:34 >> 192.168.10.14 [logon]
+03.09.13 02:15:50 >> [Web Server] : Disconnected. Reason: System.EventArgs. All Web-clients disconnected.
+03.09.13 02:15:50 >> [Web Server] : Disconnected. Reason: Удаленный хост принудительно разорвал существующее подключение
+03.09.13 02:15:59 >> Server is running. Waiting for incoming connections.
+03.09.13 02:16:04 >> Client was connected: 127.0.0.1
+03.09.13 02:16:34 >> 192.168.10.14 [logoff]
+03.09.13 02:16:35 >> 192.168.10.14 [logon]
+03.09.13 02:20:35 >> 192.168.10.16 [logoff]
+03.09.13 02:20:47 >> 192.168.10.16 [logoff]
+03.09.13 02:20:57 >> 192.168.10.16 [logoff]
+03.09.13 02:21:04 >> 192.168.10.16 [logoff]
+03.09.13 02:23:05 >> 192.168.10.3 [logon]
+03.09.13 02:23:21 >> 192.168.10.16 [logoff]
+03.09.13 02:23:32 >> [Web Server] : Disconnected. Reason: System.EventArgs. All Web-clients disconnected.
+03.09.13 02:23:32 >> [Web Server] : Disconnected. Reason: Удаленный хост принудительно разорвал существующее подключение
+03.09.13 02:28:36 >> Server is running. Waiting for incoming connections.
+03.09.13 02:29:48 >> Client was connected: 192.168.10.39
+03.09.13 02:30:08 >> [HookCon_Service] : Game#1031704 Start
+03.09.13 02:30:44 >> [HookCon_Service] : Game#1031704 Win Number: [19]
+03.09.13 02:30:45 >> [HookCon_Service] : Game#1031704 End
+03.09.13 02:31:14 >> [HookCon_Service] : Game#1031705 Start
+03.09.13 02:31:47 >> [HookCon_Service] : Game#1031705 Win Number: [0]
+03.09.13 02:31:47 >> [HookCon_Service] : Game#1031705 End
+03.09.13 02:32:16 >> [HookCon_Service] : Game#1031706 Start
+03.09.13 02:32:56 >> [HookCon_Service] : Game#1031706 Win Number: [30]
+03.09.13 02:32:56 >> [HookCon_Service] : Game#1031706 End
+03.09.13 02:33:23 >> [HookCon_Service] : Game#1031707 Start
+03.09.13 02:33:57 >> [HookCon_Service] : Game#1031707 Win Number: [16]
+03.09.13 02:33:57 >> [HookCon_Service] : Game#1031707 End
+03.09.13 02:34:24 >> [HookCon_Service] : Game#1031708 Start
+03.09.13 02:35:01 >> [HookCon_Service] : Game#1031708 Win Number: [12]
+03.09.13 02:35:02 >> [HookCon_Service] : Game#1031708 End
+03.09.13 02:35:32 >> [HookCon_Service] : Game#1031709 Start
+03.09.13 02:36:06 >> [HookCon_Service] : Game#1031709 Win Number: [34]
+03.09.13 02:36:06 >> [HookCon_Service] : Game#1031709 End
+03.09.13 02:36:13 >> Client was connected: 127.0.0.1
+03.09.13 02:36:36 >> [HookCon_Service] : Game#1031710 Start
+03.09.13 02:37:12 >> [HookCon_Service] : Game#1031710 Win Number: [2]
+03.09.13 02:37:12 >> [HookCon_Service] : Game#1031710 End
+03.09.13 02:37:39 >> [HookCon_Service] : Game#1031711 Start
+03.09.13 02:38:14 >> [HookCon_Service] : Game#1031711 Win Number: [35]
+03.09.13 02:38:15 >> [HookCon_Service] : Game#1031711 End
+03.09.13 02:38:44 >> [HookCon_Service] : Game#1031712 Start
+03.09.13 02:38:52 >> 192.168.10.3 [logon]
+03.09.13 02:39:17 >> [HookCon_Service] : Game#1031712 Win Number: [0]
+03.09.13 02:39:17 >> [HookCon_Service] : Game#1031712 End
+03.09.13 02:39:46 >> [HookCon_Service] : Game#1031713 Start
+03.09.13 02:40:19 >> [HookCon_Service] : Game#1031713 Win Number: [6]
+03.09.13 02:40:20 >> [HookCon_Service] : Game#1031713 End
+03.09.13 02:40:49 >> [HookCon_Service] : Game#1031714 Start
+03.09.13 02:41:21 >> [HookCon_Service] : Game#1031714 Win Number: [4]
+03.09.13 02:41:21 >> [HookCon_Service] : Game#1031714 End
+03.09.13 02:41:51 >> [HookCon_Service] : Game#1031715 Start
+03.09.13 02:42:25 >> [HookCon_Service] : Game#1031715 Win Number: [24]
+03.09.13 02:42:25 >> [HookCon_Service] : Game#1031715 End
+03.09.13 02:42:53 >> [HookCon_Service] : Game#1031716 Start
+03.09.13 02:43:28 >> [HookCon_Service] : Game#1031716 Win Number: [9]
+03.09.13 02:43:29 >> [HookCon_Service] : Game#1031716 End
+03.09.13 02:43:58 >> [HookCon_Service] : Game#1031717 Start
+03.09.13 02:44:33 >> [HookCon_Service] : Game#1031717 Win Number: [23]
+03.09.13 02:44:33 >> [HookCon_Service] : Game#1031717 End
+03.09.13 02:45:02 >> [HookCon_Service] : Game#1031718 Start
+03.09.13 02:45:37 >> [HookCon_Service] : Game#1031718 Win Number: [32]
+03.09.13 02:45:38 >> [HookCon_Service] : Game#1031718 End
+03.09.13 02:46:08 >> [HookCon_Service] : Game#1031719 Start
+03.09.13 02:46:41 >> [HookCon_Service] : Game#1031719 Win Number: [25]
+03.09.13 02:46:42 >> [HookCon_Service] : Game#1031719 End
+03.09.13 02:47:11 >> [HookCon_Service] : Game#1031720 Start
+03.09.13 02:47:45 >> [HookCon_Service] : Game#1031720 Win Number: [21]
+03.09.13 02:47:45 >> [HookCon_Service] : Game#1031720 End
+03.09.13 02:48:14 >> [HookCon_Service] : Game#1031721 Start
+03.09.13 02:48:47 >> [HookCon_Service] : Game#1031721 Win Number: [6]
+03.09.13 02:48:48 >> [HookCon_Service] : Game#1031721 End
+03.09.13 02:49:18 >> [HookCon_Service] : Game#1031722 Start
+03.09.13 02:49:49 >> [HookCon_Service] : Game#1031722 Win Number: [25]
+03.09.13 02:49:49 >> [HookCon_Service] : Game#1031722 End
+03.09.13 02:50:18 >> [HookCon_Service] : Game#1031723 Start
+03.09.13 02:50:54 >> [HookCon_Service] : Game#1031723 Win Number: [28]
+03.09.13 02:50:55 >> [HookCon_Service] : Game#1031723 End
+03.09.13 02:51:22 >> [HookCon_Service] : Game#1031724 Start
+03.09.13 02:51:56 >> [HookCon_Service] : Game#1031724 Win Number: [0]
+03.09.13 02:51:56 >> [HookCon_Service] : Game#1031724 End
+03.09.13 02:52:24 >> [HookCon_Service] : Game#1031725 Start
+03.09.13 02:52:40 >> 192.168.10.3 [logoff]
+03.09.13 02:52:41 >> 192.168.10.3 [logon]
+03.09.13 02:52:57 >> [HookCon_Service] : Game#1031725 Win Number: [20]
+03.09.13 02:52:58 >> [HookCon_Service] : Game#1031725 End
+03.09.13 02:53:26 >> [HookCon_Service] : Game#1031726 Start
+03.09.13 02:54:01 >> [HookCon_Service] : Game#1031726 Win Number: [18]
+03.09.13 02:54:01 >> [HookCon_Service] : Game#1031726 End
+03.09.13 02:54:30 >> [HookCon_Service] : Game#1031727 Start
+03.09.13 02:55:05 >> [HookCon_Service] : Game#1031727 Win Number: [15]
+03.09.13 02:55:05 >> [HookCon_Service] : Game#1031727 End
+03.09.13 02:55:34 >> [HookCon_Service] : Game#1031728 Start
+03.09.13 02:56:06 >> [HookCon_Service] : Game#1031728 Win Number: [7]
+03.09.13 02:56:06 >> [HookCon_Service] : Game#1031728 End
+03.09.13 02:56:34 >> [HookCon_Service] : Game#1031729 Start
+03.09.13 02:57:11 >> [HookCon_Service] : Game#1031729 Win Number: [11]
+03.09.13 02:57:12 >> [HookCon_Service] : Game#1031729 End
+03.09.13 02:57:42 >> [HookCon_Service] : Game#1031730 Start
+03.09.13 02:58:15 >> [HookCon_Service] : Game#1031730 Win Number: [15]
+03.09.13 02:58:16 >> [HookCon_Service] : Game#1031730 End
+03.09.13 02:58:45 >> [HookCon_Service] : Game#1031731 Start
+03.09.13 02:59:18 >> [HookCon_Service] : Game#1031731 Win Number: [2]
+03.09.13 02:59:19 >> [HookCon_Service] : Game#1031731 End
+03.09.13 02:59:47 >> [HookCon_Service] : Game#1031732 Start
+03.09.13 03:00:23 >> [HookCon_Service] : Game#1031732 Win Number: [14]
+03.09.13 03:00:23 >> [HookCon_Service] : Game#1031732 End
+03.09.13 03:00:51 >> [HookCon_Service] : Game#1031733 Start
+03.09.13 03:01:26 >> [HookCon_Service] : Game#1031733 Win Number: [29]
+03.09.13 03:01:27 >> [HookCon_Service] : Game#1031733 End
+03.09.13 03:01:54 >> [HookCon_Service] : Game#1031734 Start
+03.09.13 03:02:33 >> [HookCon_Service] : Game#1031734 Win Number: [29]
+03.09.13 03:02:33 >> [HookCon_Service] : Game#1031734 End
+03.09.13 03:03:00 >> [HookCon_Service] : Game#1031735 Start
+03.09.13 03:03:36 >> [HookCon_Service] : Game#1031735 Win Number: [19]
+03.09.13 03:03:37 >> [HookCon_Service] : Game#1031735 End
+03.09.13 03:04:03 >> [HookCon_Service] : Game#1031736 Start
+03.09.13 03:04:36 >> [HookCon_Service] : Game#1031736 Win Number: [22]
+03.09.13 03:04:36 >> [HookCon_Service] : Game#1031736 End
+03.09.13 03:05:07 >> [HookCon_Service] : Game#1031737 Start
+03.09.13 03:05:26 >> 192.168.10.3 [logoff]
+03.09.13 03:05:27 >> 192.168.10.3 [logon]
+03.09.13 03:05:39 >> [HookCon_Service] : Game#1031737 Win Number: [33]
+03.09.13 03:05:40 >> [HookCon_Service] : Game#1031737 End
+03.09.13 03:06:09 >> [HookCon_Service] : Game#1031738 Start
+03.09.13 03:06:45 >> [HookCon_Service] : Game#1031738 Win Number: [29]
+03.09.13 03:06:46 >> [HookCon_Service] : Game#1031738 End
+03.09.13 03:07:13 >> [HookCon_Service] : Game#1031739 Start
+03.09.13 03:07:45 >> [HookCon_Service] : Game#1031739 Win Number: [18]
+03.09.13 03:07:46 >> [HookCon_Service] : Game#1031739 End
+03.09.13 03:08:14 >> [HookCon_Service] : Game#1031740 Start
+03.09.13 03:08:51 >> [HookCon_Service] : Game#1031740 Win Number: [1]
+03.09.13 03:08:51 >> [HookCon_Service] : Game#1031740 End
+03.09.13 03:09:17 >> [HookCon_Service] : Game#1031741 Start
+03.09.13 03:09:54 >> [HookCon_Service] : Game#1031741 Win Number: [36]
+03.09.13 03:09:54 >> [HookCon_Service] : Game#1031741 End
+03.09.13 03:10:23 >> [HookCon_Service] : Game#1031742 Start
+03.09.13 03:10:55 >> [HookCon_Service] : Game#1031742 Win Number: [15]
+03.09.13 03:10:56 >> [HookCon_Service] : Game#1031742 End
+03.09.13 03:11:24 >> [HookCon_Service] : Game#1031743 Start
+03.09.13 03:11:59 >> [HookCon_Service] : Game#1031743 Win Number: [24]
+03.09.13 03:12:00 >> [HookCon_Service] : Game#1031743 End
+03.09.13 03:12:30 >> [HookCon_Service] : Game#1031744 Start
+03.09.13 03:13:02 >> [HookCon_Service] : Game#1031744 Win Number: [12]
+03.09.13 03:13:32 >> [HookCon_Service] : Game#1031745 Start
+03.09.13 03:14:06 >> [HookCon_Service] : Game#1031745 Win Number: [28]
+03.09.13 03:14:06 >> [HookCon_Service] : Game#1031745 End
+03.09.13 03:14:36 >> [HookCon_Service] : Game#1031746 Start
+03.09.13 03:15:07 >> [HookCon_Service] : Game#1031746 Win Number: [10]
+03.09.13 03:15:07 >> [HookCon_Service] : Game#1031746 End
+03.09.13 03:15:36 >> [HookCon_Service] : Game#1031747 Start
+03.09.13 03:16:08 >> [HookCon_Service] : Game#1031747 Win Number: [27]
+03.09.13 03:16:09 >> [HookCon_Service] : Game#1031747 End
+03.09.13 03:16:38 >> [HookCon_Service] : Game#1031748 Start
+03.09.13 03:17:10 >> [HookCon_Service] : Game#1031748 Win Number: [0]
+03.09.13 03:17:11 >> [HookCon_Service] : Game#1031748 End
+03.09.13 03:17:39 >> [HookCon_Service] : Game#1031749 Start
+03.09.13 03:18:11 >> [HookCon_Service] : Game#1031749 Win Number: [2]
+03.09.13 03:18:12 >> [HookCon_Service] : Game#1031749 End
+03.09.13 03:18:42 >> [HookCon_Service] : Game#1031750 Start
+03.09.13 03:19:13 >> [HookCon_Service] : Game#1031750 Win Number: [31]
+03.09.13 03:19:13 >> [HookCon_Service] : Game#1031750 End
+03.09.13 03:19:42 >> [HookCon_Service] : Game#1031751 Start
+03.09.13 03:20:14 >> [HookCon_Service] : Game#1031751 Win Number: [8]
+03.09.13 03:20:14 >> [HookCon_Service] : Game#1031751 End
+03.09.13 03:20:42 >> [HookCon_Service] : Game#1031752 Start
+03.09.13 03:21:16 >> [HookCon_Service] : Game#1031752 Win Number: [16]
+03.09.13 03:21:17 >> [HookCon_Service] : Game#1031752 End
+03.09.13 03:21:47 >> [HookCon_Service] : Game#1031753 Start
+03.09.13 03:22:21 >> [HookCon_Service] : Game#1031753 Win Number: [13]
+03.09.13 03:22:21 >> [HookCon_Service] : Game#1031753 End
+03.09.13 03:22:48 >> [HookCon_Service] : Game#1031754 Start
+03.09.13 03:23:25 >> [HookCon_Service] : Game#1031754 Win Number: [18]
+03.09.13 03:23:25 >> [HookCon_Service] : Game#1031754 End
+03.09.13 03:23:53 >> [HookCon_Service] : Game#1031755 Start
+03.09.13 03:24:30 >> [HookCon_Service] : Game#1031755 Win Number: [33]
+03.09.13 03:24:30 >> [HookCon_Service] : Game#1031755 End
+03.09.13 03:24:58 >> [HookCon_Service] : Game#1031756 Start
+03.09.13 03:25:31 >> [HookCon_Service] : Game#1031756 Win Number: [34]
+03.09.13 03:25:32 >> [HookCon_Service] : Game#1031756 End
+03.09.13 03:26:02 >> [HookCon_Service] : Game#1031757 Start
+03.09.13 03:26:34 >> [HookCon_Service] : Game#1031757 Win Number: [26]
+03.09.13 03:26:34 >> [HookCon_Service] : Game#1031757 End
+03.09.13 03:27:02 >> [HookCon_Service] : Game#1031758 Start
+03.09.13 03:27:35 >> [HookCon_Service] : Game#1031758 Win Number: [1]
+03.09.13 03:27:36 >> [HookCon_Service] : Game#1031758 End
+03.09.13 03:28:04 >> [HookCon_Service] : Game#1031759 Start
+03.09.13 03:28:26 >> 192.168.10.3 [logoff]
+03.09.13 03:28:27 >> 192.168.10.3 [logon]
+03.09.13 03:28:38 >> [HookCon_Service] : Game#1031759 Win Number: [29]
+03.09.13 03:28:39 >> [HookCon_Service] : Game#1031759 End
+03.09.13 03:29:10 >> [HookCon_Service] : Game#1031760 Start
+03.09.13 03:29:26 >> 192.168.10.3 [logoff]
+03.09.13 03:29:27 >> 192.168.10.3 [logon]
+03.09.13 03:29:42 >> [HookCon_Service] : Game#1031760 Win Number: [10]
+03.09.13 03:29:43 >> [HookCon_Service] : Game#1031760 End
+03.09.13 03:30:12 >> [HookCon_Service] : Game#1031761 Start
+03.09.13 03:30:46 >> [HookCon_Service] : Game#1031761 Win Number: [28]
+03.09.13 03:30:47 >> [HookCon_Service] : Game#1031761 End
+03.09.13 03:31:15 >> [HookCon_Service] : Game#1031762 Start
+03.09.13 03:31:50 >> [HookCon_Service] : Game#1031762 Win Number: [5]
+03.09.13 03:31:50 >> [HookCon_Service] : Game#1031762 End
+03.09.13 03:32:16 >> 192.168.10.3 [logoff]
+03.09.13 03:32:16 >> 192.168.10.3 [logon]
+03.09.13 03:32:20 >> [HookCon_Service] : Game#1031763 Start
+03.09.13 03:32:55 >> [HookCon_Service] : Game#1031763 Win Number: [32]
+03.09.13 03:32:55 >> [HookCon_Service] : Game#1031763 End
+03.09.13 03:33:23 >> [HookCon_Service] : Game#1031764 Start
+03.09.13 03:33:58 >> [HookCon_Service] : Game#1031764 Win Number: [12]
+03.09.13 03:33:59 >> [HookCon_Service] : Game#1031764 End
+03.09.13 03:34:29 >> [HookCon_Service] : Game#1031765 Start
+03.09.13 03:35:03 >> [HookCon_Service] : Game#1031765 Win Number: [26]
+03.09.13 03:35:04 >> [HookCon_Service] : Game#1031765 End
+03.09.13 03:35:33 >> [HookCon_Service] : Game#1031766 Start
+03.09.13 03:36:06 >> [HookCon_Service] : Game#1031766 Win Number: [14]
+03.09.13 03:36:06 >> [HookCon_Service] : Game#1031766 End
+03.09.13 03:36:35 >> [HookCon_Service] : Game#1031767 Start
+03.09.13 03:37:07 >> [HookCon_Service] : Game#1031767 Win Number: [30]
+03.09.13 03:37:07 >> [HookCon_Service] : Game#1031767 End
+03.09.13 03:37:35 >> [HookCon_Service] : Game#1031768 Start
+03.09.13 03:38:10 >> [HookCon_Service] : Game#1031768 Win Number: [31]
+03.09.13 03:38:11 >> [HookCon_Service] : Game#1031768 End
+03.09.13 03:38:40 >> [HookCon_Service] : Game#1031769 Start
+03.09.13 03:39:13 >> [HookCon_Service] : Game#1031769 Win Number: [13]
+03.09.13 03:39:14 >> [HookCon_Service] : Game#1031769 End
+03.09.13 03:39:44 >> [HookCon_Service] : Game#1031770 Start
+03.09.13 03:40:15 >> [HookCon_Service] : Game#1031770 Win Number: [32]
+03.09.13 03:40:15 >> [HookCon_Service] : Game#1031770 End
+03.09.13 03:40:45 >> [HookCon_Service] : Game#1031771 Start
+03.09.13 03:41:20 >> [HookCon_Service] : Game#1031771 Win Number: [17]
+03.09.13 03:41:20 >> [HookCon_Service] : Game#1031771 End
+03.09.13 03:41:48 >> [HookCon_Service] : Game#1031772 Start
+03.09.13 03:42:24 >> [HookCon_Service] : Game#1031772 Win Number: [19]
+03.09.13 03:42:24 >> [HookCon_Service] : Game#1031772 End
+03.09.13 03:42:52 >> [HookCon_Service] : Game#1031773 Start
+03.09.13 03:43:29 >> [HookCon_Service] : Game#1031773 Win Number: [2]
+03.09.13 03:43:30 >> [HookCon_Service] : Game#1031773 End
+03.09.13 03:43:57 >> [HookCon_Service] : Game#1031774 Start
+03.09.13 03:44:34 >> [HookCon_Service] : Game#1031774 Win Number: [1]
+03.09.13 03:44:35 >> [HookCon_Service] : Game#1031774 End
+03.09.13 03:45:03 >> [HookCon_Service] : Game#1031775 Start
+03.09.13 03:45:37 >> [HookCon_Service] : Game#1031775 Win Number: [23]
+03.09.13 03:45:38 >> [HookCon_Service] : Game#1031775 End
+03.09.13 03:46:07 >> [HookCon_Service] : Game#1031776 Start
+03.09.13 03:46:42 >> [HookCon_Service] : Game#1031776 Win Number: [0]
+03.09.13 03:46:42 >> [HookCon_Service] : Game#1031776 End
+03.09.13 03:47:11 >> [HookCon_Service] : Game#1031777 Start
+03.09.13 03:47:28 >> 192.168.10.3 [logoff]
+03.09.13 03:47:29 >> 192.168.10.3 [logon]
+03.09.13 03:47:47 >> [HookCon_Service] : Game#1031777 Win Number: [10]
+03.09.13 03:47:48 >> [HookCon_Service] : Game#1031777 End
+03.09.13 03:48:17 >> [HookCon_Service] : Game#1031778 Start
+03.09.13 03:48:50 >> 192.168.10.3 [logoff]
+03.09.13 03:48:51 >> 192.168.10.3 [logon]
+03.09.13 03:48:52 >> [HookCon_Service] : Game#1031778 Win Number: [22]
+03.09.13 03:48:52 >> [HookCon_Service] : Game#1031778 End
+03.09.13 03:49:22 >> [HookCon_Service] : Game#1031779 Start
+03.09.13 03:49:54 >> [HookCon_Service] : Game#1031779 Win Number: [31]
+03.09.13 03:49:55 >> [HookCon_Service] : Game#1031779 End
+03.09.13 03:50:25 >> [HookCon_Service] : Game#1031780 Start
+03.09.13 03:50:58 >> [HookCon_Service] : Game#1031780 Win Number: [12]
+03.09.13 03:50:58 >> [HookCon_Service] : Game#1031780 End
+03.09.13 03:51:26 >> [HookCon_Service] : Game#1031781 Start
+03.09.13 03:51:58 >> [HookCon_Service] : Game#1031781 Win Number: [2]
+03.09.13 03:51:58 >> [HookCon_Service] : Game#1031781 End
+03.09.13 03:52:28 >> [HookCon_Service] : Game#1031782 Start
+03.09.13 03:53:00 >> [HookCon_Service] : Game#1031782 Win Number: [21]
+03.09.13 03:53:00 >> [HookCon_Service] : Game#1031782 End
+03.09.13 03:53:30 >> [HookCon_Service] : Game#1031783 Start
+03.09.13 03:54:03 >> [HookCon_Service] : Game#1031783 Win Number: [26]
+03.09.13 03:54:03 >> [HookCon_Service] : Game#1031783 End
+03.09.13 03:54:32 >> [HookCon_Service] : Game#1031784 Start
+03.09.13 03:55:05 >> [HookCon_Service] : Game#1031784 Win Number: [28]
+03.09.13 03:55:07 >> [HookCon_Service] : Game#1031784 End
+03.09.13 03:55:37 >> [HookCon_Service] : Game#1031785 Start
+03.09.13 03:56:10 >> [HookCon_Service] : Game#1031785 Win Number: [35]
+03.09.13 03:56:10 >> [HookCon_Service] : Game#1031785 End
+03.09.13 03:56:39 >> [HookCon_Service] : Game#1031786 Start
+03.09.13 03:57:13 >> [HookCon_Service] : Game#1031786 Win Number: [26]
+03.09.13 03:57:14 >> [HookCon_Service] : Game#1031786 End
+03.09.13 03:57:42 >> [HookCon_Service] : Game#1031787 Start
+03.09.13 03:58:13 >> [HookCon_Service] : Game#1031787 Win Number: [34]
+03.09.13 03:58:14 >> [HookCon_Service] : Game#1031787 End
+03.09.13 03:58:41 >> [HookCon_Service] : Game#1031788 Start
+03.09.13 03:59:16 >> [HookCon_Service] : Game#1031788 Win Number: [26]
+03.09.13 03:59:16 >> [HookCon_Service] : Game#1031788 End
+03.09.13 03:59:44 >> [HookCon_Service] : Game#1031789 Start
+03.09.13 04:00:20 >> [HookCon_Service] : Game#1031789 Win Number: [6]
+03.09.13 04:00:21 >> [HookCon_Service] : Game#1031789 End
+03.09.13 04:00:51 >> [HookCon_Service] : Game#1031790 Start
+03.09.13 04:01:23 >> [HookCon_Service] : Game#1031790 Win Number: [3]
+03.09.13 04:01:23 >> [HookCon_Service] : Game#1031790 End
+03.09.13 04:01:52 >> [HookCon_Service] : Game#1031791 Start
+03.09.13 04:02:24 >> [HookCon_Service] : Game#1031791 Win Number: [26]
+03.09.13 04:02:25 >> [HookCon_Service] : Game#1031791 End
+03.09.13 04:02:54 >> [HookCon_Service] : Game#1031792 Start
+03.09.13 04:03:25 >> [HookCon_Service] : Game#1031792 Win Number: [28]
+03.09.13 04:03:26 >> [HookCon_Service] : Game#1031792 End
+03.09.13 04:03:53 >> [HookCon_Service] : Game#1031793 Start
+03.09.13 04:04:27 >> [HookCon_Service] : Game#1031793 Win Number: [31]
+03.09.13 04:04:27 >> [HookCon_Service] : Game#1031793 End
+03.09.13 04:04:54 >> [HookCon_Service] : Game#1031794 Start
+03.09.13 04:05:26 >> [HookCon_Service] : Game#1031794 Win Number: [36]
+03.09.13 04:05:27 >> [HookCon_Service] : Game#1031794 End
+03.09.13 04:05:55 >> [HookCon_Service] : Game#1031795 Start
+03.09.13 04:06:27 >> [HookCon_Service] : Game#1031795 Win Number: [0]
+03.09.13 04:06:28 >> [HookCon_Service] : Game#1031795 End
+03.09.13 04:06:53 >> 192.168.10.3 [logoff]
+03.09.13 04:06:54 >> 192.168.10.3 [logon]
+03.09.13 04:06:56 >> [HookCon_Service] : Game#1031796 Start
+03.09.13 04:06:56 >> 192.168.10.3 [logoff]
+03.09.13 04:06:57 >> 192.168.10.3 [logon]
+03.09.13 04:07:01 >> 192.168.10.3 [logoff]
+03.09.13 04:07:20 >> 192.168.10.3 [logon]
+03.09.13 04:07:33 >> [HookCon_Service] : Game#1031796 Win Number: [35]
+03.09.13 04:07:33 >> [HookCon_Service] : Game#1031796 End
+03.09.13 04:07:54 >> 192.168.17.100 [logon]
+03.09.13 04:08:01 >> [HookCon_Service] : Game#1031797 Start
+03.09.13 04:08:35 >> [HookCon_Service] : Game#1031797 Win Number: [2]
+03.09.13 04:08:35 >> [HookCon_Service] : Game#1031797 End
+03.09.13 04:09:04 >> [HookCon_Service] : Game#1031798 Start
+03.09.13 04:09:34 >> [HookCon_Service] : Game#1031798 Win Number: [31]
+03.09.13 04:09:34 >> [HookCon_Service] : Game#1031798 End
+03.09.13 04:10:02 >> [HookCon_Service] : Game#1031799 Start
+03.09.13 04:10:16 >> 192.168.10.3 [logoff]
+03.09.13 04:10:17 >> 192.168.10.3 [logon]
+03.09.13 04:10:34 >> [HookCon_Service] : Game#1031799 Win Number: [5]
+03.09.13 04:10:35 >> [HookCon_Service] : Game#1031799 End
+03.09.13 04:11:05 >> [HookCon_Service] : Game#1031800 Start
+03.09.13 04:11:38 >> [HookCon_Service] : Game#1031800 Win Number: [32]
+03.09.13 04:11:38 >> [HookCon_Service] : Game#1031800 End
+03.09.13 04:12:06 >> [HookCon_Service] : Game#1031801 Start
+03.09.13 04:12:15 >> 192.168.10.3 [logoff]
+03.09.13 04:12:16 >> 192.168.10.3 [logon]
+03.09.13 04:12:41 >> [HookCon_Service] : Game#1031801 Win Number: [5]
+03.09.13 04:12:41 >> [HookCon_Service] : Game#1031801 End
+03.09.13 04:13:09 >> [HookCon_Service] : Game#1031802 Start
+03.09.13 04:13:41 >> [HookCon_Service] : Game#1031802 Win Number: [30]
+03.09.13 04:13:41 >> [HookCon_Service] : Game#1031802 End
+03.09.13 04:14:10 >> [HookCon_Service] : Game#1031803 Start
+03.09.13 04:14:40 >> [HookCon_Service] : Game#1031803 Win Number: [5]
+03.09.13 04:14:40 >> [HookCon_Service] : Game#1031803 End
+03.09.13 04:15:09 >> [HookCon_Service] : Game#1031804 Start
+03.09.13 04:15:41 >> [HookCon_Service] : Game#1031804 Win Number: [17]
+03.09.13 04:15:42 >> [HookCon_Service] : Game#1031804 End
+03.09.13 04:16:11 >> [HookCon_Service] : Game#1031805 Start
+03.09.13 04:16:41 >> [HookCon_Service] : Game#1031805 Win Number: [0]
+03.09.13 04:16:41 >> [HookCon_Service] : Game#1031805 End
+03.09.13 04:17:09 >> [HookCon_Service] : Game#1031806 Start
+03.09.13 04:17:46 >> [HookCon_Service] : Game#1031806 Win Number: [4]
+03.09.13 04:17:46 >> [HookCon_Service] : Game#1031806 End
+03.09.13 04:18:05 >> 192.168.10.3 [logoff]
+03.09.13 04:18:14 >> [HookCon_Service] : Game#1031807 Start
+03.09.13 04:18:46 >> [HookCon_Service] : Game#1031807 Win Number: [0]
+03.09.13 04:18:47 >> [HookCon_Service] : Game#1031807 End
+03.09.13 04:19:16 >> [HookCon_Service] : Game#1031808 Start
+03.09.13 04:19:50 >> [HookCon_Service] : Game#1031808 Win Number: [4]
+03.09.13 04:19:50 >> [HookCon_Service] : Game#1031808 End
+03.09.13 04:20:18 >> [HookCon_Service] : Game#1031809 Start
+03.09.13 04:20:51 >> [HookCon_Service] : Game#1031809 Win Number: [3]
+03.09.13 04:20:51 >> [HookCon_Service] : Game#1031809 End
+03.09.13 04:21:21 >> [HookCon_Service] : Game#1031810 Start
+03.09.13 04:21:53 >> [HookCon_Service] : Game#1031810 Win Number: [9]
+03.09.13 04:21:54 >> [HookCon_Service] : Game#1031810 End
+03.09.13 04:22:23 >> [HookCon_Service] : Game#1031811 Start
+03.09.13 04:22:57 >> [HookCon_Service] : Game#1031811 Win Number: [22]
+03.09.13 04:22:58 >> [HookCon_Service] : Game#1031811 End
+03.09.13 04:23:27 >> [HookCon_Service] : Game#1031812 Start
+03.09.13 04:23:58 >> [HookCon_Service] : Game#1031812 Win Number: [31]
+03.09.13 04:23:58 >> [HookCon_Service] : Game#1031812 End
+03.09.13 04:24:26 >> [HookCon_Service] : Game#1031813 Start
+03.09.13 04:25:01 >> [HookCon_Service] : Game#1031813 Win Number: [33]
+03.09.13 04:25:02 >> [HookCon_Service] : Game#1031813 End
+03.09.13 04:25:29 >> [HookCon_Service] : Game#1031814 Start
+03.09.13 04:26:05 >> [HookCon_Service] : Game#1031814 Win Number: [13]
+03.09.13 04:26:05 >> [HookCon_Service] : Game#1031814 End
+03.09.13 04:26:34 >> [HookCon_Service] : Game#1031815 Start
+03.09.13 04:27:05 >> [HookCon_Service] : Game#1031815 Win Number: [15]
+03.09.13 04:27:06 >> [HookCon_Service] : Game#1031815 End
+03.09.13 04:27:34 >> [HookCon_Service] : Game#1031816 Start
+03.09.13 04:28:07 >> [HookCon_Service] : Game#1031816 Win Number: [12]
+03.09.13 04:28:08 >> [HookCon_Service] : Game#1031816 End
+03.09.13 04:28:36 >> [HookCon_Service] : Game#1031817 Start
+03.09.13 04:29:09 >> [HookCon_Service] : Game#1031817 Win Number: [1]
+03.09.13 04:29:09 >> [HookCon_Service] : Game#1031817 End
+03.09.13 04:29:22 >> 192.168.10.3 [logon]
+03.09.13 04:29:37 >> [HookCon_Service] : Game#1031818 Start
+03.09.13 04:30:10 >> [HookCon_Service] : Game#1031818 Win Number: [4]
+03.09.13 04:30:11 >> [HookCon_Service] : Game#1031818 End
+03.09.13 04:30:40 >> [HookCon_Service] : Game#1031819 Start
+03.09.13 04:31:12 >> [HookCon_Service] : Game#1031819 Win Number: [22]
+03.09.13 04:31:13 >> [HookCon_Service] : Game#1031819 End
+03.09.13 04:31:42 >> [HookCon_Service] : Game#1031820 Start
+03.09.13 04:32:16 >> [HookCon_Service] : Game#1031820 Win Number: [11]
+03.09.13 04:32:16 >> [HookCon_Service] : Game#1031820 End
+03.09.13 04:32:45 >> [HookCon_Service] : Game#1031821 Start
+03.09.13 04:33:18 >> [HookCon_Service] : Game#1031821 Win Number: [5]
+03.09.13 04:33:18 >> [HookCon_Service] : Game#1031821 End
+03.09.13 04:33:44 >> [HookCon_Service] : Game#1031822 Start
+03.09.13 04:34:20 >> [HookCon_Service] : Game#1031822 Win Number: [0]
+03.09.13 04:34:20 >> [HookCon_Service] : Game#1031822 End
+03.09.13 04:34:48 >> [HookCon_Service] : Game#1031823 Start
+03.09.13 04:35:21 >> [HookCon_Service] : Game#1031823 Win Number: [22]
+03.09.13 04:35:22 >> [HookCon_Service] : Game#1031823 End
+03.09.13 04:35:49 >> [HookCon_Service] : Game#1031824 Start
+03.09.13 04:36:25 >> [HookCon_Service] : Game#1031824 Win Number: [18]
+03.09.13 04:36:26 >> [HookCon_Service] : Game#1031824 End
+03.09.13 04:36:55 >> [HookCon_Service] : Game#1031825 Start
+03.09.13 04:37:27 >> [HookCon_Service] : Game#1031825 Win Number: [5]
+03.09.13 04:37:28 >> [HookCon_Service] : Game#1031825 End
+03.09.13 04:37:56 >> [HookCon_Service] : Game#1031826 Start
+03.09.13 04:38:27 >> [HookCon_Service] : Game#1031826 Win Number: [16]
+03.09.13 04:38:28 >> [HookCon_Service] : Game#1031826 End
+03.09.13 04:38:56 >> [HookCon_Service] : Game#1031827 Start
+03.09.13 04:39:27 >> [HookCon_Service] : Game#1031827 Win Number: [25]
+03.09.13 04:39:27 >> [HookCon_Service] : Game#1031827 End
+03.09.13 04:39:55 >> [HookCon_Service] : Game#1031828 Start
+03.09.13 04:40:12 >> 192.168.10.3 [logoff]
+03.09.13 04:40:26 >> [HookCon_Service] : Game#1031828 Win Number: [13]
+03.09.13 04:40:26 >> [HookCon_Service] : Game#1031828 End
+03.09.13 04:40:52 >> [HookCon_Service] : Game#1031829 Start
+03.09.13 04:41:26 >> [HookCon_Service] : Game#1031829 Win Number: [7]
+03.09.13 04:41:26 >> [HookCon_Service] : Game#1031829 End
+03.09.13 04:41:56 >> [HookCon_Service] : Game#1031830 Start
+03.09.13 04:42:29 >> [HookCon_Service] : Game#1031830 Win Number: [16]
+03.09.13 04:42:29 >> [HookCon_Service] : Game#1031830 End
+03.09.13 04:42:56 >> [HookCon_Service] : Game#1031831 Start
+03.09.13 04:43:32 >> [HookCon_Service] : Game#1031831 Win Number: [6]
+03.09.13 04:43:33 >> [HookCon_Service] : Game#1031831 End
+03.09.13 04:44:00 >> [HookCon_Service] : Game#1031832 Start
+03.09.13 04:44:34 >> [HookCon_Service] : Game#1031832 Win Number: [13]
+03.09.13 04:44:34 >> [HookCon_Service] : Game#1031832 End
+03.09.13 04:45:02 >> [HookCon_Service] : Game#1031833 Start
+03.09.13 04:45:35 >> [HookCon_Service] : Game#1031833 Win Number: [5]
+03.09.13 04:45:36 >> [HookCon_Service] : Game#1031833 End
+03.09.13 04:46:04 >> [HookCon_Service] : Game#1031834 Start
+03.09.13 04:46:33 >> [HookCon_Service] : Game#1031834 Win Number: [13]
+03.09.13 04:46:34 >> [HookCon_Service] : Game#1031834 End
+03.09.13 04:47:01 >> [HookCon_Service] : Game#1031835 Start
+03.09.13 04:47:33 >> [HookCon_Service] : Game#1031835 Win Number: [28]
+03.09.13 04:47:33 >> [HookCon_Service] : Game#1031835 End
+03.09.13 04:48:01 >> [HookCon_Service] : Game#1031836 Start
+03.09.13 04:48:34 >> [HookCon_Service] : Game#1031836 Win Number: [2]
+03.09.13 04:48:34 >> [HookCon_Service] : Game#1031836 End
+03.09.13 04:49:03 >> [HookCon_Service] : Game#1031837 Start
+03.09.13 04:49:34 >> [HookCon_Service] : Game#1031837 Win Number: [33]
+03.09.13 04:49:35 >> [HookCon_Service] : Game#1031837 End
+03.09.13 04:50:02 >> [HookCon_Service] : Game#1031838 Start
+03.09.13 04:50:35 >> [HookCon_Service] : Game#1031838 Win Number: [6]
+03.09.13 04:50:35 >> [HookCon_Service] : Game#1031838 End
+03.09.13 04:51:05 >> [HookCon_Service] : Game#1031839 Start
+03.09.13 04:51:38 >> [HookCon_Service] : Game#1031839 Win Number: [3]
+03.09.13 04:51:39 >> [HookCon_Service] : Game#1031839 End
+03.09.13 04:52:07 >> [HookCon_Service] : Game#1031840 Start
+03.09.13 04:52:43 >> [HookCon_Service] : Game#1031840 Win Number: [3]
+03.09.13 04:52:43 >> [HookCon_Service] : Game#1031840 End
+03.09.13 04:53:11 >> [HookCon_Service] : Game#1031841 Start
+03.09.13 04:53:48 >> [HookCon_Service] : Game#1031841 Win Number: [13]
+03.09.13 04:53:48 >> [HookCon_Service] : Game#1031841 End
+03.09.13 04:54:17 >> [HookCon_Service] : Game#1031842 Start
+03.09.13 04:54:49 >> [HookCon_Service] : Game#1031842 Win Number: [22]
+03.09.13 04:54:50 >> [HookCon_Service] : Game#1031842 End
+03.09.13 04:55:17 >> [HookCon_Service] : Game#1031843 Start
+03.09.13 04:55:52 >> [HookCon_Service] : Game#1031843 Win Number: [33]
+03.09.13 04:55:53 >> [HookCon_Service] : Game#1031843 End
+03.09.13 04:56:21 >> [HookCon_Service] : Game#1031844 Start
+03.09.13 04:56:55 >> [HookCon_Service] : Game#1031844 Win Number: [26]
+03.09.13 04:57:24 >> [HookCon_Service] : Game#1031845 Start
+03.09.13 04:57:59 >> [HookCon_Service] : Game#1031845 Win Number: [11]
+03.09.13 04:57:59 >> [HookCon_Service] : Game#1031845 End
+03.09.13 04:58:26 >> [HookCon_Service] : Game#1031846 Start
+03.09.13 04:59:01 >> [HookCon_Service] : Game#1031846 Win Number: [35]
+03.09.13 04:59:01 >> [HookCon_Service] : Game#1031846 End
+03.09.13 04:59:29 >> [HookCon_Service] : Game#1031847 Start
+03.09.13 05:00:03 >> [HookCon_Service] : Game#1031847 Win Number: [23]
+03.09.13 05:00:03 >> [HookCon_Service] : Game#1031847 End
+03.09.13 05:00:31 >> [HookCon_Service] : Game#1031848 Start
+03.09.13 05:01:04 >> [HookCon_Service] : Game#1031848 Win Number: [12]
+03.09.13 05:01:04 >> [HookCon_Service] : Game#1031848 End
+03.09.13 05:01:33 >> [HookCon_Service] : Game#1031849 Start
+03.09.13 05:02:05 >> [HookCon_Service] : Game#1031849 Win Number: [7]
+03.09.13 05:02:06 >> [HookCon_Service] : Game#1031849 End
+03.09.13 05:02:35 >> [HookCon_Service] : Game#1031850 Start
+03.09.13 05:03:06 >> [HookCon_Service] : Game#1031850 Win Number: [26]
+03.09.13 05:03:07 >> [HookCon_Service] : Game#1031850 End
+03.09.13 05:03:34 >> [HookCon_Service] : Game#1031851 Start
+03.09.13 05:04:11 >> [HookCon_Service] : Game#1031851 Win Number: [33]
+03.09.13 05:04:11 >> [HookCon_Service] : Game#1031851 End
+03.09.13 05:04:39 >> [HookCon_Service] : Game#1031852 Start
+03.09.13 05:05:14 >> [HookCon_Service] : Game#1031852 Win Number: [13]
+03.09.13 05:05:14 >> [HookCon_Service] : Game#1031852 End
+03.09.13 05:05:43 >> [HookCon_Service] : Game#1031853 Start
+03.09.13 05:06:18 >> [HookCon_Service] : Game#1031853 Win Number: [0]
+03.09.13 05:06:18 >> [HookCon_Service] : Game#1031853 End
+03.09.13 05:06:46 >> [HookCon_Service] : Game#1031854 Start
+03.09.13 05:07:20 >> [HookCon_Service] : Game#1031854 Win Number: [31]
+03.09.13 05:07:20 >> [HookCon_Service] : Game#1031854 End
+03.09.13 05:07:48 >> [HookCon_Service] : Game#1031855 Start
+03.09.13 05:08:24 >> [HookCon_Service] : Game#1031855 Win Number: [9]
+03.09.13 05:08:24 >> [HookCon_Service] : Game#1031855 End
+03.09.13 05:08:52 >> [HookCon_Service] : Game#1031856 Start
+03.09.13 05:09:30 >> [HookCon_Service] : Game#1031856 Win Number: [25]
+03.09.13 05:09:31 >> [HookCon_Service] : Game#1031856 End
+03.09.13 05:09:58 >> [HookCon_Service] : Game#1031857 Start
+03.09.13 05:10:37 >> [HookCon_Service] : Game#1031857 Win Number: [35]
+03.09.13 05:10:37 >> [HookCon_Service] : Game#1031857 End
+03.09.13 05:11:05 >> [HookCon_Service] : Game#1031858 Start
+03.09.13 05:11:39 >> [HookCon_Service] : Game#1031858 Win Number: [4]
+03.09.13 05:11:40 >> [HookCon_Service] : Game#1031858 End
+03.09.13 05:12:06 >> [HookCon_Service] : Game#1031859 Start
+03.09.13 05:12:43 >> [HookCon_Service] : Game#1031859 Win Number: [32]
+03.09.13 05:12:44 >> [HookCon_Service] : Game#1031859 End
+03.09.13 05:13:14 >> [HookCon_Service] : Game#1031860 Start
+03.09.13 05:13:45 >> [HookCon_Service] : Game#1031860 Win Number: [27]
+03.09.13 05:13:54 >> [HookCon_Service] : Game#1031860 End
+03.09.13 05:14:21 >> [HookCon_Service] : Game#1031861 Start
+03.09.13 05:14:54 >> [HookCon_Service] : Game#1031861 Win Number: [18]
+03.09.13 05:14:54 >> [HookCon_Service] : Game#1031861 End
+03.09.13 05:15:23 >> [HookCon_Service] : Game#1031862 Start
+03.09.13 05:15:56 >> [HookCon_Service] : Game#1031862 Win Number: [5]
+03.09.13 05:15:57 >> [HookCon_Service] : Game#1031862 End
+03.09.13 05:16:26 >> [HookCon_Service] : Game#1031863 Start
+03.09.13 05:16:59 >> [HookCon_Service] : Game#1031863 Win Number: [22]
+03.09.13 05:17:00 >> [HookCon_Service] : Game#1031863 End
+03.09.13 05:17:27 >> [HookCon_Service] : Game#1031864 Start
+03.09.13 05:18:02 >> [HookCon_Service] : Game#1031864 Win Number: [26]
+03.09.13 05:18:02 >> [HookCon_Service] : Game#1031864 End
+03.09.13 05:18:31 >> [HookCon_Service] : Game#1031865 Start
+03.09.13 05:19:01 >> [HookCon_Service] : Game#1031865 Win Number: [6]
+03.09.13 05:19:01 >> [HookCon_Service] : Game#1031865 End
+03.09.13 05:19:28 >> [HookCon_Service] : Game#1031866 Start
+03.09.13 05:20:06 >> [HookCon_Service] : Game#1031866 Win Number: [12]
+03.09.13 05:20:06 >> [HookCon_Service] : Game#1031866 End
+03.09.13 05:20:34 >> [HookCon_Service] : Game#1031867 Start
+03.09.13 05:21:09 >> [HookCon_Service] : Game#1031867 Win Number: [35]
+03.09.13 05:21:09 >> [HookCon_Service] : Game#1031867 End
+03.09.13 05:21:37 >> [HookCon_Service] : Game#1031868 Start
+03.09.13 05:22:10 >> [HookCon_Service] : Game#1031868 Win Number: [21]
+03.09.13 05:22:11 >> [HookCon_Service] : Game#1031868 End
+03.09.13 05:22:40 >> [HookCon_Service] : Game#1031869 Start
+03.09.13 05:23:12 >> [HookCon_Service] : Game#1031869 Win Number: [4]
+03.09.13 05:23:12 >> [HookCon_Service] : Game#1031869 End
+03.09.13 05:23:41 >> [HookCon_Service] : Game#1031870 Start
+03.09.13 05:24:18 >> [HookCon_Service] : Game#1031870 Win Number: [16]
+03.09.13 05:24:18 >> [HookCon_Service] : Game#1031870 End
+03.09.13 05:24:49 >> [HookCon_Service] : Game#1031871 Start
+03.09.13 05:25:23 >> [HookCon_Service] : Game#1031871 Win Number: [16]
+03.09.13 05:25:23 >> [HookCon_Service] : Game#1031871 End
+03.09.13 05:25:52 >> [HookCon_Service] : Game#1031872 Start
+03.09.13 05:26:28 >> [HookCon_Service] : Game#1031872 Win Number: [16]
+03.09.13 05:26:28 >> [HookCon_Service] : Game#1031872 End
+03.09.13 05:26:56 >> [HookCon_Service] : Game#1031873 Start
+03.09.13 05:27:30 >> [HookCon_Service] : Game#1031873 Win Number: [28]
+03.09.13 05:27:30 >> [HookCon_Service] : Game#1031873 End
+03.09.13 05:27:58 >> [HookCon_Service] : Game#1031874 Start
+03.09.13 05:28:34 >> [HookCon_Service] : Game#1031874 Win Number: [6]
+03.09.13 05:28:35 >> [HookCon_Service] : Game#1031874 End
+03.09.13 05:29:02 >> [HookCon_Service] : Game#1031875 Start
+03.09.13 05:29:37 >> [HookCon_Service] : Game#1031875 Win Number: [32]
+03.09.13 05:29:37 >> [HookCon_Service] : Game#1031875 End
+03.09.13 05:30:06 >> [HookCon_Service] : Game#1031876 Start
+03.09.13 05:30:41 >> [HookCon_Service] : Game#1031876 Win Number: [28]
+03.09.13 05:30:41 >> [HookCon_Service] : Game#1031876 End
+03.09.13 05:31:09 >> [HookCon_Service] : Game#1031877 Start
+03.09.13 05:31:42 >> [HookCon_Service] : Game#1031877 Win Number: [4]
+03.09.13 05:31:42 >> [HookCon_Service] : Game#1031877 End
+03.09.13 05:32:11 >> [HookCon_Service] : Game#1031878 Start
+03.09.13 05:32:46 >> [HookCon_Service] : Game#1031878 Win Number: [20]
+03.09.13 05:32:46 >> [HookCon_Service] : Game#1031878 End
+03.09.13 05:33:15 >> [HookCon_Service] : Game#1031879 Start
+03.09.13 05:33:46 >> [HookCon_Service] : Game#1031879 Win Number: [33]
+03.09.13 05:33:47 >> [HookCon_Service] : Game#1031879 End
+03.09.13 05:34:16 >> [HookCon_Service] : Game#1031880 Start
+03.09.13 05:34:50 >> [HookCon_Service] : Game#1031880 Win Number: [9]
+03.09.13 05:34:50 >> [HookCon_Service] : Game#1031880 End
+03.09.13 05:35:18 >> [HookCon_Service] : Game#1031881 Start
+03.09.13 05:35:50 >> [HookCon_Service] : Game#1031881 Win Number: [17]
+03.09.13 05:35:50 >> [HookCon_Service] : Game#1031881 End
+03.09.13 05:36:17 >> [HookCon_Service] : Game#1031882 Start
+03.09.13 05:36:51 >> [HookCon_Service] : Game#1031882 Win Number: [0]
+03.09.13 05:36:51 >> [HookCon_Service] : Game#1031882 End
+03.09.13 05:37:19 >> [HookCon_Service] : Game#1031883 Start
+03.09.13 05:37:53 >> [HookCon_Service] : Game#1031883 Win Number: [34]
+03.09.13 05:37:53 >> [HookCon_Service] : Game#1031883 End
+03.09.13 05:38:22 >> [HookCon_Service] : Game#1031884 Start
+03.09.13 05:38:52 >> [HookCon_Service] : Game#1031884 Win Number: [27]
+03.09.13 05:38:53 >> [HookCon_Service] : Game#1031884 End
+03.09.13 05:39:20 >> [HookCon_Service] : Game#1031885 Start
+03.09.13 05:39:54 >> [HookCon_Service] : Game#1031885 Win Number: [34]
+03.09.13 05:39:54 >> [HookCon_Service] : Game#1031885 End
+03.09.13 05:40:23 >> [HookCon_Service] : Game#1031886 Start
+03.09.13 05:40:55 >> 192.168.10.14 [logoff]
+03.09.13 05:40:56 >> [HookCon_Service] : Game#1031886 Win Number: [9]
+03.09.13 05:40:57 >> [HookCon_Service] : Game#1031886 End
+03.09.13 05:40:57 >> 192.168.5.1 [logoff]
+03.09.13 05:41:25 >> [HookCon_Service] : Game#1031887 Start
+03.09.13 05:41:59 >> [HookCon_Service] : Game#1031887 Win Number: [4]
+03.09.13 05:41:59 >> [HookCon_Service] : Game#1031887 End
+03.09.13 05:42:25 >> [HookCon_Service] : Game#1031888 Start
+03.09.13 05:42:55 >> 192.168.10.14 [logoff]
+03.09.13 05:43:02 >> [HookCon_Service] : Game#1031888 Win Number: [13]
+03.09.13 05:43:03 >> [HookCon_Service] : Game#1031888 End
+03.09.13 05:43:29 >> [HookCon_Service] : Game#1031889 Start
+03.09.13 05:44:05 >> [HookCon_Service] : Game#1031889 Win Number: [12]
+03.09.13 05:44:05 >> [HookCon_Service] : Game#1031889 End
+03.09.13 05:44:35 >> [HookCon_Service] : Game#1031890 Start
+03.09.13 05:44:57 >> 192.168.10.14 [logoff]
+03.09.13 05:45:00 >> 192.168.5.1 [logoff]
+03.09.13 05:45:06 >> [HookCon_Service] : Game#1031890 Win Number: [0]
+03.09.13 05:45:07 >> [HookCon_Service] : Game#1031890 End
+03.09.13 05:45:35 >> [HookCon_Service] : Game#1031891 Start
+03.09.13 05:46:06 >> [HookCon_Service] : Game#1031891 Win Number: [4]
+03.09.13 05:46:07 >> [HookCon_Service] : Game#1031891 End
+03.09.13 05:46:35 >> [HookCon_Service] : Game#1031892 Start
+03.09.13 05:47:06 >> 192.168.5.1 [logoff]
+03.09.13 05:47:08 >> 192.168.10.16 [logoff]
+03.09.13 05:47:13 >> [HookCon_Service] : Game#1031892 Win Number: [36]
+03.09.13 05:47:13 >> [HookCon_Service] : Game#1031892 End
+03.09.13 05:47:42 >> [HookCon_Service] : Game#1031893 Start
+03.09.13 05:48:19 >> [HookCon_Service] : Game#1031893 Win Number: [3]
+03.09.13 05:56:53 >> Can't connect to MSSQL Database
+03.09.13 05:56:53 >> Server is running. Waiting for incoming connections.
+03.09.13 05:59:36 >> Error: Ошибка входа пользователя "rserver".  Причина: истек срок действия пароля для этой учетной записи. in MSSQL.vb. More Info:System.Data.SqlClient.SqlException: Ошибка входа пользователя "rserver".  Причина: истек срок действия пароля для этой учетной записи.
+   в System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   в System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   в System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   в System.Data.SqlClient.SqlInternalConnectionTds.CompleteLogin(Boolean enlistOK)
+   в System.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, Boolean ignoreSniOpenTimeout, Int64 timerExpire, SqlConnection owningObject, Boolean withFailover)
+   в System.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(String host, String newPassword, Boolean redirectedUserInstance, SqlConnection owningObject, SqlConnectionString connectionOptions, Int64 timerStart)
+   в System.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(SqlConnection owningObject, SqlConnectionString connectionOptions, String newPassword, Boolean redirectedUserInstance)
+   в System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, Object providerInfo, String newPassword, SqlConnection owningObject, Boolean redirectedUserInstance)
+   в System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection)
+   в System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnection owningConnection, DbConnectionPool pool, DbConnectionOptions options)
+   в System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject)
+   в System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject)
+   в System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   в System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   в System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   в System.Data.SqlClient.SqlConnection.Open()
+   в RRServer.MSSQL.Connect() в C:\Users\Admin\Documents\Visual Studio 2008\Projects\RRServer\RRServer\MSSQL.vb:строка 14
+03.09.13 05:59:37 >> Can't connect to MSSQL Database
+03.09.13 05:59:37 >> Server is running. Waiting for incoming connections.
+03.09.13 06:00:07 >> Error: Ошибка входа пользователя "rserver".  Причина: истек срок действия пароля для этой учетной записи. in MSSQL.vb. More Info:System.Data.SqlClient.SqlException: Ошибка входа пользователя "rserver".  Причина: истек срок действия пароля для этой учетной записи.
+   в System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   в System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   в System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   в System.Data.SqlClient.SqlInternalConnectionTds.CompleteLogin(Boolean enlistOK)
+   в System.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, Boolean ignoreSniOpenTimeout, Int64 timerExpire, SqlConnection owningObject, Boolean withFailover)
+   в System.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(String host, String newPassword, Boolean redirectedUserInstance, SqlConnection owningObject, SqlConnectionString connectionOptions, Int64 timerStart)
+   в System.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(SqlConnection owningObject, SqlConnectionString connectionOptions, String newPassword, Boolean redirectedUserInstance)
+   в System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, Object providerInfo, String newPassword, SqlConnection owningObject, Boolean redirectedUserInstance)
+   в System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection)
+   в System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnection owningConnection, DbConnectionPool pool, DbConnectionOptions options)
+   в System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject)
+   в System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject)
+   в System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   в System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   в System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   в System.Data.SqlClient.SqlConnection.Open()
+   в RRServer.MSSQL.Connect() в C:\Users\Admin\Documents\Visual Studio 2008\Projects\RRServer\RRServer\MSSQL.vb:строка 14
+03.09.13 06:00:07 >> Can't connect to MSSQL Database
+03.09.13 06:00:07 >> Server is running. Waiting for incoming connections.
+03.09.13 06:01:34 >> Error: Ошибка входа пользователя "rserver".  Причина: истек срок действия пароля для этой учетной записи. in MSSQL.vb. More Info:System.Data.SqlClient.SqlException: Ошибка входа пользователя "rserver".  Причина: истек срок действия пароля для этой учетной записи.
+   в System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   в System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   в System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   в System.Data.SqlClient.SqlInternalConnectionTds.CompleteLogin(Boolean enlistOK)
+   в System.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, Boolean ignoreSniOpenTimeout, Int64 timerExpire, SqlConnection owningObject, Boolean withFailover)
+   в System.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(String host, String newPassword, Boolean redirectedUserInstance, SqlConnection owningObject, SqlConnectionString connectionOptions, Int64 timerStart)
+   в System.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(SqlConnection owningObject, SqlConnectionString connectionOptions, String newPassword, Boolean redirectedUserInstance)
+   в System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, Object providerInfo, String newPassword, SqlConnection owningObject, Boolean redirectedUserInstance)
+   в System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection)
+   в System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnection owningConnection, DbConnectionPool pool, DbConnectionOptions options)
+   в System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject)
+   в System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject)
+   в System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   в System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   в System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   в System.Data.SqlClient.SqlConnection.Open()
+   в RRServer.MSSQL.Connect() в C:\Users\Admin\Documents\Visual Studio 2008\Projects\RRServer\RRServer\MSSQL.vb:строка 14
+03.09.13 06:01:34 >> Can't connect to MSSQL Database
+03.09.13 06:01:34 >> Server is running. Waiting for incoming connections.
+03.09.13 06:12:51 >> Server is running. Waiting for incoming connections.
+03.09.13 06:13:18 >> Client was connected: 192.168.10.39
+03.09.13 06:13:18 >> [HookCon_Service] : Game#1031917/STOP_EVENT 1031917 Win Number: [27]
+03.09.13 06:13:42 >> Server is running. Waiting for incoming connections.
+03.09.13 06:13:57 >> Client was connected: 192.168.10.39
+03.09.13 06:14:05 >> Client was connected: 127.0.0.1
+03.09.13 06:14:20 >> [HookCon_Service] : Game#1031918 Win Number: [24]
+03.09.13 06:14:20 >> [HookCon_Service] : Game#1031918 End
+03.09.13 06:14:50 >> [HookCon_Service] : Game#1031919 Start
+03.09.13 06:14:55 >> 192.168.10.16 [logoff]
+03.09.13 06:15:23 >> [HookCon_Service] : Game#1031919 Win Number: [3]
+03.09.13 06:15:24 >> [HookCon_Service] : Game#1031919 End
+03.09.13 06:15:53 >> [HookCon_Service] : Game#1031920 Start
+03.09.13 06:16:30 >> [HookCon_Service] : Game#1031920 Win Number: [22]
+03.09.13 06:16:31 >> [HookCon_Service] : Game#1031920 End
+03.09.13 06:17:01 >> [HookCon_Service] : Game#1031921 Start
+03.09.13 06:17:34 >> [HookCon_Service] : Game#1031921 Win Number: [21]
+03.09.13 06:17:34 >> [HookCon_Service] : Game#1031921 End
+03.09.13 06:18:01 >> [HookCon_Service] : Game#1031922 Start
+03.09.13 06:18:36 >> [HookCon_Service] : Game#1031922 Win Number: [25]
+03.09.13 06:18:37 >> [HookCon_Service] : Game#1031922 End
+03.09.13 06:19:05 >> [HookCon_Service] : Game#1031923 Start
+03.09.13 06:19:41 >> [HookCon_Service] : Game#1031923 Win Number: [29]
+03.09.13 06:19:41 >> [HookCon_Service] : Game#1031923 End
+03.09.13 06:20:11 >> [HookCon_Service] : Game#1031924 Start
+03.09.13 06:20:28 >> 192.168.10.14 [logoff]
+03.09.13 06:20:40 >> [HookCon_Service] : Game#1031924 Win Number: [31]
+03.09.13 06:20:41 >> [HookCon_Service] : Game#1031924 End
+03.09.13 06:21:09 >> [HookCon_Service] : Game#1031925 Start
+03.09.13 06:21:43 >> [HookCon_Service] : Game#1031925 Win Number: [15]
+03.09.13 06:21:44 >> [HookCon_Service] : Game#1031925 End
+03.09.13 06:22:10 >> [HookCon_Service] : Game#1031926 Start
+03.09.13 06:22:46 >> [HookCon_Service] : Game#1031926 Win Number: [27]
+03.09.13 06:22:47 >> [HookCon_Service] : Game#1031926 End
+03.09.13 06:23:15 >> 192.168.5.1 [logoff]
+03.09.13 06:23:15 >> [HookCon_Service] : Game#1031927 Start
+03.09.13 06:23:49 >> [HookCon_Service] : Game#1031927 Win Number: [25]
+03.09.13 06:23:50 >> [HookCon_Service] : Game#1031927 End
+03.09.13 06:24:11 >> 192.168.5.1 [logoff]
+03.09.13 06:24:17 >> [HookCon_Service] : Game#1031928 Start
+03.09.13 06:24:50 >> [HookCon_Service] : Game#1031928 Win Number: [22]
+03.09.13 06:24:50 >> [HookCon_Service] : Game#1031928 End
+03.09.13 06:25:18 >> [HookCon_Service] : Game#1031929 Start
+03.09.13 06:25:51 >> [HookCon_Service] : Game#1031929 Win Number: [15]
+03.09.13 06:25:52 >> [HookCon_Service] : Game#1031929 End
+03.09.13 06:26:21 >> [HookCon_Service] : Game#1031930 Start
+03.09.13 06:26:54 >> [HookCon_Service] : Game#1031930 Win Number: [18]
+03.09.13 06:26:55 >> [HookCon_Service] : Game#1031930 End
+03.09.13 06:27:24 >> [HookCon_Service] : Game#1031931 Start
+03.09.13 06:27:55 >> [HookCon_Service] : Game#1031931 Win Number: [27]
+03.09.13 06:27:56 >> [HookCon_Service] : Game#1031931 End
+03.09.13 06:28:24 >> [HookCon_Service] : Game#1031932 Start
+03.09.13 06:28:54 >> [HookCon_Service] : Game#1031932 Win Number: [14]
+03.09.13 06:28:55 >> [HookCon_Service] : Game#1031932 End
+03.09.13 06:29:24 >> [HookCon_Service] : Game#1031933 Start
+03.09.13 06:29:55 >> [HookCon_Service] : Game#1031933 Win Number: [6]
+03.09.13 06:29:55 >> [HookCon_Service] : Game#1031933 End
+03.09.13 06:29:59 >> 192.168.5.1 [logoff]
+03.09.13 06:30:24 >> [HookCon_Service] : Game#1031934 Start
+03.09.13 06:30:59 >> [HookCon_Service] : Game#1031934 Win Number: [3]
+03.09.13 06:30:59 >> [HookCon_Service] : Game#1031934 End
+03.09.13 06:31:29 >> [HookCon_Service] : Game#1031935 Start
+03.09.13 06:32:04 >> [HookCon_Service] : Game#1031935 Win Number: [12]
+03.09.13 06:32:04 >> [HookCon_Service] : Game#1031935 End
+03.09.13 06:32:32 >> [HookCon_Service] : Game#1031936 Start
+03.09.13 06:33:07 >> [HookCon_Service] : Game#1031936 Win Number: [26]
+03.09.13 06:33:07 >> [HookCon_Service] : Game#1031936 End
+03.09.13 06:33:35 >> [HookCon_Service] : Game#1031937 Start
+03.09.13 06:34:09 >> [HookCon_Service] : Game#1031937 Win Number: [12]
+03.09.13 06:34:10 >> [HookCon_Service] : Game#1031937 End
+03.09.13 06:34:38 >> [HookCon_Service] : Game#1031938 Start
+03.09.13 06:35:12 >> [HookCon_Service] : Game#1031938 Win Number: [26]
+03.09.13 06:35:13 >> [HookCon_Service] : Game#1031938 End
+03.09.13 06:35:19 >> 192.168.5.1 [logoff]
+03.09.13 06:35:40 >> [HookCon_Service] : Game#1031939 Start
+03.09.13 06:36:19 >> [HookCon_Service] : Game#1031939 Win Number: [7]
+03.09.13 06:36:20 >> [HookCon_Service] : Game#1031939 End
+03.09.13 06:36:50 >> [HookCon_Service] : Game#1031940 Start
+03.09.13 06:37:24 >> [HookCon_Service] : Game#1031940 Win Number: [34]
+03.09.13 06:37:25 >> [HookCon_Service] : Game#1031940 End
+03.09.13 06:37:54 >> [HookCon_Service] : Game#1031941 Start
+03.09.13 06:38:27 >> [HookCon_Service] : Game#1031941 Win Number: [2]
+03.09.13 06:38:27 >> [HookCon_Service] : Game#1031941 End
+03.09.13 06:38:57 >> [HookCon_Service] : Game#1031942 Start
+03.09.13 06:39:31 >> [HookCon_Service] : Game#1031942 Win Number: [18]
+03.09.13 06:39:31 >> [HookCon_Service] : Game#1031942 End
+03.09.13 06:40:00 >> [HookCon_Service] : Game#1031943 Start
+03.09.13 06:40:34 >> [HookCon_Service] : Game#1031943 Win Number: [18]
+03.09.13 06:40:35 >> [HookCon_Service] : Game#1031943 End
+03.09.13 06:40:35 >> 192.168.5.1 [logoff]
+03.09.13 06:41:03 >> [HookCon_Service] : Game#1031944 Start
+03.09.13 06:41:35 >> [HookCon_Service] : Game#1031944 Win Number: [25]
+03.09.13 06:42:05 >> [HookCon_Service] : Game#1031945 Start
+03.09.13 06:42:37 >> [HookCon_Service] : Game#1031945 Win Number: [16]
+03.09.13 06:42:37 >> [HookCon_Service] : Game#1031945 End
+03.09.13 06:43:07 >> [HookCon_Service] : Game#1031946 Start
+03.09.13 06:43:40 >> [HookCon_Service] : Game#1031946 Win Number: [8]
+03.09.13 06:43:40 >> [HookCon_Service] : Game#1031946 End
+03.09.13 06:44:10 >> [HookCon_Service] : Game#1031947 Start
+03.09.13 06:44:42 >> [HookCon_Service] : Game#1031947 Win Number: [9]
+03.09.13 06:44:43 >> [HookCon_Service] : Game#1031947 End
+03.09.13 06:45:11 >> [HookCon_Service] : Game#1031948 Start
+03.09.13 06:45:35 >> 192.168.5.1 [logoff]
+03.09.13 06:45:48 >> [HookCon_Service] : Game#1031948 Win Number: [20]
+03.09.13 06:45:48 >> [HookCon_Service] : Game#1031948 End
+03.09.13 06:46:16 >> [HookCon_Service] : Game#1031949 Start
+03.09.13 06:46:53 >> [HookCon_Service] : Game#1031949 Win Number: [2]
+03.09.13 06:46:55 >> [HookCon_Service] : Game#1031949 End
+03.09.13 06:47:23 >> [HookCon_Service] : Game#1031950 Start
+03.09.13 06:47:58 >> [HookCon_Service] : Game#1031950 Win Number: [6]
+03.09.13 06:47:58 >> [HookCon_Service] : Game#1031950 End
+03.09.13 06:48:25 >> [HookCon_Service] : Game#1031951 Start
+03.09.13 06:49:01 >> [HookCon_Service] : Game#1031951 Win Number: [29]
+03.09.13 06:49:02 >> [HookCon_Service] : Game#1031951 End
+03.09.13 06:49:31 >> [HookCon_Service] : Game#1031952 Start
+03.09.13 06:50:04 >> [HookCon_Service] : Game#1031952 Win Number: [21]
+03.09.13 06:50:05 >> [HookCon_Service] : Game#1031952 End
+03.09.13 06:50:32 >> [HookCon_Service] : Game#1031953 Start
+03.09.13 06:50:35 >> 192.168.5.1 [logoff]
+03.09.13 06:51:11 >> [HookCon_Service] : Game#1031953 Win Number: [23]
+03.09.13 06:51:12 >> [HookCon_Service] : Game#1031953 End
+03.09.13 06:51:41 >> [HookCon_Service] : Game#1031954 Start
+03.09.13 06:52:15 >> [HookCon_Service] : Game#1031954 Win Number: [8]
+03.09.13 06:52:15 >> [HookCon_Service] : Game#1031954 End
+03.09.13 06:52:44 >> [HookCon_Service] : Game#1031955 Start
+03.09.13 06:53:17 >> [HookCon_Service] : Game#1031955 Win Number: [8]
+03.09.13 06:53:17 >> [HookCon_Service] : Game#1031955 End
+03.09.13 06:53:46 >> [HookCon_Service] : Game#1031956 Start
+03.09.13 06:54:16 >> [HookCon_Service] : Game#1031956 Win Number: [18]
+03.09.13 06:54:17 >> [HookCon_Service] : Game#1031956 End
+03.09.13 06:54:46 >> [HookCon_Service] : Game#1031957 Start
+03.09.13 06:55:19 >> [HookCon_Service] : Game#1031957 Win Number: [4]
+03.09.13 06:55:19 >> [HookCon_Service] : Game#1031957 End
+03.09.13 06:55:49 >> [HookCon_Service] : Game#1031958 Start
+03.09.13 06:56:22 >> [HookCon_Service] : Game#1031958 Win Number: [2]
+03.09.13 06:56:23 >> [HookCon_Service] : Game#1031958 End
+03.09.13 06:56:52 >> [HookCon_Service] : Game#1031959 Start
+03.09.13 06:57:29 >> [HookCon_Service] : Game#1031959 Win Number: [9]
+03.09.13 06:57:30 >> [HookCon_Service] : Game#1031959 End
+03.09.13 06:57:59 >> [HookCon_Service] : Game#1031960 Start
+03.09.13 06:58:30 >> [HookCon_Service] : Game#1031960 Win Number: [3]
+03.09.13 06:58:30 >> [HookCon_Service] : Game#1031960 End
+03.09.13 06:58:59 >> [HookCon_Service] : Game#1031961 Start
+03.09.13 06:59:30 >> [HookCon_Service] : Game#1031961 Win Number: [2]
+03.09.13 06:59:30 >> [HookCon_Service] : Game#1031961 End
+03.09.13 06:59:58 >> [HookCon_Service] : Game#1031962 Start
+03.09.13 07:00:33 >> [HookCon_Service] : Game#1031962 Win Number: [11]
+03.09.13 07:00:33 >> [HookCon_Service] : Game#1031962 End
+03.09.13 07:01:02 >> [HookCon_Service] : Game#1031963 Start
+03.09.13 07:01:35 >> [HookCon_Service] : Game#1031963 Win Number: [7]
+03.09.13 07:01:35 >> [HookCon_Service] : Game#1031963 End
+03.09.13 07:02:04 >> [HookCon_Service] : Game#1031964 Start
+03.09.13 07:02:37 >> [HookCon_Service] : Game#1031964 Win Number: [23]
+03.09.13 07:02:38 >> [HookCon_Service] : Game#1031964 End
+03.09.13 07:03:07 >> [HookCon_Service] : Game#1031965 Start
+03.09.13 07:03:41 >> [HookCon_Service] : Game#1031965 Win Number: [27]
+03.09.13 07:03:42 >> [HookCon_Service] : Game#1031965 End
+03.09.13 07:04:10 >> [HookCon_Service] : Game#1031966 Start
+03.09.13 07:04:43 >> [HookCon_Service] : Game#1031966 Win Number: [33]
+03.09.13 07:04:43 >> [HookCon_Service] : Game#1031966 End
+03.09.13 07:05:12 >> [HookCon_Service] : Game#1031967 Start
+03.09.13 07:05:46 >> [HookCon_Service] : Game#1031967 Win Number: [10]
+03.09.13 07:05:47 >> [HookCon_Service] : Game#1031967 End
+03.09.13 07:06:16 >> [HookCon_Service] : Game#1031968 Start
+03.09.13 07:06:48 >> [HookCon_Service] : Game#1031968 Win Number: [21]
+03.09.13 07:06:48 >> [HookCon_Service] : Game#1031968 End
+03.09.13 07:07:17 >> [HookCon_Service] : Game#1031969 Start
+03.09.13 07:07:51 >> [HookCon_Service] : Game#1031969 Win Number: [24]
+03.09.13 07:07:52 >> [HookCon_Service] : Game#1031969 End
+03.09.13 07:08:20 >> [HookCon_Service] : Game#1031970 Start
+03.09.13 07:08:54 >> [HookCon_Service] : Game#1031970 Win Number: [22]
+03.09.13 07:08:54 >> [HookCon_Service] : Game#1031970 End
+03.09.13 07:09:24 >> [HookCon_Service] : Game#1031971 Start
+03.09.13 07:09:56 >> [HookCon_Service] : Game#1031971 Win Number: [13]
+03.09.13 07:09:57 >> [HookCon_Service] : Game#1031971 End
+03.09.13 07:10:25 >> [HookCon_Service] : Game#1031972 Start
+03.09.13 07:11:01 >> [HookCon_Service] : Game#1031972 Win Number: [35]
+03.09.13 07:11:01 >> [HookCon_Service] : Game#1031972 End
+03.09.13 07:11:28 >> [HookCon_Service] : Game#1031973 Start
+03.09.13 07:12:04 >> [HookCon_Service] : Game#1031973 Win Number: [15]
+03.09.13 07:12:05 >> [HookCon_Service] : Game#1031973 End
+03.09.13 07:12:33 >> [HookCon_Service] : Game#1031974 Start
+03.09.13 07:13:07 >> [HookCon_Service] : Game#1031974 Win Number: [1]
+03.09.13 07:13:08 >> [HookCon_Service] : Game#1031974 End
+03.09.13 07:13:38 >> [HookCon_Service] : Game#1031975 Start
+03.09.13 07:14:12 >> [HookCon_Service] : Game#1031975 Win Number: [16]
+03.09.13 07:14:12 >> [HookCon_Service] : Game#1031975 End
+03.09.13 07:14:39 >> [HookCon_Service] : Game#1031976 Start
+03.09.13 07:15:15 >> [HookCon_Service] : Game#1031976 Win Number: [2]
+03.09.13 07:15:16 >> [HookCon_Service] : Game#1031976 End
+03.09.13 07:15:46 >> [HookCon_Service] : Game#1031977 Start
+03.09.13 07:16:17 >> [HookCon_Service] : Game#1031977 Win Number: [20]
+03.09.13 07:16:18 >> [HookCon_Service] : Game#1031977 End
+03.09.13 07:16:45 >> [HookCon_Service] : Game#1031978 Start
+03.09.13 07:17:21 >> [HookCon_Service] : Game#1031978 Win Number: [3]
+03.09.13 07:17:22 >> [HookCon_Service] : Game#1031978 End
+03.09.13 07:17:51 >> [HookCon_Service] : Game#1031979 Start
+03.09.13 07:18:23 >> [HookCon_Service] : Game#1031979 Win Number: [2]
+03.09.13 07:18:23 >> [HookCon_Service] : Game#1031979 End
+03.09.13 07:18:53 >> [HookCon_Service] : Game#1031980 Start
+03.09.13 07:19:25 >> [HookCon_Service] : Game#1031980 Win Number: [16]
+03.09.13 07:19:26 >> [HookCon_Service] : Game#1031980 End
+03.09.13 07:19:53 >> [HookCon_Service] : Game#1031981 Start
+03.09.13 07:20:31 >> [HookCon_Service] : Game#1031981 Win Number: [8]
+03.09.13 07:20:31 >> [HookCon_Service] : Game#1031981 End
+03.09.13 07:20:59 >> [HookCon_Service] : Game#1031982 Start
+03.09.13 07:21:36 >> [HookCon_Service] : Game#1031982 Win Number: [18]
+03.09.13 07:21:37 >> [HookCon_Service] : Game#1031982 End
+03.09.13 07:22:06 >> [HookCon_Service] : Game#1031983 Start
+03.09.13 07:22:42 >> [HookCon_Service] : Game#1031983 Win Number: [3]
+03.09.13 07:22:43 >> [HookCon_Service] : Game#1031983 End
+03.09.13 07:23:12 >> [HookCon_Service] : Game#1031984 Start
+03.09.13 07:23:45 >> [HookCon_Service] : Game#1031984 Win Number: [0]
+03.09.13 07:23:46 >> [HookCon_Service] : Game#1031984 End
+03.09.13 07:24:13 >> [HookCon_Service] : Game#1031985 Start
+03.09.13 07:24:49 >> [HookCon_Service] : Game#1031985 Win Number: [0]
+03.09.13 07:24:49 >> [HookCon_Service] : Game#1031985 End
+03.09.13 07:25:17 >> [HookCon_Service] : Game#1031986 Start
+03.09.13 07:25:53 >> [HookCon_Service] : Game#1031986 Win Number: [33]
+03.09.13 07:25:53 >> [HookCon_Service] : Game#1031986 End
+03.09.13 07:26:22 >> [HookCon_Service] : Game#1031987 Start
+03.09.13 07:26:55 >> [HookCon_Service] : Game#1031987 Win Number: [16]
+03.09.13 07:26:55 >> [HookCon_Service] : Game#1031987 End
+03.09.13 07:27:23 >> [HookCon_Service] : Game#1031988 Start
+03.09.13 07:27:58 >> [HookCon_Service] : Game#1031988 Win Number: [19]
+03.09.13 07:27:59 >> [HookCon_Service] : Game#1031988 End
+03.09.13 07:28:27 >> [HookCon_Service] : Game#1031989 Start
+03.09.13 07:29:00 >> [HookCon_Service] : Game#1031989 Win Number: [36]
+03.09.13 07:29:01 >> [HookCon_Service] : Game#1031989 End
+03.09.13 07:29:31 >> [HookCon_Service] : Game#1031990 Start
+03.09.13 07:30:04 >> [HookCon_Service] : Game#1031990 Win Number: [2]
+03.09.13 07:30:05 >> [HookCon_Service] : Game#1031990 End
+03.09.13 07:30:36 >> [HookCon_Service] : Game#1031991 Start
+03.09.13 07:31:10 >> [HookCon_Service] : Game#1031991 Win Number: [0]
+03.09.13 07:31:11 >> [HookCon_Service] : Game#1031991 End
+03.09.13 07:31:40 >> [HookCon_Service] : Game#1031992 Start
+03.09.13 07:32:15 >> [HookCon_Service] : Game#1031992 Win Number: [0]
+03.09.13 07:32:15 >> [HookCon_Service] : Game#1031992 End
+03.09.13 07:32:43 >> [HookCon_Service] : Game#1031993 Start
+03.09.13 07:33:16 >> [HookCon_Service] : Game#1031993 Win Number: [32]
+03.09.13 07:33:16 >> [HookCon_Service] : Game#1031993 End
+03.09.13 07:33:44 >> [HookCon_Service] : Game#1031994 Start
+03.09.13 07:34:14 >> [HookCon_Service] : Game#1031994 Win Number: [34]
+03.09.13 07:34:15 >> [HookCon_Service] : Game#1031994 End
+03.09.13 07:34:43 >> [HookCon_Service] : Game#1031995 Start
+03.09.13 07:35:19 >> [HookCon_Service] : Game#1031995 Win Number: [5]
+03.09.13 07:35:20 >> [HookCon_Service] : Game#1031995 End
+03.09.13 07:35:50 >> [HookCon_Service] : Game#1031996 Start
+03.09.13 07:36:20 >> [HookCon_Service] : Game#1031996 Win Number: [32]
+03.09.13 07:36:21 >> [HookCon_Service] : Game#1031996 End
+03.09.13 07:36:51 >> [HookCon_Service] : Game#1031997 Start
+03.09.13 07:37:23 >> [HookCon_Service] : Game#1031997 Win Number: [30]
+03.09.13 07:37:24 >> [HookCon_Service] : Game#1031997 End
+03.09.13 07:37:53 >> [HookCon_Service] : Game#1031998 Start
+03.09.13 07:38:24 >> [HookCon_Service] : Game#1031998 Win Number: [26]
+03.09.13 07:38:24 >> [HookCon_Service] : Game#1031998 End
+03.09.13 07:38:54 >> [HookCon_Service] : Game#1031999 Start
+03.09.13 07:39:27 >> [HookCon_Service] : Game#1031999 Win Number: [4]
+03.09.13 07:39:28 >> [HookCon_Service] : Game#1031999 End
+03.09.13 07:39:58 >> [HookCon_Service] : Game#1032000 Start
+03.09.13 07:40:33 >> [HookCon_Service] : Game#1032000 Win Number: [29]
+03.09.13 07:40:34 >> [HookCon_Service] : Game#1032000 End
+03.09.13 07:41:04 >> [HookCon_Service] : Game#1032001 Start
+03.09.13 07:41:39 >> [HookCon_Service] : Game#1032001 Win Number: [1]
+03.09.13 07:41:39 >> [HookCon_Service] : Game#1032001 End
+03.09.13 07:42:07 >> [HookCon_Service] : Game#1032002 Start
+03.09.13 07:42:40 >> [HookCon_Service] : Game#1032002 Win Number: [11]
+03.09.13 07:42:40 >> [HookCon_Service] : Game#1032002 End
+03.09.13 07:43:09 >> [HookCon_Service] : Game#1032003 Start
+03.09.13 07:43:41 >> [HookCon_Service] : Game#1032003 Win Number: [24]
+03.09.13 07:43:42 >> [HookCon_Service] : Game#1032003 End
+03.09.13 07:44:09 >> [HookCon_Service] : Game#1032004 Start
+03.09.13 07:44:46 >> [HookCon_Service] : Game#1032004 Win Number: [2]
+03.09.13 07:44:47 >> [HookCon_Service] : Game#1032004 End
+03.09.13 07:45:15 >> [HookCon_Service] : Game#1032005 Start
+03.09.13 07:45:44 >> [HookCon_Service] : Game#1032005 Win Number: [21]
+03.09.13 07:45:45 >> [HookCon_Service] : Game#1032005 End
+03.09.13 07:46:12 >> [HookCon_Service] : Game#1032006 Start
+03.09.13 07:46:50 >> [HookCon_Service] : Game#1032006 Win Number: [16]
+03.09.13 07:46:50 >> [HookCon_Service] : Game#1032006 End
+03.09.13 07:47:17 >> [HookCon_Service] : Game#1032007 Start
+03.09.13 07:47:55 >> [HookCon_Service] : Game#1032007 Win Number: [22]
+03.09.13 07:47:55 >> [HookCon_Service] : Game#1032007 End
+03.09.13 07:48:24 >> [HookCon_Service] : Game#1032008 Start
+03.09.13 07:48:55 >> [HookCon_Service] : Game#1032008 Win Number: [2]
+03.09.13 07:48:56 >> [HookCon_Service] : Game#1032008 End
+03.09.13 07:49:26 >> [HookCon_Service] : Game#1032009 Start
+03.09.13 07:49:58 >> [HookCon_Service] : Game#1032009 Win Number: [28]
+03.09.13 07:50:00 >> [HookCon_Service] : Game#1032009 End
+03.09.13 07:50:28 >> [HookCon_Service] : Game#1032010 Start
+03.09.13 07:51:03 >> [HookCon_Service] : Game#1032010 Win Number: [2]
+03.09.13 07:51:04 >> [HookCon_Service] : Game#1032010 End
+03.09.13 07:51:32 >> [HookCon_Service] : Game#1032011 Start
+03.09.13 07:52:06 >> [HookCon_Service] : Game#1032011 Win Number: [17]
+03.09.13 07:52:06 >> [HookCon_Service] : Game#1032011 End
+03.09.13 07:52:35 >> [HookCon_Service] : Game#1032012 Start
+03.09.13 07:53:08 >> [HookCon_Service] : Game#1032012 Win Number: [6]
+03.09.13 07:53:08 >> [HookCon_Service] : Game#1032012 End
+03.09.13 07:53:35 >> [HookCon_Service] : Game#1032013 Start
+03.09.13 07:54:14 >> [HookCon_Service] : Game#1032013 Win Number: [34]
+03.09.13 07:54:14 >> [HookCon_Service] : Game#1032013 End
+03.09.13 07:54:43 >> [HookCon_Service] : Game#1032014 Start
+03.09.13 07:55:18 >> [HookCon_Service] : Game#1032014 Win Number: [16]
+03.09.13 07:55:19 >> [HookCon_Service] : Game#1032014 End
+03.09.13 07:55:47 >> [HookCon_Service] : Game#1032015 Start
+03.09.13 07:56:22 >> [HookCon_Service] : Game#1032015 Win Number: [4]
+03.09.13 07:56:22 >> [HookCon_Service] : Game#1032015 End
+03.09.13 07:56:51 >> [HookCon_Service] : Game#1032016 Start
+03.09.13 07:57:27 >> [HookCon_Service] : Game#1032016 Win Number: [11]
+03.09.13 07:57:27 >> [HookCon_Service] : Game#1032016 End
+03.09.13 07:57:56 >> [HookCon_Service] : Game#1032017 Start
+03.09.13 07:58:32 >> [HookCon_Service] : Game#1032017 Win Number: [22]
+03.09.13 07:58:32 >> [HookCon_Service] : Game#1032017 End
+03.09.13 07:59:00 >> [HookCon_Service] : Game#1032018 Start
+03.09.13 07:59:36 >> [HookCon_Service] : Game#1032018 Win Number: [17]
+03.09.13 07:59:37 >> [HookCon_Service] : Game#1032018 End
+03.09.13 08:00:06 >> [HookCon_Service] : Game#1032019 Start
+03.09.13 08:00:40 >> [HookCon_Service] : Game#1032019 Win Number: [36]
+03.09.13 08:00:41 >> [HookCon_Service] : Game#1032019 End
+03.09.13 08:01:11 >> [HookCon_Service] : Game#1032020 Start
+03.09.13 08:01:45 >> [HookCon_Service] : Game#1032020 Win Number: [33]
+03.09.13 08:01:45 >> [HookCon_Service] : Game#1032020 End
+03.09.13 08:02:14 >> [HookCon_Service] : Game#1032021 Start
+03.09.13 08:02:48 >> [HookCon_Service] : Game#1032021 Win Number: [10]
+03.09.13 08:02:49 >> [HookCon_Service] : Game#1032021 End
+03.09.13 08:03:16 >> [HookCon_Service] : Game#1032022 Start
+03.09.13 08:03:51 >> [HookCon_Service] : Game#1032022 Win Number: [0]
+03.09.13 08:03:52 >> [HookCon_Service] : Game#1032022 End
+03.09.13 08:04:21 >> [HookCon_Service] : Game#1032023 Start
+03.09.13 08:04:56 >> [HookCon_Service] : Game#1032023 Win Number: [0]
+03.09.13 08:04:57 >> [HookCon_Service] : Game#1032023 End
+03.09.13 08:05:26 >> [HookCon_Service] : Game#1032024 Start
+03.09.13 08:06:03 >> [HookCon_Service] : Game#1032024 Win Number: [9]
+03.09.13 08:06:03 >> [HookCon_Service] : Game#1032024 End
+03.09.13 08:06:32 >> [HookCon_Service] : Game#1032025 Start
+03.09.13 08:07:04 >> [HookCon_Service] : Game#1032025 Win Number: [17]
+03.09.13 08:07:04 >> [HookCon_Service] : Game#1032025 End
+03.09.13 08:07:33 >> [HookCon_Service] : Game#1032026 Start
+03.09.13 08:08:06 >> [HookCon_Service] : Game#1032026 Win Number: [26]
+03.09.13 08:08:06 >> [HookCon_Service] : Game#1032026 End
+03.09.13 08:08:35 >> [HookCon_Service] : Game#1032027 Start
+03.09.13 08:09:06 >> [HookCon_Service] : Game#1032027 Win Number: [5]
+03.09.13 08:09:08 >> [HookCon_Service] : Game#1032027 End
+03.09.13 08:09:36 >> [HookCon_Service] : Game#1032028 Start
+03.09.13 08:10:14 >> [HookCon_Service] : Game#1032028 Win Number: [9]
+03.09.13 08:10:14 >> [HookCon_Service] : Game#1032028 End
+03.09.13 08:10:44 >> [HookCon_Service] : Game#1032029 Start
+03.09.13 08:11:17 >> [HookCon_Service] : Game#1032029 Win Number: [15]
+03.09.13 08:11:18 >> [HookCon_Service] : Game#1032029 End
+03.09.13 08:11:48 >> [HookCon_Service] : Game#1032030 Start
+03.09.13 08:12:21 >> [HookCon_Service] : Game#1032030 Win Number: [14]
+03.09.13 08:12:22 >> [HookCon_Service] : Game#1032030 End
+03.09.13 08:12:51 >> [HookCon_Service] : Game#1032031 Start
+03.09.13 08:13:23 >> [HookCon_Service] : Game#1032031 Win Number: [23]
+03.09.13 08:13:23 >> [HookCon_Service] : Game#1032031 End
+03.09.13 08:13:52 >> [HookCon_Service] : Game#1032032 Start
+03.09.13 08:14:26 >> [HookCon_Service] : Game#1032032 Win Number: [0]
+03.09.13 08:14:26 >> [HookCon_Service] : Game#1032032 End
+03.09.13 08:14:53 >> [HookCon_Service] : Game#1032033 Start
+03.09.13 08:15:30 >> [HookCon_Service] : Game#1032033 Win Number: [15]
+03.09.13 08:15:30 >> [HookCon_Service] : Game#1032033 End
+03.09.13 08:15:59 >> [HookCon_Service] : Game#1032034 Start
+03.09.13 08:16:35 >> [HookCon_Service] : Game#1032034 Win Number: [35]
+03.09.13 08:16:35 >> [HookCon_Service] : Game#1032034 End
+03.09.13 08:17:04 >> [HookCon_Service] : Game#1032035 Start
+03.09.13 08:17:42 >> [HookCon_Service] : Game#1032035 Win Number: [35]
+03.09.13 08:17:42 >> [HookCon_Service] : Game#1032035 End
+03.09.13 08:18:09 >> [HookCon_Service] : Game#1032036 Start
+03.09.13 08:18:44 >> [HookCon_Service] : Game#1032036 Win Number: [20]
+03.09.13 08:18:44 >> [HookCon_Service] : Game#1032036 End
+03.09.13 08:19:15 >> [HookCon_Service] : Game#1032037 Start
+03.09.13 08:19:48 >> [HookCon_Service] : Game#1032037 Win Number: [17]
+03.09.13 08:19:49 >> [HookCon_Service] : Game#1032037 End
+03.09.13 08:20:18 >> [HookCon_Service] : Game#1032038 Start
+03.09.13 08:20:52 >> [HookCon_Service] : Game#1032038 Win Number: [10]
+03.09.13 08:20:52 >> [HookCon_Service] : Game#1032038 End
+03.09.13 08:21:19 >> [HookCon_Service] : Game#1032039 Start
+03.09.13 08:21:53 >> [HookCon_Service] : Game#1032039 Win Number: [32]
+03.09.13 08:21:54 >> [HookCon_Service] : Game#1032039 End
+03.09.13 08:22:23 >> [HookCon_Service] : Game#1032040 Start
+03.09.13 08:22:59 >> [HookCon_Service] : Game#1032040 Win Number: [28]
+03.09.13 08:22:59 >> [HookCon_Service] : Game#1032040 End
+03.09.13 08:23:28 >> [HookCon_Service] : Game#1032041 Start
+03.09.13 08:23:58 >> [HookCon_Service] : Game#1032041 Win Number: [15]
+03.09.13 08:23:59 >> [HookCon_Service] : Game#1032041 End
+03.09.13 08:24:30 >> [HookCon_Service] : Game#1032042 Start
+03.09.13 08:25:05 >> [HookCon_Service] : Game#1032042 Win Number: [32]
+03.09.13 08:25:05 >> [HookCon_Service] : Game#1032042 End
+03.09.13 08:25:33 >> [HookCon_Service] : Game#1032043 Start
+03.09.13 08:26:08 >> [HookCon_Service] : Game#1032043 Win Number: [14]
+03.09.13 08:26:08 >> [HookCon_Service] : Game#1032043 End
+03.09.13 08:26:36 >> [HookCon_Service] : Game#1032044 Start
+03.09.13 08:27:10 >> [HookCon_Service] : Game#1032044 Win Number: [13]
+03.09.13 08:27:40 >> [HookCon_Service] : Game#1032045 Start
+03.09.13 08:28:11 >> [HookCon_Service] : Game#1032045 Win Number: [31]
+03.09.13 08:28:12 >> [HookCon_Service] : Game#1032045 End
+03.09.13 08:28:41 >> [HookCon_Service] : Game#1032046 Start
+03.09.13 08:29:15 >> [HookCon_Service] : Game#1032046 Win Number: [22]
+03.09.13 08:29:15 >> [HookCon_Service] : Game#1032046 End
+03.09.13 08:29:44 >> [HookCon_Service] : Game#1032047 Start
+03.09.13 08:30:15 >> [HookCon_Service] : Game#1032047 Win Number: [20]
+03.09.13 08:30:16 >> [HookCon_Service] : Game#1032047 End
+03.09.13 08:30:45 >> [HookCon_Service] : Game#1032048 Start
+03.09.13 08:31:21 >> [HookCon_Service] : Game#1032048 Win Number: [14]
+03.09.13 08:31:21 >> [HookCon_Service] : Game#1032048 End
+03.09.13 08:31:50 >> [HookCon_Service] : Game#1032049 Start
+03.09.13 08:32:27 >> [HookCon_Service] : Game#1032049 Win Number: [8]
+03.09.13 08:32:28 >> [HookCon_Service] : Game#1032049 End
+03.09.13 08:32:58 >> [HookCon_Service] : Game#1032050 Start
+03.09.13 08:33:32 >> [HookCon_Service] : Game#1032050 Win Number: [7]
+03.09.13 08:33:32 >> [HookCon_Service] : Game#1032050 End
+03.09.13 08:34:00 >> [HookCon_Service] : Game#1032051 Start
+03.09.13 08:34:34 >> [HookCon_Service] : Game#1032051 Win Number: [35]
+03.09.13 08:34:34 >> [HookCon_Service] : Game#1032051 End
+03.09.13 08:35:03 >> [HookCon_Service] : Game#1032052 Start
+03.09.13 08:35:36 >> [HookCon_Service] : Game#1032052 Win Number: [7]
+03.09.13 08:35:37 >> [HookCon_Service] : Game#1032052 End
+03.09.13 08:36:04 >> [HookCon_Service] : Game#1032053 Start
+03.09.13 08:36:38 >> [HookCon_Service] : Game#1032053 Win Number: [21]
+03.09.13 08:36:39 >> [HookCon_Service] : Game#1032053 End
+03.09.13 08:37:07 >> [HookCon_Service] : Game#1032054 Start
+03.09.13 08:37:43 >> [HookCon_Service] : Game#1032054 Win Number: [3]
+03.09.13 08:37:44 >> [HookCon_Service] : Game#1032054 End
+03.09.13 08:38:11 >> [HookCon_Service] : Game#1032055 Start
+03.09.13 08:38:46 >> [HookCon_Service] : Game#1032055 Win Number: [13]
+03.09.13 08:38:47 >> [HookCon_Service] : Game#1032055 End
+03.09.13 08:39:15 >> [HookCon_Service] : Game#1032056 Start
+03.09.13 08:39:49 >> [HookCon_Service] : Game#1032056 Win Number: [0]
+03.09.13 08:39:49 >> [HookCon_Service] : Game#1032056 End
+03.09.13 08:40:17 >> [HookCon_Service] : Game#1032057 Start
+03.09.13 08:40:51 >> [HookCon_Service] : Game#1032057 Win Number: [27]
+03.09.13 08:40:51 >> [HookCon_Service] : Game#1032057 End
+03.09.13 08:41:20 >> [HookCon_Service] : Game#1032058 Start
+03.09.13 08:41:53 >> [HookCon_Service] : Game#1032058 Win Number: [16]
+03.09.13 08:41:54 >> [HookCon_Service] : Game#1032058 End
+03.09.13 08:42:22 >> [HookCon_Service] : Game#1032059 Start
+03.09.13 08:42:56 >> [HookCon_Service] : Game#1032059 Win Number: [7]
+03.09.13 08:42:57 >> [HookCon_Service] : Game#1032059 End
+03.09.13 08:43:25 >> [HookCon_Service] : Game#1032060 Start
+03.09.13 08:43:59 >> [HookCon_Service] : Game#1032060 Win Number: [5]
+03.09.13 08:44:00 >> [HookCon_Service] : Game#1032060 End
+03.09.13 08:44:28 >> [HookCon_Service] : Game#1032061 Start
+03.09.13 08:45:03 >> [HookCon_Service] : Game#1032061 Win Number: [18]
+03.09.13 08:45:04 >> [HookCon_Service] : Game#1032061 End
+03.09.13 08:45:31 >> [HookCon_Service] : Game#1032062 Start
+03.09.13 08:46:07 >> [HookCon_Service] : Game#1032062 Win Number: [33]
+03.09.13 08:46:07 >> [HookCon_Service] : Game#1032062 End
+03.09.13 08:46:36 >> [HookCon_Service] : Game#1032063 Start
+03.09.13 08:47:12 >> [HookCon_Service] : Game#1032063 Win Number: [3]
+03.09.13 08:47:12 >> [HookCon_Service] : Game#1032063 End
+03.09.13 08:47:39 >> [HookCon_Service] : Game#1032064 Start
+03.09.13 08:48:14 >> [HookCon_Service] : Game#1032064 Win Number: [26]
+03.09.13 08:48:15 >> [HookCon_Service] : Game#1032064 End
+03.09.13 08:48:44 >> [HookCon_Service] : Game#1032065 Start
+03.09.13 08:49:18 >> [HookCon_Service] : Game#1032065 Win Number: [4]
+03.09.13 08:49:19 >> [HookCon_Service] : Game#1032065 End
+03.09.13 08:49:48 >> [HookCon_Service] : Game#1032066 Start
+03.09.13 08:50:21 >> [HookCon_Service] : Game#1032066 Win Number: [9]
+03.09.13 08:50:22 >> [HookCon_Service] : Game#1032066 End
+03.09.13 08:50:52 >> [HookCon_Service] : Game#1032067 Start
+03.09.13 08:51:25 >> [HookCon_Service] : Game#1032067 Win Number: [13]
+03.09.13 08:51:25 >> [HookCon_Service] : Game#1032067 End
+03.09.13 08:51:53 >> [HookCon_Service] : Game#1032068 Start
+03.09.13 08:52:29 >> [HookCon_Service] : Game#1032068 Win Number: [9]
+03.09.13 08:52:29 >> [HookCon_Service] : Game#1032068 End
+03.09.13 08:52:57 >> [HookCon_Service] : Game#1032069 Start
+03.09.13 08:53:33 >> [HookCon_Service] : Game#1032069 Win Number: [22]
+03.09.13 08:53:34 >> [HookCon_Service] : Game#1032069 End
+03.09.13 08:54:03 >> [HookCon_Service] : Game#1032070 Start
+03.09.13 08:54:38 >> [HookCon_Service] : Game#1032070 Win Number: [21]
+03.09.13 08:54:38 >> [HookCon_Service] : Game#1032070 End
+03.09.13 08:55:06 >> [HookCon_Service] : Game#1032071 Start
+03.09.13 08:55:41 >> [HookCon_Service] : Game#1032071 Win Number: [32]
+03.09.13 08:55:41 >> [HookCon_Service] : Game#1032071 End
+03.09.13 08:56:10 >> [HookCon_Service] : Game#1032072 Start
+03.09.13 08:56:42 >> [HookCon_Service] : Game#1032072 Win Number: [8]
+03.09.13 08:56:43 >> [HookCon_Service] : Game#1032072 End
+03.09.13 08:57:11 >> [HookCon_Service] : Game#1032073 Start
+03.09.13 08:57:45 >> [HookCon_Service] : Game#1032073 Win Number: [31]
+03.09.13 08:57:45 >> [HookCon_Service] : Game#1032073 End
+03.09.13 08:58:15 >> [HookCon_Service] : Game#1032074 Start
+03.09.13 08:58:45 >> [HookCon_Service] : Game#1032074 Win Number: [36]
+03.09.13 08:58:45 >> [HookCon_Service] : Game#1032074 End
+03.09.13 08:59:13 >> [HookCon_Service] : Game#1032075 Start
+03.09.13 08:59:49 >> [HookCon_Service] : Game#1032075 Win Number: [23]
+03.09.13 08:59:50 >> [HookCon_Service] : Game#1032075 End
+03.09.13 09:00:19 >> [HookCon_Service] : Game#1032076 Start
+03.09.13 09:00:55 >> [HookCon_Service] : Game#1032076 Win Number: [19]
+03.09.13 09:00:55 >> [HookCon_Service] : Game#1032076 End
+03.09.13 09:01:23 >> [HookCon_Service] : Game#1032077 Start
+03.09.13 09:01:57 >> [HookCon_Service] : Game#1032077 Win Number: [17]
+03.09.13 09:01:58 >> [HookCon_Service] : Game#1032077 End
+03.09.13 09:02:26 >> [HookCon_Service] : Game#1032078 Start
+03.09.13 09:03:05 >> [HookCon_Service] : Game#1032078 Win Number: [21]
+03.09.13 09:03:05 >> [HookCon_Service] : Game#1032078 End
+03.09.13 09:03:35 >> [HookCon_Service] : Game#1032079 Start
+03.09.13 09:04:05 >> [HookCon_Service] : Game#1032079 Win Number: [1]
+03.09.13 09:04:06 >> [HookCon_Service] : Game#1032079 End
+03.09.13 09:04:36 >> [HookCon_Service] : Game#1032080 Start
+03.09.13 09:05:13 >> [HookCon_Service] : Game#1032080 Win Number: [2]
+03.09.13 09:05:13 >> [HookCon_Service] : Game#1032080 End
+03.09.13 09:05:43 >> [HookCon_Service] : Game#1032081 Start
+03.09.13 09:06:18 >> [HookCon_Service] : Game#1032081 Win Number: [12]
+03.09.13 09:06:18 >> [HookCon_Service] : Game#1032081 End
+03.09.13 09:06:46 >> [HookCon_Service] : Game#1032082 Start
+03.09.13 09:07:17 >> [HookCon_Service] : Game#1032082 Win Number: [13]
+03.09.13 09:07:17 >> [HookCon_Service] : Game#1032082 End
+03.09.13 09:07:46 >> [HookCon_Service] : Game#1032083 Start
+03.09.13 09:08:22 >> [HookCon_Service] : Game#1032083 Win Number: [11]
+03.09.13 09:08:22 >> [HookCon_Service] : Game#1032083 End
+03.09.13 09:08:50 >> [HookCon_Service] : Game#1032084 Start
+03.09.13 09:09:25 >> [HookCon_Service] : Game#1032084 Win Number: [25]
+03.09.13 09:09:26 >> [HookCon_Service] : Game#1032084 End
+03.09.13 09:09:55 >> [HookCon_Service] : Game#1032085 Start
+03.09.13 09:10:30 >> [HookCon_Service] : Game#1032085 Win Number: [35]
+03.09.13 09:10:31 >> [HookCon_Service] : Game#1032085 End
+03.09.13 09:10:59 >> [HookCon_Service] : Game#1032086 Start
+03.09.13 09:11:32 >> [HookCon_Service] : Game#1032086 Win Number: [21]
+03.09.13 09:11:33 >> [HookCon_Service] : Game#1032086 End
+03.09.13 09:12:00 >> [HookCon_Service] : Game#1032087 Start
+03.09.13 09:12:35 >> [HookCon_Service] : Game#1032087 Win Number: [22]
+03.09.13 09:12:36 >> [HookCon_Service] : Game#1032087 End
+03.09.13 09:13:03 >> [HookCon_Service] : Game#1032088 Start
+03.09.13 09:13:37 >> [HookCon_Service] : Game#1032088 Win Number: [11]
+03.09.13 09:13:38 >> [HookCon_Service] : Game#1032088 End
+03.09.13 09:14:08 >> [HookCon_Service] : Game#1032089 Start
+03.09.13 09:14:39 >> [HookCon_Service] : Game#1032089 Win Number: [30]
+03.09.13 09:14:40 >> [HookCon_Service] : Game#1032089 End
+03.09.13 09:15:07 >> [HookCon_Service] : Game#1032090 Start
+03.09.13 09:15:44 >> [HookCon_Service] : Game#1032090 Win Number: [22]
+03.09.13 09:15:44 >> [HookCon_Service] : Game#1032090 End
+03.09.13 09:16:12 >> [HookCon_Service] : Game#1032091 Start
+03.09.13 09:16:46 >> [HookCon_Service] : Game#1032091 Win Number: [17]
+03.09.13 09:16:47 >> [HookCon_Service] : Game#1032091 End
+03.09.13 09:17:15 >> [HookCon_Service] : Game#1032092 Start
+03.09.13 09:17:52 >> [HookCon_Service] : Game#1032092 Win Number: [16]
+03.09.13 09:17:52 >> [HookCon_Service] : Game#1032092 End
+03.09.13 09:18:19 >> [HookCon_Service] : Game#1032093 Start
+03.09.13 09:18:53 >> [HookCon_Service] : Game#1032093 Win Number: [32]
+03.09.13 09:18:54 >> [HookCon_Service] : Game#1032093 End
+03.09.13 09:19:23 >> [HookCon_Service] : Game#1032094 Start
+03.09.13 09:19:57 >> [HookCon_Service] : Game#1032094 Win Number: [32]
+03.09.13 09:19:57 >> [HookCon_Service] : Game#1032094 End
+03.09.13 09:20:25 >> [HookCon_Service] : Game#1032095 Start
+03.09.13 09:21:00 >> [HookCon_Service] : Game#1032095 Win Number: [27]
+03.09.13 09:21:00 >> [HookCon_Service] : Game#1032095 End
+03.09.13 09:21:29 >> [HookCon_Service] : Game#1032096 Start
+03.09.13 09:22:03 >> [HookCon_Service] : Game#1032096 Win Number: [3]
+03.09.13 09:22:03 >> [HookCon_Service] : Game#1032096 End
+03.09.13 09:22:31 >> [HookCon_Service] : Game#1032097 Start
+03.09.13 09:23:02 >> [HookCon_Service] : Game#1032097 Win Number: [30]
+03.09.13 09:23:03 >> [HookCon_Service] : Game#1032097 End
+03.09.13 09:23:30 >> [HookCon_Service] : Game#1032098 Start
+03.09.13 09:24:04 >> [HookCon_Service] : Game#1032098 Win Number: [31]
+03.09.13 09:24:04 >> [HookCon_Service] : Game#1032098 End
+03.09.13 09:24:33 >> [HookCon_Service] : Game#1032099 Start
+03.09.13 09:25:07 >> [HookCon_Service] : Game#1032099 Win Number: [15]
+03.09.13 09:25:08 >> [HookCon_Service] : Game#1032099 End
+03.09.13 09:25:38 >> [HookCon_Service] : Game#1032100 Start
+03.09.13 09:26:11 >> [HookCon_Service] : Game#1032100 Win Number: [24]
+03.09.13 09:26:11 >> [HookCon_Service] : Game#1032100 End
+03.09.13 09:26:41 >> [HookCon_Service] : Game#1032101 Start
+03.09.13 09:27:11 >> [HookCon_Service] : Game#1032101 Win Number: [6]
+03.09.13 09:27:11 >> [HookCon_Service] : Game#1032101 End
+03.09.13 09:27:39 >> [HookCon_Service] : Game#1032102 Start
+03.09.13 09:28:15 >> [HookCon_Service] : Game#1032102 Win Number: [2]
+03.09.13 09:28:15 >> [HookCon_Service] : Game#1032102 End
+03.09.13 09:28:46 >> [HookCon_Service] : Game#1032103 Start
+03.09.13 09:29:21 >> [HookCon_Service] : Game#1032103 Win Number: [33]
+03.09.13 09:29:22 >> [HookCon_Service] : Game#1032103 End
+03.09.13 09:29:51 >> [HookCon_Service] : Game#1032104 Start
+03.09.13 09:30:27 >> [HookCon_Service] : Game#1032104 Win Number: [6]
+03.09.13 09:30:28 >> [HookCon_Service] : Game#1032104 End
+03.09.13 09:30:58 >> [HookCon_Service] : Game#1032105 Start
+03.09.13 09:31:29 >> [HookCon_Service] : Game#1032105 Win Number: [1]
+03.09.13 09:31:30 >> [HookCon_Service] : Game#1032105 End
+03.09.13 09:31:59 >> [HookCon_Service] : Game#1032106 Start
+03.09.13 09:32:33 >> [HookCon_Service] : Game#1032106 Win Number: [33]
+03.09.13 09:32:34 >> [HookCon_Service] : Game#1032106 End
+03.09.13 09:33:01 >> [HookCon_Service] : Game#1032107 Start
+03.09.13 09:33:40 >> [HookCon_Service] : Game#1032107 Win Number: [8]
+03.09.13 09:33:40 >> [HookCon_Service] : Game#1032107 End
+03.09.13 09:34:06 >> [HookCon_Service] : Game#1032108 Start
+03.09.13 09:34:42 >> [HookCon_Service] : Game#1032108 Win Number: [15]
+03.09.13 09:34:43 >> [HookCon_Service] : Game#1032108 End
+03.09.13 09:35:10 >> [HookCon_Service] : Game#1032109 Start
+03.09.13 09:35:44 >> [HookCon_Service] : Game#1032109 Win Number: [30]
+03.09.13 09:35:45 >> [HookCon_Service] : Game#1032109 End
+03.09.13 09:36:14 >> [HookCon_Service] : Game#1032110 Start
+03.09.13 09:36:49 >> [HookCon_Service] : Game#1032110 Win Number: [0]
+03.09.13 09:36:49 >> [HookCon_Service] : Game#1032110 End
+03.09.13 09:37:18 >> [HookCon_Service] : Game#1032111 Start
+03.09.13 09:37:51 >> [HookCon_Service] : Game#1032111 Win Number: [12]
+03.09.13 09:37:52 >> [HookCon_Service] : Game#1032111 End
+03.09.13 09:38:22 >> [HookCon_Service] : Game#1032112 Start
+03.09.13 09:39:00 >> [HookCon_Service] : Game#1032112 Win Number: [22]
+03.09.13 09:39:01 >> [HookCon_Service] : Game#1032112 End
+03.09.13 09:39:32 >> [HookCon_Service] : Game#1032113 Start
+03.09.13 09:40:06 >> [HookCon_Service] : Game#1032113 Win Number: [16]
+03.09.13 09:40:07 >> [HookCon_Service] : Game#1032113 End
+03.09.13 09:40:36 >> [HookCon_Service] : Game#1032114 Start
+03.09.13 09:41:08 >> [HookCon_Service] : Game#1032114 Win Number: [30]
+03.09.13 09:41:09 >> [HookCon_Service] : Game#1032114 End
+03.09.13 09:41:40 >> [HookCon_Service] : Game#1032115 Start
+03.09.13 09:42:12 >> [HookCon_Service] : Game#1032115 Win Number: [36]
+03.09.13 09:42:12 >> [HookCon_Service] : Game#1032115 End
+03.09.13 09:42:41 >> [HookCon_Service] : Game#1032116 Start
+03.09.13 09:43:18 >> [HookCon_Service] : Game#1032116 Win Number: [10]
+03.09.13 09:43:18 >> [HookCon_Service] : Game#1032116 End
+03.09.13 09:43:47 >> [HookCon_Service] : Game#1032117 Start
+03.09.13 09:44:21 >> [HookCon_Service] : Game#1032117 Win Number: [23]
+03.09.13 09:44:22 >> [HookCon_Service] : Game#1032117 End
+03.09.13 09:44:50 >> [HookCon_Service] : Game#1032118 Start
+03.09.13 09:45:22 >> [HookCon_Service] : Game#1032118 Win Number: [10]
+03.09.13 09:45:23 >> [HookCon_Service] : Game#1032118 End
+03.09.13 09:45:52 >> [HookCon_Service] : Game#1032119 Start
+03.09.13 09:46:26 >> [HookCon_Service] : Game#1032119 Win Number: [4]
+03.09.13 09:46:27 >> [HookCon_Service] : Game#1032119 End
+03.09.13 09:46:55 >> [HookCon_Service] : Game#1032120 Start
+03.09.13 09:47:30 >> [HookCon_Service] : Game#1032120 Win Number: [25]
+03.09.13 09:47:30 >> [HookCon_Service] : Game#1032120 End
+03.09.13 09:47:58 >> [HookCon_Service] : Game#1032121 Start
+03.09.13 09:48:32 >> [HookCon_Service] : Game#1032121 Win Number: [34]
+03.09.13 09:48:33 >> [HookCon_Service] : Game#1032121 End
+03.09.13 09:49:02 >> [HookCon_Service] : Game#1032122 Start
+03.09.13 09:49:35 >> [HookCon_Service] : Game#1032122 Win Number: [1]
+03.09.13 09:49:35 >> [HookCon_Service] : Game#1032122 End
+03.09.13 09:50:03 >> [HookCon_Service] : Game#1032123 Start
+03.09.13 09:50:38 >> [HookCon_Service] : Game#1032123 Win Number: [0]
+03.09.13 09:50:38 >> [HookCon_Service] : Game#1032123 End
+03.09.13 09:51:06 >> [HookCon_Service] : Game#1032124 Start
+03.09.13 09:51:41 >> [HookCon_Service] : Game#1032124 Win Number: [4]
+03.09.13 09:51:41 >> [HookCon_Service] : Game#1032124 End
+03.09.13 09:52:09 >> [HookCon_Service] : Game#1032125 Start
+03.09.13 09:52:43 >> [HookCon_Service] : Game#1032125 Win Number: [36]
+03.09.13 09:52:43 >> [HookCon_Service] : Game#1032125 End
+03.09.13 09:53:12 >> [HookCon_Service] : Game#1032126 Start
+03.09.13 09:53:46 >> [HookCon_Service] : Game#1032126 Win Number: [25]
+03.09.13 09:53:46 >> [HookCon_Service] : Game#1032126 End
+03.09.13 09:54:15 >> [HookCon_Service] : Game#1032127 Start
+03.09.13 09:54:50 >> [HookCon_Service] : Game#1032127 Win Number: [2]
+03.09.13 09:54:51 >> [HookCon_Service] : Game#1032127 End
+03.09.13 09:55:20 >> [HookCon_Service] : Game#1032128 Start
+03.09.13 09:55:54 >> [HookCon_Service] : Game#1032128 Win Number: [9]
+03.09.13 09:55:55 >> [HookCon_Service] : Game#1032128 End
+03.09.13 09:56:24 >> [HookCon_Service] : Game#1032129 Start
+03.09.13 09:56:59 >> [HookCon_Service] : Game#1032129 Win Number: [33]
+03.09.13 09:57:01 >> [HookCon_Service] : Game#1032129 End
+03.09.13 09:57:29 >> [HookCon_Service] : Game#1032130 Start
+03.09.13 09:58:04 >> [HookCon_Service] : Game#1032130 Win Number: [6]
+03.09.13 09:58:04 >> [HookCon_Service] : Game#1032130 End
+03.09.13 09:58:32 >> [HookCon_Service] : Game#1032131 Start
+03.09.13 09:59:06 >> [HookCon_Service] : Game#1032131 Win Number: [22]
+03.09.13 09:59:06 >> [HookCon_Service] : Game#1032131 End
+03.09.13 09:59:34 >> [HookCon_Service] : Game#1032132 Start
+03.09.13 10:00:08 >> [HookCon_Service] : Game#1032132 Win Number: [12]
+03.09.13 10:00:08 >> [HookCon_Service] : Game#1032132 End
+03.09.13 10:00:37 >> [HookCon_Service] : Game#1032133 Start
+03.09.13 10:01:07 >> [HookCon_Service] : Game#1032133 Win Number: [30]
+03.09.13 10:01:07 >> [HookCon_Service] : Game#1032133 End
+03.09.13 10:01:37 >> [HookCon_Service] : Game#1032134 Start
+03.09.13 10:02:10 >> [HookCon_Service] : Game#1032134 Win Number: [7]
+03.09.13 10:02:11 >> [HookCon_Service] : Game#1032134 End
+03.09.13 10:02:39 >> [HookCon_Service] : Game#1032135 Start
+03.09.13 10:03:10 >> [HookCon_Service] : Game#1032135 Win Number: [11]
+03.09.13 10:03:10 >> [HookCon_Service] : Game#1032135 End
+03.09.13 10:03:39 >> [HookCon_Service] : Game#1032136 Start
+03.09.13 10:04:14 >> [HookCon_Service] : Game#1032136 Win Number: [7]
+03.09.13 10:04:14 >> [HookCon_Service] : Game#1032136 End
+03.09.13 10:04:44 >> [HookCon_Service] : Game#1032137 Start
+03.09.13 10:05:16 >> [HookCon_Service] : Game#1032137 Win Number: [7]
+03.09.13 10:05:16 >> [HookCon_Service] : Game#1032137 End
+03.09.13 10:05:46 >> [HookCon_Service] : Game#1032138 Start
+03.09.13 10:06:20 >> [HookCon_Service] : Game#1032138 Win Number: [24]
+03.09.13 10:06:20 >> [HookCon_Service] : Game#1032138 End
+03.09.13 10:06:49 >> [HookCon_Service] : Game#1032139 Start
+03.09.13 10:07:23 >> [HookCon_Service] : Game#1032139 Win Number: [30]
+03.09.13 10:07:24 >> [HookCon_Service] : Game#1032139 End
+03.09.13 10:07:54 >> [HookCon_Service] : Game#1032140 Start
+03.09.13 10:08:23 >> [HookCon_Service] : Game#1032140 Win Number: [31]
+03.09.13 10:08:23 >> [HookCon_Service] : Game#1032140 End
+03.09.13 10:08:52 >> [HookCon_Service] : Game#1032141 Start
+03.09.13 10:09:27 >> [HookCon_Service] : Game#1032141 Win Number: [34]
+03.09.13 10:09:28 >> [HookCon_Service] : Game#1032141 End
+03.09.13 10:09:58 >> [HookCon_Service] : Game#1032142 Start
+03.09.13 10:10:27 >> [HookCon_Service] : Game#1032142 Win Number: [24]
+03.09.13 10:10:28 >> [HookCon_Service] : Game#1032142 End
+03.09.13 10:10:55 >> [HookCon_Service] : Game#1032143 Start
+03.09.13 10:11:30 >> [HookCon_Service] : Game#1032143 Win Number: [4]
+03.09.13 10:11:30 >> [HookCon_Service] : Game#1032143 End
+03.09.13 10:11:57 >> [HookCon_Service] : Game#1032144 Start
+03.09.13 10:12:30 >> [HookCon_Service] : Game#1032144 Win Number: [25]
+03.09.13 10:13:00 >> [HookCon_Service] : Game#1032145 Start
+03.09.13 10:13:31 >> [HookCon_Service] : Game#1032145 Win Number: [17]
+03.09.13 10:13:31 >> [HookCon_Service] : Game#1032145 End
+03.09.13 10:13:59 >> [HookCon_Service] : Game#1032146 Start
+03.09.13 10:14:33 >> [HookCon_Service] : Game#1032146 Win Number: [0]
+03.09.13 10:14:34 >> [HookCon_Service] : Game#1032146 End
+03.09.13 10:15:01 >> [HookCon_Service] : Game#1032147 Start
+03.09.13 10:15:36 >> [HookCon_Service] : Game#1032147 Win Number: [20]
+03.09.13 10:15:37 >> [HookCon_Service] : Game#1032147 End
+03.09.13 10:16:05 >> [HookCon_Service] : Game#1032148 Start
+03.09.13 10:16:40 >> [HookCon_Service] : Game#1032148 Win Number: [31]
+03.09.13 10:16:41 >> [HookCon_Service] : Game#1032148 End
+03.09.13 10:17:09 >> [HookCon_Service] : Game#1032149 Start
+03.09.13 10:17:43 >> [HookCon_Service] : Game#1032149 Win Number: [1]
+03.09.13 10:17:44 >> [HookCon_Service] : Game#1032149 End
+03.09.13 10:18:13 >> [HookCon_Service] : Game#1032150 Start
+03.09.13 10:18:48 >> [HookCon_Service] : Game#1032150 Win Number: [28]
+03.09.13 10:18:49 >> [HookCon_Service] : Game#1032150 End
+03.09.13 10:19:19 >> [HookCon_Service] : Game#1032151 Start
+03.09.13 10:19:54 >> [HookCon_Service] : Game#1032151 Win Number: [15]
+03.09.13 10:19:54 >> [HookCon_Service] : Game#1032151 End
+03.09.13 10:20:22 >> [HookCon_Service] : Game#1032152 Start
+03.09.13 10:20:58 >> [HookCon_Service] : Game#1032152 Win Number: [14]
+03.09.13 10:20:58 >> [HookCon_Service] : Game#1032152 End
+03.09.13 10:21:26 >> [HookCon_Service] : Game#1032153 Start
+03.09.13 10:21:57 >> [HookCon_Service] : Game#1032153 Win Number: [31]
+03.09.13 10:21:58 >> [HookCon_Service] : Game#1032153 End
+03.09.13 10:22:26 >> [HookCon_Service] : Game#1032154 Start
+03.09.13 10:23:01 >> [HookCon_Service] : Game#1032154 Win Number: [26]
+03.09.13 10:23:02 >> [HookCon_Service] : Game#1032154 End
+03.09.13 10:23:32 >> [HookCon_Service] : Game#1032155 Start
+03.09.13 10:24:04 >> [HookCon_Service] : Game#1032155 Win Number: [19]
+03.09.13 10:24:04 >> [HookCon_Service] : Game#1032155 End
+03.09.13 10:24:32 >> [HookCon_Service] : Game#1032156 Start
+03.09.13 10:25:07 >> [HookCon_Service] : Game#1032156 Win Number: [31]
+03.09.13 10:25:07 >> [HookCon_Service] : Game#1032156 End
+03.09.13 10:25:37 >> [HookCon_Service] : Game#1032157 Start
+03.09.13 10:26:11 >> [HookCon_Service] : Game#1032157 Win Number: [5]
+03.09.13 10:26:11 >> [HookCon_Service] : Game#1032157 End
+03.09.13 10:26:40 >> [HookCon_Service] : Game#1032158 Start
+03.09.13 10:27:13 >> [HookCon_Service] : Game#1032158 Win Number: [8]
+03.09.13 10:27:14 >> [HookCon_Service] : Game#1032158 End
+03.09.13 10:27:42 >> [HookCon_Service] : Game#1032159 Start
+03.09.13 10:28:13 >> [HookCon_Service] : Game#1032159 Win Number: [4]
+03.09.13 10:28:15 >> [HookCon_Service] : Game#1032159 End
+03.09.13 10:28:44 >> [HookCon_Service] : Game#1032160 Start
+03.09.13 10:29:17 >> [HookCon_Service] : Game#1032160 Win Number: [34]
+03.09.13 10:29:17 >> [HookCon_Service] : Game#1032160 End
+03.09.13 10:29:46 >> [HookCon_Service] : Game#1032161 Start
+03.09.13 10:30:20 >> [HookCon_Service] : Game#1032161 Win Number: [21]
+03.09.13 10:30:21 >> [HookCon_Service] : Game#1032161 End
+03.09.13 10:30:51 >> [HookCon_Service] : Game#1032162 Start
+03.09.13 10:31:24 >> [HookCon_Service] : Game#1032162 Win Number: [25]
+03.09.13 10:31:25 >> [HookCon_Service] : Game#1032162 End
+03.09.13 10:31:54 >> [HookCon_Service] : Game#1032163 Start
+03.09.13 10:32:29 >> [HookCon_Service] : Game#1032163 Win Number: [14]
+03.09.13 10:32:29 >> [HookCon_Service] : Game#1032163 End
+03.09.13 10:32:58 >> [HookCon_Service] : Game#1032164 Start
+03.09.13 10:33:33 >> [HookCon_Service] : Game#1032164 Win Number: [27]
+03.09.13 10:33:33 >> [HookCon_Service] : Game#1032164 End
+03.09.13 10:34:03 >> [HookCon_Service] : Game#1032165 Start
+03.09.13 10:34:36 >> [HookCon_Service] : Game#1032165 Win Number: [27]
+03.09.13 10:34:37 >> [HookCon_Service] : Game#1032165 End
+03.09.13 10:35:06 >> [HookCon_Service] : Game#1032166 Start
+03.09.13 10:35:40 >> [HookCon_Service] : Game#1032166 Win Number: [6]
+03.09.13 10:35:41 >> [HookCon_Service] : Game#1032166 End
+03.09.13 10:36:10 >> [HookCon_Service] : Game#1032167 Start
+03.09.13 10:36:43 >> [HookCon_Service] : Game#1032167 Win Number: [6]
+03.09.13 10:36:44 >> [HookCon_Service] : Game#1032167 End
+03.09.13 10:37:12 >> [HookCon_Service] : Game#1032168 Start
+03.09.13 10:37:46 >> [HookCon_Service] : Game#1032168 Win Number: [28]
+03.09.13 10:37:47 >> [HookCon_Service] : Game#1032168 End
+03.09.13 10:38:14 >> [HookCon_Service] : Game#1032169 Start
+03.09.13 10:38:49 >> [HookCon_Service] : Game#1032169 Win Number: [5]
+03.09.13 10:38:50 >> [HookCon_Service] : Game#1032169 End
+03.09.13 10:39:19 >> [HookCon_Service] : Game#1032170 Start
+03.09.13 10:39:55 >> [HookCon_Service] : Game#1032170 Win Number: [17]
+03.09.13 10:39:56 >> [HookCon_Service] : Game#1032170 End
+03.09.13 10:40:24 >> [HookCon_Service] : Game#1032171 Start
+03.09.13 10:41:01 >> [HookCon_Service] : Game#1032171 Win Number: [33]
+03.09.13 10:41:02 >> [HookCon_Service] : Game#1032171 End
+03.09.13 10:41:30 >> [HookCon_Service] : Game#1032172 Start
+03.09.13 10:42:04 >> [HookCon_Service] : Game#1032172 Win Number: [18]
+03.09.13 10:42:04 >> [HookCon_Service] : Game#1032172 End
+03.09.13 10:42:31 >> [HookCon_Service] : Game#1032173 Start
+03.09.13 10:43:07 >> [HookCon_Service] : Game#1032173 Win Number: [27]
+03.09.13 10:43:08 >> [HookCon_Service] : Game#1032173 End
+03.09.13 10:43:35 >> [HookCon_Service] : Game#1032174 Start
+03.09.13 10:44:09 >> [HookCon_Service] : Game#1032174 Win Number: [35]
+03.09.13 10:44:09 >> [HookCon_Service] : Game#1032174 End
+03.09.13 10:44:37 >> [HookCon_Service] : Game#1032175 Start
+03.09.13 10:45:09 >> [HookCon_Service] : Game#1032175 Win Number: [23]
+03.09.13 10:45:10 >> [HookCon_Service] : Game#1032175 End
+03.09.13 10:45:38 >> [HookCon_Service] : Game#1032176 Start
+03.09.13 10:46:11 >> [HookCon_Service] : Game#1032176 Win Number: [2]
+03.09.13 10:46:12 >> [HookCon_Service] : Game#1032176 End
+03.09.13 10:46:40 >> [HookCon_Service] : Game#1032177 Start
+03.09.13 10:47:15 >> [HookCon_Service] : Game#1032177 Win Number: [2]
+03.09.13 10:47:15 >> [HookCon_Service] : Game#1032177 End
+03.09.13 10:47:44 >> [HookCon_Service] : Game#1032178 Start
+03.09.13 10:48:19 >> [HookCon_Service] : Game#1032178 Win Number: [18]
+03.09.13 10:48:20 >> [HookCon_Service] : Game#1032178 End
+03.09.13 10:48:48 >> [HookCon_Service] : Game#1032179 Start
+03.09.13 10:49:24 >> [HookCon_Service] : Game#1032179 Win Number: [23]
+03.09.13 10:49:25 >> [HookCon_Service] : Game#1032179 End
+03.09.13 10:49:55 >> [HookCon_Service] : Game#1032180 Start
+03.09.13 10:50:29 >> [HookCon_Service] : Game#1032180 Win Number: [15]
+03.09.13 10:50:30 >> [HookCon_Service] : Game#1032180 End
+03.09.13 10:51:00 >> [HookCon_Service] : Game#1032181 Start
+03.09.13 10:51:35 >> [HookCon_Service] : Game#1032181 Win Number: [6]
+03.09.13 10:51:35 >> [HookCon_Service] : Game#1032181 End
+03.09.13 10:52:04 >> [HookCon_Service] : Game#1032182 Start
+03.09.13 10:52:40 >> [HookCon_Service] : Game#1032182 Win Number: [15]
+03.09.13 10:52:40 >> [HookCon_Service] : Game#1032182 End
+03.09.13 10:53:09 >> [HookCon_Service] : Game#1032183 Start
+03.09.13 10:53:42 >> [HookCon_Service] : Game#1032183 Win Number: [27]
+03.09.13 10:53:42 >> [HookCon_Service] : Game#1032183 End
+03.09.13 10:54:10 >> [HookCon_Service] : Game#1032184 Start
+03.09.13 10:54:43 >> [HookCon_Service] : Game#1032184 Win Number: [36]
+03.09.13 10:54:43 >> [HookCon_Service] : Game#1032184 End
+03.09.13 10:55:12 >> [HookCon_Service] : Game#1032185 Start
+03.09.13 10:55:45 >> [HookCon_Service] : Game#1032185 Win Number: [4]
+03.09.13 10:55:46 >> [HookCon_Service] : Game#1032185 End
+03.09.13 10:56:15 >> [HookCon_Service] : Game#1032186 Start
+03.09.13 10:56:51 >> [HookCon_Service] : Game#1032186 Win Number: [24]
+03.09.13 10:56:52 >> [HookCon_Service] : Game#1032186 End
+03.09.13 10:57:21 >> [HookCon_Service] : Game#1032187 Start
+03.09.13 10:57:52 >> [HookCon_Service] : Game#1032187 Win Number: [21]
+03.09.13 10:57:52 >> [HookCon_Service] : Game#1032187 End
+03.09.13 10:58:20 >> [HookCon_Service] : Game#1032188 Start
+03.09.13 10:58:57 >> [HookCon_Service] : Game#1032188 Win Number: [27]
+03.09.13 10:58:58 >> [HookCon_Service] : Game#1032188 End
+03.09.13 10:59:26 >> [HookCon_Service] : Game#1032189 Start
+03.09.13 11:00:01 >> [HookCon_Service] : Game#1032189 Win Number: [33]
+03.09.13 11:00:02 >> [HookCon_Service] : Game#1032189 End
+03.09.13 11:00:31 >> [HookCon_Service] : Game#1032190 Start
+03.09.13 11:01:07 >> [HookCon_Service] : Game#1032190 Win Number: [34]
+03.09.13 11:01:07 >> [HookCon_Service] : Game#1032190 End
+03.09.13 11:01:37 >> [HookCon_Service] : Game#1032191 Start
+03.09.13 11:02:12 >> [HookCon_Service] : Game#1032191 Win Number: [4]
+03.09.13 11:02:13 >> [HookCon_Service] : Game#1032191 End
+03.09.13 11:02:42 >> [HookCon_Service] : Game#1032192 Start
+03.09.13 11:03:17 >> [HookCon_Service] : Game#1032192 Win Number: [3]
+03.09.13 11:03:18 >> [HookCon_Service] : Game#1032192 End
+03.09.13 11:03:46 >> [HookCon_Service] : Game#1032193 Start
+03.09.13 11:04:22 >> [HookCon_Service] : Game#1032193 Win Number: [16]
+03.09.13 11:04:23 >> [HookCon_Service] : Game#1032193 End
+03.09.13 11:04:49 >> [HookCon_Service] : Game#1032194 Start
+03.09.13 11:05:25 >> [HookCon_Service] : Game#1032194 Win Number: [21]
+03.09.13 11:05:26 >> [HookCon_Service] : Game#1032194 End
+03.09.13 11:05:54 >> [HookCon_Service] : Game#1032195 Start
+03.09.13 11:06:27 >> [HookCon_Service] : Game#1032195 Win Number: [24]
+03.09.13 11:06:28 >> [HookCon_Service] : Game#1032195 End
+03.09.13 11:06:55 >> [HookCon_Service] : Game#1032196 Start
+03.09.13 11:07:30 >> [HookCon_Service] : Game#1032196 Win Number: [26]
+03.09.13 11:07:30 >> [HookCon_Service] : Game#1032196 End
+03.09.13 11:08:00 >> [HookCon_Service] : Game#1032197 Start
+03.09.13 11:08:35 >> [HookCon_Service] : Game#1032197 Win Number: [6]
+03.09.13 11:08:36 >> [HookCon_Service] : Game#1032197 End
+03.09.13 11:09:04 >> [HookCon_Service] : Game#1032198 Start
+03.09.13 11:09:41 >> [HookCon_Service] : Game#1032198 Win Number: [18]
+03.09.13 11:09:42 >> [HookCon_Service] : Game#1032198 End
+03.09.13 11:10:11 >> [HookCon_Service] : Game#1032199 Start
+03.09.13 11:10:42 >> [HookCon_Service] : Game#1032199 Win Number: [12]
+03.09.13 11:10:43 >> [HookCon_Service] : Game#1032199 End
+03.09.13 11:11:12 >> [HookCon_Service] : Game#1032200 Start
+03.09.13 11:11:45 >> [HookCon_Service] : Game#1032200 Win Number: [10]
+03.09.13 11:11:46 >> [HookCon_Service] : Game#1032200 End
+03.09.13 11:12:15 >> [HookCon_Service] : Game#1032201 Start
+03.09.13 11:12:50 >> [HookCon_Service] : Game#1032201 Win Number: [27]
+03.09.13 11:12:50 >> [HookCon_Service] : Game#1032201 End
+03.09.13 11:13:18 >> [HookCon_Service] : Game#1032202 Start
+03.09.13 11:13:56 >> [HookCon_Service] : Game#1032202 Win Number: [22]
+03.09.13 11:13:57 >> [HookCon_Service] : Game#1032202 End
+03.09.13 11:14:25 >> [HookCon_Service] : Game#1032203 Start
+03.09.13 11:14:57 >> [HookCon_Service] : Game#1032203 Win Number: [23]
+03.09.13 11:14:58 >> [HookCon_Service] : Game#1032203 End
+03.09.13 11:15:25 >> [HookCon_Service] : Game#1032204 Start
+03.09.13 11:15:59 >> [HookCon_Service] : Game#1032204 Win Number: [2]
+03.09.13 11:15:59 >> [HookCon_Service] : Game#1032204 End
+03.09.13 11:16:27 >> [HookCon_Service] : Game#1032205 Start
+03.09.13 11:17:02 >> [HookCon_Service] : Game#1032205 Win Number: [12]
+03.09.13 11:17:03 >> [HookCon_Service] : Game#1032205 End
+03.09.13 11:17:30 >> [HookCon_Service] : Game#1032206 Start
+03.09.13 11:18:05 >> [HookCon_Service] : Game#1032206 Win Number: [26]
+03.09.13 11:18:06 >> [HookCon_Service] : Game#1032206 End
+03.09.13 11:18:35 >> [HookCon_Service] : Game#1032207 Start
+03.09.13 11:19:08 >> [HookCon_Service] : Game#1032207 Win Number: [12]
+03.09.13 11:19:08 >> [HookCon_Service] : Game#1032207 End
+03.09.13 11:19:37 >> [HookCon_Service] : Game#1032208 Start
+03.09.13 11:20:11 >> [HookCon_Service] : Game#1032208 Win Number: [8]
+03.09.13 11:20:12 >> [HookCon_Service] : Game#1032208 End
+03.09.13 11:20:41 >> [HookCon_Service] : Game#1032209 Start
+03.09.13 11:21:12 >> [HookCon_Service] : Game#1032209 Win Number: [1]
+03.09.13 11:21:13 >> [HookCon_Service] : Game#1032209 End
+03.09.13 11:21:42 >> [HookCon_Service] : Game#1032210 Start
+03.09.13 11:22:17 >> [HookCon_Service] : Game#1032210 Win Number: [3]
+03.09.13 11:22:18 >> [HookCon_Service] : Game#1032210 End
+03.09.13 11:22:46 >> [HookCon_Service] : Game#1032211 Start
+03.09.13 11:23:19 >> [HookCon_Service] : Game#1032211 Win Number: [20]
+03.09.13 11:23:20 >> [HookCon_Service] : Game#1032211 End
+03.09.13 11:23:48 >> [HookCon_Service] : Game#1032212 Start
+03.09.13 11:24:22 >> [HookCon_Service] : Game#1032212 Win Number: [17]
+03.09.13 11:24:22 >> [HookCon_Service] : Game#1032212 End
+03.09.13 11:24:51 >> [HookCon_Service] : Game#1032213 Start
+03.09.13 11:25:23 >> [HookCon_Service] : Game#1032213 Win Number: [31]
+03.09.13 11:25:24 >> [HookCon_Service] : Game#1032213 End
+03.09.13 11:25:52 >> [HookCon_Service] : Game#1032214 Start
+03.09.13 11:26:28 >> [HookCon_Service] : Game#1032214 Win Number: [22]
+03.09.13 11:26:28 >> [HookCon_Service] : Game#1032214 End
+03.09.13 11:26:56 >> [HookCon_Service] : Game#1032215 Start
+03.09.13 11:27:31 >> [HookCon_Service] : Game#1032215 Win Number: [23]
+03.09.13 11:27:32 >> [HookCon_Service] : Game#1032215 End
+03.09.13 11:28:00 >> [HookCon_Service] : Game#1032216 Start
+03.09.13 11:28:33 >> [HookCon_Service] : Game#1032216 Win Number: [15]
+03.09.13 11:28:33 >> [HookCon_Service] : Game#1032216 End
+03.09.13 11:29:02 >> [HookCon_Service] : Game#1032217 Start
+03.09.13 11:29:34 >> [HookCon_Service] : Game#1032217 Win Number: [8]
+03.09.13 11:29:35 >> [HookCon_Service] : Game#1032217 End
+03.09.13 11:30:04 >> [HookCon_Service] : Game#1032218 Start
+03.09.13 11:30:34 >> [HookCon_Service] : Game#1032218 Win Number: [24]
+03.09.13 11:30:34 >> [HookCon_Service] : Game#1032218 End
+03.09.13 11:31:03 >> [HookCon_Service] : Game#1032219 Start
+03.09.13 11:31:34 >> [HookCon_Service] : Game#1032219 Win Number: [13]
+03.09.13 11:31:35 >> [HookCon_Service] : Game#1032219 End
+03.09.13 11:32:05 >> [HookCon_Service] : Game#1032220 Start
+03.09.13 11:32:40 >> [HookCon_Service] : Game#1032220 Win Number: [26]
+03.09.13 11:32:40 >> [HookCon_Service] : Game#1032220 End
+03.09.13 11:33:07 >> [HookCon_Service] : Game#1032221 Start
+03.09.13 11:33:41 >> [HookCon_Service] : Game#1032221 Win Number: [12]
+03.09.13 11:33:42 >> [HookCon_Service] : Game#1032221 End
+03.09.13 11:34:10 >> [HookCon_Service] : Game#1032222 Start
+03.09.13 11:34:43 >> [HookCon_Service] : Game#1032222 Win Number: [13]
+03.09.13 11:34:43 >> [HookCon_Service] : Game#1032222 End
+03.09.13 11:35:12 >> [HookCon_Service] : Game#1032223 Start
+03.09.13 11:35:44 >> [HookCon_Service] : Game#1032223 Win Number: [31]
+03.09.13 11:35:45 >> [HookCon_Service] : Game#1032223 End
+03.09.13 11:36:14 >> [HookCon_Service] : Game#1032224 Start
+03.09.13 11:36:45 >> [HookCon_Service] : Game#1032224 Win Number: [21]
+03.09.13 11:36:45 >> [HookCon_Service] : Game#1032224 End
+03.09.13 11:37:15 >> [HookCon_Service] : Game#1032225 Start
+03.09.13 11:37:45 >> [HookCon_Service] : Game#1032225 Win Number: [17]
+03.09.13 11:37:45 >> [HookCon_Service] : Game#1032225 End
+03.09.13 11:38:12 >> [HookCon_Service] : Game#1032226 Start
+03.09.13 11:38:47 >> [HookCon_Service] : Game#1032226 Win Number: [27]
+03.09.13 11:38:48 >> [HookCon_Service] : Game#1032226 End
+03.09.13 11:39:17 >> [HookCon_Service] : Game#1032227 Start
+03.09.13 11:39:48 >> [HookCon_Service] : Game#1032227 Win Number: [11]
+03.09.13 11:39:48 >> [HookCon_Service] : Game#1032227 End
+03.09.13 11:40:15 >> [HookCon_Service] : Game#1032228 Start
+03.09.13 11:40:52 >> [HookCon_Service] : Game#1032228 Win Number: [28]
+03.09.13 11:40:52 >> [HookCon_Service] : Game#1032228 End
+03.09.13 11:41:21 >> [HookCon_Service] : Game#1032229 Start
+03.09.13 11:41:55 >> [HookCon_Service] : Game#1032229 Win Number: [10]
+03.09.13 11:41:56 >> [HookCon_Service] : Game#1032229 End
+03.09.13 11:42:26 >> [HookCon_Service] : Game#1032230 Start
+03.09.13 11:42:55 >> [HookCon_Service] : Game#1032230 Win Number: [5]
+03.09.13 11:42:55 >> [HookCon_Service] : Game#1032230 End
+03.09.13 11:43:23 >> [HookCon_Service] : Game#1032231 Start
+03.09.13 11:43:57 >> [HookCon_Service] : Game#1032231 Win Number: [30]
+03.09.13 11:43:57 >> [HookCon_Service] : Game#1032231 End
+03.09.13 11:44:25 >> [HookCon_Service] : Game#1032232 Start
+03.09.13 11:44:59 >> [HookCon_Service] : Game#1032232 Win Number: [11]
+03.09.13 11:44:59 >> [HookCon_Service] : Game#1032232 End
+03.09.13 11:45:28 >> [HookCon_Service] : Game#1032233 Start
+03.09.13 11:46:02 >> [HookCon_Service] : Game#1032233 Win Number: [15]
+03.09.13 11:46:02 >> [HookCon_Service] : Game#1032233 End
+03.09.13 11:46:29 >> [HookCon_Service] : Game#1032234 Start
+03.09.13 11:47:03 >> [HookCon_Service] : Game#1032234 Win Number: [6]
+03.09.13 11:47:03 >> [HookCon_Service] : Game#1032234 End
+03.09.13 11:47:32 >> [HookCon_Service] : Game#1032235 Start
+03.09.13 11:48:03 >> [HookCon_Service] : Game#1032235 Win Number: [34]
+03.09.13 11:48:04 >> [HookCon_Service] : Game#1032235 End
+03.09.13 11:48:33 >> [HookCon_Service] : Game#1032236 Start
+03.09.13 11:49:09 >> [HookCon_Service] : Game#1032236 Win Number: [8]
+03.09.13 11:49:09 >> [HookCon_Service] : Game#1032236 End
+03.09.13 11:49:38 >> [HookCon_Service] : Game#1032237 Start
+03.09.13 11:50:13 >> [HookCon_Service] : Game#1032237 Win Number: [33]
+03.09.13 11:50:13 >> [HookCon_Service] : Game#1032237 End
+03.09.13 11:50:42 >> [HookCon_Service] : Game#1032238 Start
+03.09.13 11:51:16 >> [HookCon_Service] : Game#1032238 Win Number: [5]
+03.09.13 11:51:16 >> [HookCon_Service] : Game#1032238 End
+03.09.13 11:51:44 >> [HookCon_Service] : Game#1032239 Start
+03.09.13 11:52:21 >> [HookCon_Service] : Game#1032239 Win Number: [34]
+03.09.13 11:52:22 >> [HookCon_Service] : Game#1032239 End
+03.09.13 11:52:52 >> [HookCon_Service] : Game#1032240 Start
+03.09.13 11:53:27 >> [HookCon_Service] : Game#1032240 Win Number: [11]
+03.09.13 11:53:27 >> [HookCon_Service] : Game#1032240 End
+03.09.13 11:53:56 >> [HookCon_Service] : Game#1032241 Start
+03.09.13 11:54:34 >> [HookCon_Service] : Game#1032241 Win Number: [34]
+03.09.13 11:54:35 >> [HookCon_Service] : Game#1032241 End
+03.09.13 11:55:03 >> [HookCon_Service] : Game#1032242 Start
+03.09.13 11:55:38 >> [HookCon_Service] : Game#1032242 Win Number: [13]
+03.09.13 11:55:38 >> [HookCon_Service] : Game#1032242 End
+03.09.13 11:56:07 >> [HookCon_Service] : Game#1032243 Start
+03.09.13 11:56:41 >> [HookCon_Service] : Game#1032243 Win Number: [18]
+03.09.13 11:56:42 >> [HookCon_Service] : Game#1032243 End
+03.09.13 11:57:09 >> [HookCon_Service] : Game#1032244 Start
+03.09.13 11:57:42 >> [HookCon_Service] : Game#1032244 Win Number: [29]
+03.09.13 11:58:11 >> [HookCon_Service] : Game#1032245 Start
+03.09.13 11:58:46 >> [HookCon_Service] : Game#1032245 Win Number: [19]
+03.09.13 11:58:47 >> [HookCon_Service] : Game#1032245 End
+03.09.13 11:59:15 >> [HookCon_Service] : Game#1032246 Start
+03.09.13 11:59:47 >> [HookCon_Service] : Game#1032246 Win Number: [22]
+03.09.13 11:59:47 >> [HookCon_Service] : Game#1032246 End

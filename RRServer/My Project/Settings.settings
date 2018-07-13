@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="mdbUser" Type="System.String" Scope="User">
+      <Value Profile="(Default)">rserver</Value>
+    </Setting>
+    <Setting Name="mdbUserPass" Type="System.String" Scope="User">
+      <Value Profile="(Default)">slkjf;lrgkje095uKJHKjku7y837iKUJHGIDGF</Value>
+    </Setting>
+    <Setting Name="mdbAddr" Type="System.String" Scope="User">
+      <Value Profile="(Default)">RSERVER\RSERVERSQL</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

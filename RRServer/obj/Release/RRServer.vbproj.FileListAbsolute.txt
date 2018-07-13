@@ -1,0 +1,108 @@
+C:\Users\Evgen\Documents\Visual Studio 2008\Projects\RRServer\RRServer\bin\Release\RRServer.exe
+C:\Users\Evgen\Documents\Visual Studio 2008\Projects\RRServer\RRServer\bin\Release\RRServer.pdb
+C:\Users\Evgen\Documents\Visual Studio 2008\Projects\RRServer\RRServer\bin\Release\RRServer.xml
+C:\Users\Evgen\Documents\Visual Studio 2008\Projects\RRServer\RRServer\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Evgen\Documents\Visual Studio 2008\Projects\RRServer\RRServer\obj\Release\RRServer.FormServer.resources
+C:\Users\Evgen\Documents\Visual Studio 2008\Projects\RRServer\RRServer\obj\Release\RRServer.Resources.resources
+C:\Users\Evgen\Documents\Visual Studio 2008\Projects\RRServer\RRServer\obj\Release\RRServer.RRServerResources.resources
+C:\Users\Evgen\Documents\Visual Studio 2008\Projects\RRServer\RRServer\obj\Release\RRServer.vbproj.GenerateResource.Cache
+C:\Users\Evgen\Documents\Visual Studio 2008\Projects\RRServer\RRServer\obj\Release\RRServer.exe
+C:\Users\Evgen\Documents\Visual Studio 2008\Projects\RRServer\RRServer\obj\Release\RRServer.xml
+C:\Users\Evgen\Documents\Visual Studio 2008\Projects\RRServer\RRServer\obj\Release\RRServer.pdb
+K:\Technic\Develop\Sergey\Roulette\RRServer\RRServer\bin\Release\RRServer.exe
+K:\Technic\Develop\Sergey\Roulette\RRServer\RRServer\bin\Release\RRServer.pdb
+K:\Technic\Develop\Sergey\Roulette\RRServer\RRServer\bin\Release\RRServer.xml
+K:\Technic\Develop\Sergey\Roulette\RRServer\RRServer\obj\Release\ResolveAssemblyReference.cache
+K:\Technic\Develop\Sergey\Roulette\RRServer\RRServer\obj\Release\RRServer.FormServer.resources
+K:\Technic\Develop\Sergey\Roulette\RRServer\RRServer\obj\Release\RRServer.Resources.resources
+K:\Technic\Develop\Sergey\Roulette\RRServer\RRServer\obj\Release\RRServer.RRServerResources.resources
+K:\Technic\Develop\Sergey\Roulette\RRServer\RRServer\obj\Release\RRServer.vbproj.GenerateResource.Cache
+K:\Technic\Develop\Sergey\Roulette\RRServer\RRServer\obj\Release\RRServer.exe
+K:\Technic\Develop\Sergey\Roulette\RRServer\RRServer\obj\Release\RRServer.xml
+K:\Technic\Develop\Sergey\Roulette\RRServer\RRServer\obj\Release\RRServer.pdb
+K:\Technic\Develop\Sergey\Roulette\RRServer\RRServer\bin\Release\Winsock Orcas.dll
+K:\Technic\Develop\Sergey\Roulette\RRServer\RRServer\bin\Release\Winsock Orcas.pdb
+K:\Technic\Develop\Sergey\Roulette\RRServer\RRServer\bin\Release\Winsock Orcas.xml
+K:\Technic\Develop\Sergey\Roulette\RRServer\RRServer\obj\Release\RRServer.frmError.resources
+C:\Users\Evgen\Documents\Visual Studio 2008\Projects\Roulette\RRServer\RRServer\bin\Release\RRServer.exe
+C:\Users\Evgen\Documents\Visual Studio 2008\Projects\Roulette\RRServer\RRServer\bin\Release\RRServer.pdb
+C:\Users\Evgen\Documents\Visual Studio 2008\Projects\Roulette\RRServer\RRServer\bin\Release\RRServer.xml
+C:\Users\Evgen\Documents\Visual Studio 2008\Projects\Roulette\RRServer\RRServer\bin\Release\Winsock Orcas.dll
+C:\Users\Evgen\Documents\Visual Studio 2008\Projects\Roulette\RRServer\RRServer\bin\Release\Winsock Orcas.pdb
+C:\Users\Evgen\Documents\Visual Studio 2008\Projects\Roulette\RRServer\RRServer\bin\Release\Winsock Orcas.xml
+C:\Users\Evgen\Documents\Visual Studio 2008\Projects\Roulette\RRServer\RRServer\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Evgen\Documents\Visual Studio 2008\Projects\Roulette\RRServer\RRServer\obj\Release\RRServer.FormServer.resources
+C:\Users\Evgen\Documents\Visual Studio 2008\Projects\Roulette\RRServer\RRServer\obj\Release\RRServer.frmError.resources
+C:\Users\Evgen\Documents\Visual Studio 2008\Projects\Roulette\RRServer\RRServer\obj\Release\RRServer.Resources.resources
+C:\Users\Evgen\Documents\Visual Studio 2008\Projects\Roulette\RRServer\RRServer\obj\Release\RRServer.RRServerResources.resources
+C:\Users\Evgen\Documents\Visual Studio 2008\Projects\Roulette\RRServer\RRServer\obj\Release\RRServer.vbproj.GenerateResource.Cache
+C:\Users\Evgen\Documents\Visual Studio 2008\Projects\Roulette\RRServer\RRServer\obj\Release\RRServer.exe
+C:\Users\Evgen\Documents\Visual Studio 2008\Projects\Roulette\RRServer\RRServer\obj\Release\RRServer.xml
+C:\Users\Evgen\Documents\Visual Studio 2008\Projects\Roulette\RRServer\RRServer\obj\Release\RRServer.pdb
+D:\Documents and Settings\Admin\Рабочий стол\Work\Roulette\RRServer\RRServer\obj\Release\RRServer.exe
+D:\Documents and Settings\Admin\Рабочий стол\Work\Roulette\RRServer\RRServer\obj\Release\RRServer.xml
+D:\Documents and Settings\Admin\Рабочий стол\Work\Roulette\RRServer\RRServer\obj\Release\RRServer.pdb
+D:\Documents and Settings\Admin\Рабочий стол\Work\Roulette\RRServer\RRServer\bin\Release\RRServer.exe
+D:\Documents and Settings\Admin\Рабочий стол\Work\Roulette\RRServer\RRServer\bin\Release\RRServer.pdb
+D:\Documents and Settings\Admin\Рабочий стол\Work\Roulette\RRServer\RRServer\bin\Release\RRServer.xml
+D:\Documents and Settings\Admin\Рабочий стол\Work\Roulette\RRServer\RRServer\bin\Release\Winsock Orcas.dll
+D:\Documents and Settings\Admin\Рабочий стол\Work\Roulette\RRServer\RRServer\bin\Release\Winsock Orcas.xml
+D:\Documents and Settings\Admin\Рабочий стол\Work\Roulette\RRServer\RRServer\obj\Release\ResolveAssemblyReference.cache
+D:\Documents and Settings\Admin\Рабочий стол\Work\Roulette\RRServer\RRServer\obj\Release\RRServer.FormServer.resources
+D:\Documents and Settings\Admin\Рабочий стол\Work\Roulette\RRServer\RRServer\obj\Release\RRServer.frmError.resources
+D:\Documents and Settings\Admin\Рабочий стол\Work\Roulette\RRServer\RRServer\obj\Release\RRServer.Resources.resources
+D:\Documents and Settings\Admin\Рабочий стол\Work\Roulette\RRServer\RRServer\obj\Release\RRServer.RRServerResources.resources
+D:\Documents and Settings\Admin\Рабочий стол\Work\Roulette\RRServer\RRServer\obj\Release\RRServer.vbproj.GenerateResource.Cache
+D:\Documents and Settings\Admin\Рабочий стол\Work\Roulette\RRServer\RRServer\bin\Release\Winsock Orcas.pdb
+A:\Technic\Develop\Sergey\Roulette\RRServer\RRServer\obj\Release\RRServer.exe
+A:\Technic\Develop\Sergey\Roulette\RRServer\RRServer\obj\Release\RRServer.xml
+A:\Technic\Develop\Sergey\Roulette\RRServer\RRServer\obj\Release\RRServer.pdb
+A:\Technic\Develop\Sergey\Roulette\RRServer\RRServer\bin\Release\RRServer.exe
+A:\Technic\Develop\Sergey\Roulette\RRServer\RRServer\bin\Release\RRServer.pdb
+A:\Technic\Develop\Sergey\Roulette\RRServer\RRServer\bin\Release\RRServer.xml
+A:\Technic\Develop\Sergey\Roulette\RRServer\RRServer\bin\Release\Winsock Orcas.pdb
+A:\Technic\Develop\Sergey\Roulette\RRServer\RRServer\bin\Release\Winsock Orcas.xml
+A:\Technic\Develop\Sergey\Roulette\RRServer\RRServer\obj\Release\ResolveAssemblyReference.cache
+A:\Technic\Develop\Sergey\Roulette\RRServer\RRServer\obj\Release\RRServer.FormServer.resources
+A:\Technic\Develop\Sergey\Roulette\RRServer\RRServer\obj\Release\RRServer.frmError.resources
+A:\Technic\Develop\Sergey\Roulette\RRServer\RRServer\obj\Release\RRServer.Resources.resources
+A:\Technic\Develop\Sergey\Roulette\RRServer\RRServer\obj\Release\RRServer.RRServerResources.resources
+A:\Technic\Develop\Sergey\Roulette\RRServer\RRServer\obj\Release\RRServer.vbproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\RRServer\RRServer\bin\Release\RRServer.exe
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\RRServer\RRServer\bin\Release\RRServer.pdb
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\RRServer\RRServer\bin\Release\RRServer.xml
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\RRServer\RRServer\bin\Release\Winsock Orcas.dll
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\RRServer\RRServer\bin\Release\Winsock Orcas.xml
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\RRServer\RRServer\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\RRServer\RRServer\obj\Release\RRServer.FormServer.resources
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\RRServer\RRServer\obj\Release\RRServer.frmError.resources
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\RRServer\RRServer\obj\Release\RRServer.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\RRServer\RRServer\obj\Release\RRServer.RRServerResources.resources
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\RRServer\RRServer\obj\Release\RRServer.vbproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\RRServer\RRServer\obj\Release\RRServer.exe
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\RRServer\RRServer\obj\Release\RRServer.xml
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\RRServer\RRServer\obj\Release\RRServer.pdb
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\RRServer\RRServer\bin\Release\Winsock Orcas.pdb
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\RRServer\RRServer\bin\Release\RRServer.exe.config
+C:\Users\seriy-coder\Documents\Visual Studio 2008\Projects\RRServer\RRServer\bin\Release\RRServer.exe.config
+C:\Users\seriy-coder\Documents\Visual Studio 2008\Projects\RRServer\RRServer\obj\Release\RRServer.exe
+C:\Users\seriy-coder\Documents\Visual Studio 2008\Projects\RRServer\RRServer\obj\Release\RRServer.xml
+C:\Users\seriy-coder\Documents\Visual Studio 2008\Projects\RRServer\RRServer\obj\Release\RRServer.pdb
+H:\Projects\Mysterion Online\work\RRServer-beta1\RRServer\RRServer\bin\Release\RRServer.exe.config
+H:\Projects\Mysterion Online\work\RRServer-beta1\RRServer\RRServer\obj\Release\RRServer.exe
+H:\Projects\Mysterion Online\work\RRServer-beta1\RRServer\RRServer\obj\Release\RRServer.xml
+H:\Projects\Mysterion Online\work\RRServer-beta1\RRServer\RRServer\obj\Release\RRServer.pdb
+D:\PROJECT\RRServer-beta1\RRServer\RRServer\bin\Release\RRServer.exe.config
+D:\PROJECT\RRServer-beta1\RRServer\RRServer\obj\Release\RRServer.exe
+D:\PROJECT\RRServer-beta1\RRServer\RRServer\obj\Release\RRServer.xml
+D:\PROJECT\RRServer-beta1\RRServer\RRServer\obj\Release\RRServer.pdb
+D:\PROJECT\RRServer-beta1\RRServer\RRServer\bin\Release\RRServer.exe
+D:\PROJECT\RRServer-beta1\RRServer\RRServer\bin\Release\RRServer.pdb
+D:\PROJECT\RRServer-beta1\RRServer\RRServer\bin\Release\RRServer.xml
+D:\PROJECT\RRServer-beta1\RRServer\RRServer\bin\Release\Winsock Orcas.dll
+D:\PROJECT\RRServer-beta1\RRServer\RRServer\bin\Release\Winsock Orcas.pdb
+D:\PROJECT\RRServer-beta1\RRServer\RRServer\obj\Release\RRServer.FormServer.resources
+D:\PROJECT\RRServer-beta1\RRServer\RRServer\obj\Release\RRServer.frmError.resources
+D:\PROJECT\RRServer-beta1\RRServer\RRServer\obj\Release\RRServer.Resources.resources
+D:\PROJECT\RRServer-beta1\RRServer\RRServer\obj\Release\RRServer.RRServerResources.resources
+D:\PROJECT\RRServer-beta1\RRServer\RRServer\obj\Release\RRServer.vbproj.GenerateResource.Cache
